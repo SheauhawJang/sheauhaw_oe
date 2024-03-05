@@ -1,3 +1,34 @@
+10001101 = {
+	dynasty = 10001100
+	name="dynasty_name_10001101" # Kanmu Heishi (Takamune-Branch)
+	culture = yamato
+}
+10001250 = {
+	dynasty = 10001200
+	name="dynasty_name_10001250" # Murakami=Genji
+	culture = yamato
+}
+10001270 = {
+	dynasty = 10001200
+	name="dynasty_name_10001270" # Saga=Genji
+	culture = yamato
+}
+10001271 = {
+	dynasty = 10001200
+	name="dynasty_name_10001271" # Uda=Genji
+	culture = yamato
+}
+10001272={ 
+	dynasty = 10001200
+	name="dynasty_name_10001272" # Saga=Genji
+	culture = yamato
+}
+10005121={
+	dynasty = 10005120
+	name="dynasty_name_10005121"
+	culture = yamato
+}
+
 10006168	={
 	dynasty = 10001200
 	name=dynasty_name_10006168	# Owari=Yamada. Relative of Owari=Okada clan
@@ -443,7 +474,7 @@
 	#culture = western_chubu
 }
 10000260 = {
-	dynasty = 10001250
+	dynasty = 10001200 # 10001250
 	name=dynasty_name_10000260
 	culture = yamato
 	#culture = western_chubu
@@ -595,22 +626,22 @@
 	culture = yamato
 }
 10001251 = {
-	dynasty = 10001250
+	dynasty = 10001200 # 10001250
 	name="dynasty_name_10001251"
 	culture = yamato
 }
 10001253 = {
-	dynasty = 10001250
+	dynasty = 10001200 # 10001250
 	name="dynasty_name_10001253"
 	culture = yamato
 }
 10001254 = {
-	dynasty = 10001250
+	dynasty = 10001200 # 10001250
 	name="dynasty_name_10001254"
 	culture = yamato
 }
 10001255 = {
-	dynasty = 10001250
+	dynasty = 10001200 # 10001250
 	name="dynasty_name_10001255"
 	culture = yamato
 }

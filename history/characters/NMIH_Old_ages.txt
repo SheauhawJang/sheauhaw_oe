@@ -8765,7 +8765,8 @@
 	religion="shinto"
 	culture=yamato
 	trait="education_diplomacy_1"
-	trait="bastard"
+	#trait="bastard"
+	trait = sheauhaw_tenno_down_trait
 	310.1.1={
 		birth=yes
 	}
@@ -12064,7 +12065,8 @@
 	father=10243002 # 
 	religion="shinto"
 	culture=yamato
-	trait="bastard"
+	#trait="bastard"
+	trait = sheauhaw_tenno_down_trait
 	800.1.1={
 		birth=yes
 	}
@@ -12506,7 +12508,8 @@
 	father=10243504
 	religion="shinto"
 	culture=yamato
-	trait="bastard"
+	#trait="bastard"
+	trait = sheauhaw_tenno_down_trait
 	480.1.1={
 		birth=yes
 	}
@@ -16191,6 +16194,7 @@
 	father=11041003 # Yamato Sadayo
 	religion="shinto"
 	culture=yamato
+	trait = sheauhaw_tenno_down_trait
 	800.1.1={
 		birth=yes
 	}
@@ -16204,6 +16208,7 @@
 	father=11041003 # Yamato Sadayo
 	religion="shinto"
 	culture=yamato
+	trait = sheauhaw_tenno_down_trait
 	805.1.1={
 		birth=yes
 	}
@@ -16217,6 +16222,7 @@
 	father=11041003 # Yamato Sadayo
 	religion="shinto"
 	culture=yamato
+	trait = sheauhaw_tenno_down_trait
 	810.1.1={
 		birth=yes
 	}
@@ -16322,6 +16328,7 @@
 	father=11042000 # Yamato Abo
 	religion="shinto"
 	culture=yamato
+	trait = sheauhaw_tenno_down_trait
 	818.1.1={
 		birth=yes
 	}
@@ -16357,10 +16364,11 @@
 }
 11042010={
 	name=character_name_11042010 # Narihira
-	dynasty=10005121 # Ariwara
+	dynasty_house=10005121 # Ariwara
 	father=11042000 # Yamato Abo
 	religion="shinto"
 	culture=yamato
+	trait = sheauhaw_tenno_down_trait
 	825.1.1={
 		birth=yes
 	}
@@ -16370,7 +16378,7 @@
 }
 11042011={
 	name=character_name_11042011 # Munehari
-	dynasty=10005121 # Ariwara
+	dynasty_house=10005121 # Ariwara
 	father=11042010 # Ariwara Narihira
 	religion="shinto"
 	culture=yamato
@@ -16383,7 +16391,7 @@
 }
 11042012={
 	name=character_name_11042012 # Shigeharu
-	dynasty=10005121 # Ariwara
+	dynasty_house=10005121 # Ariwara
 	father=11042010 # Ariwara Narihira
 	religion="shinto"
 	culture=yamato
@@ -16396,7 +16404,7 @@
 }
 11042015={
 	name=character_name_11042015 # Motokata
-	dynasty=10005121 # Ariwara
+	dynasty_house=10005121 # Ariwara
 	father=11042011 # Ariwara Munehari
 	religion="shinto"
 	culture=yamato
@@ -16410,7 +16418,7 @@
 11042016={
 	name=character_name_11042016 # Jiju
 	female=yes
-	dynasty=10005121 # Ariwara
+	dynasty_house=10005121 # Ariwara
 	father=11042011 # Ariwara Munehari
 	religion="shinto"
 	culture=yamato

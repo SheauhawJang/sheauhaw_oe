@@ -17,7 +17,8 @@
 	religion="shinto"
 	culture=yamato
 	father=10120000
-	trait="bastard"
+	#trait="bastard"
+	trait = sheauhaw_tenno_down_trait
 	892.1.1={
 		birth=yes
 	}
@@ -5505,11 +5506,12 @@
 }
 10125001={
 	name=character_name_10125001 # Morofusa
-	dynasty=10001250 # Minamoto
+	dynasty_house=10001250 # Minamoto
 	father=10125000 # 
 	religion="shinto"
 	culture=yamato
-	trait="bastard"
+	#trait="bastard"
+	trait = sheauhaw_tenno_down_trait
 	1008.1.1={
 		birth=yes
 	}
@@ -5519,7 +5521,7 @@
 }
 10125010={
 	name=character_name_10125010 # Toshifusa
-	dynasty=10001250 # Minamoto
+	dynasty_house=10001250 # Minamoto
 	father=10125001 # 
 	mother=11000113 # 
 	religion="shinto"
@@ -5533,7 +5535,7 @@
 }
 10125011={
 	name=character_name_10125011 # Akifusa
-	dynasty=10001250 # Minamoto
+	dynasty_house=10001250 # Minamoto
 	father=10125001 # 
 	mother=11000113 # 
 	religion="shinto"
@@ -5547,7 +5549,7 @@
 }
 10125012={
 	name=character_name_10125012 # Ninkaku
-	dynasty=10001250 # Minamoto
+	dynasty_house=10001250 # Minamoto
 	father=10125001 # 
 	mother=11000113 # 
 	religion="shinto"
@@ -5568,7 +5570,7 @@
 }
 10125013={
 	name=character_name_10125013 # Morotada
-	dynasty=10001250 # Minamoto
+	dynasty_house=10001250 # Minamoto
 	father=10125001 # 
 	religion="shinto"
 	culture=yamato
@@ -5581,7 +5583,7 @@
 }
 10125014={
 	name=character_name_10125014 # Jikkaku
-	dynasty=10001250 # Minamoto
+	dynasty_house=10001250 # Minamoto
 	father=10125001 # 
 	religion="shinto"
 	culture=yamato
@@ -5601,7 +5603,7 @@
 }
 10125020={
 	name=character_name_10125020 # Masazane
-	dynasty=10001250 # Minamoto
+	dynasty_house=10001250 # Minamoto
 	father=10125010 # 
 	religion="shinto"
 	culture=yamato
@@ -5614,7 +5616,7 @@
 }
 10125021={
 	name=character_name_10125021 # Akinaka
-	dynasty=10001250 # Minamoto
+	dynasty_house=10001250 # Minamoto
 	father=10125010 # 
 	religion="shinto"
 	culture=yamato
@@ -5627,7 +5629,7 @@
 }
 10125022={
 	name=character_name_10125022 # Masatoshi
-	dynasty=10001250 # Minamoto
+	dynasty_house=10001250 # Minamoto
 	father=10125010 # 
 	religion="shinto"
 	culture=yamato
@@ -5640,7 +5642,7 @@
 }
 10125023={
 	name=character_name_10125023 # Kuninobu
-	dynasty=10001250 # Minamoto
+	dynasty_house=10001250 # Minamoto
 	father=10125010 # 
 	religion="shinto"
 	culture=yamato
@@ -5653,7 +5655,7 @@
 }
 10125024={
 	name=character_name_10125024 # Akimasa
-	dynasty=10001250 # Minamoto
+	dynasty_house=10001250 # Minamoto
 	father=10125010 # 
 	religion="shinto"
 	culture=yamato
@@ -5666,7 +5668,7 @@
 }
 10125025={
 	name=character_name_10125025 # Nobumasa
-	dynasty=10001250 # Minamoto
+	dynasty_house=10001250 # Minamoto
 	father=10125010 # 
 	religion="shinto"
 	culture=yamato
@@ -5679,7 +5681,7 @@
 }
 10125026={
 	name=character_name_10125026 # Masakane
-	dynasty=10001250 # Minamoto
+	dynasty_house=10001250 # Minamoto
 	father=10125010 # 
 	religion="shinto"
 	culture=yamato
@@ -5692,7 +5694,7 @@
 }
 10125027={
 	name=character_name_10125027 # Jokai
-	dynasty=10001250 # Minamoto
+	dynasty_house=10001250 # Minamoto
 	father=10125010 # 
 	religion="shinto"
 	culture=yamato
@@ -5712,7 +5714,7 @@
 }
 10125028={
 	name=character_name_10125028 # Ryukaku
-	dynasty=10001250 # Minamoto
+	dynasty_house=10001250 # Minamoto
 	father=10125010 # 
 	religion="shinto"
 	culture=yamato
@@ -5732,7 +5734,7 @@
 }
 10125040={
 	name=character_name_10125040 # Akimichi
-	dynasty=10001250 # Minamoto
+	dynasty_house=10001250 # Minamoto
 	father=10125020 # 
 	religion="shinto"
 	culture=yamato
@@ -5745,7 +5747,7 @@
 }
 10125041={
 	name=character_name_10125041 # Masasada
-	dynasty=10001250 # Minamoto
+	dynasty_house=10001250 # Minamoto
 	father=10125020 # 
 	religion="shinto"
 	culture=yamato
@@ -5758,7 +5760,7 @@
 }
 10125045={
 	name=character_name_10125045 # Masamichi
-	dynasty=10001250 # Minamoto
+	dynasty_house=10001250 # Minamoto
 	father=10125040 # 
 	religion="shinto"
 	culture=yamato
@@ -5771,7 +5773,7 @@
 }
 10125050={
 	name=character_name_10125050 # Gaen
-	dynasty=10001250 # Minamoto
+	dynasty_house=10001250 # Minamoto
 	father=10125045 # 
 	religion="shinto"
 	culture=yamato
@@ -5813,7 +5815,7 @@
 }
 10125052={
 	name=character_name_10125052 # Michisuke
-	dynasty=10001250 # Minamoto
+	dynasty_house=10001250 # Minamoto
 	father=10125045 # 
 	religion="shinto"
 	culture=yamato
@@ -5829,7 +5831,7 @@
 }
 10125053={
 	name=character_name_10125053 # Masahira
-	dynasty=10001250 # Minamoto
+	dynasty_house=10001250 # Minamoto
 	father=10125045 # 
 	religion="shinto"
 	culture=yamato
@@ -5845,7 +5847,7 @@
 }
 10125054={
 	name=character_name_10125054 # Michimochi
-	dynasty=10001250 # Minamoto
+	dynasty_house=10001250 # Minamoto
 	father=10125045 # 
 	religion="shinto"
 	culture=yamato
@@ -5861,7 +5863,7 @@
 }
 10125055={
 	name=character_name_10125055 # Myoga
-	dynasty=10001250 # Minamoto
+	dynasty_house=10001250 # Minamoto
 	father=10125045 # 
 	religion="shinto"
 	culture=yamato
@@ -5986,7 +5988,7 @@
 }
 10125070={
 	name=character_name_10125070 # Kanga
-	dynasty=10001250 # Minamoto
+	dynasty_house=10001250 # Minamoto
 	father=10125022 # 
 	religion="shinto"
 	culture=yamato
@@ -6006,7 +6008,7 @@
 }
 10125075={
 	name=character_name_10125075 # Shunkan
-	dynasty=10001250 # Minamoto
+	dynasty_house=10001250 # Minamoto
 	father=10125070 # 
 	religion="shinto"
 	culture=yamato
@@ -7277,11 +7279,12 @@
 }
 10127000={
 	name=character_name_10127000 # Toru
-	dynasty=10001270 # Minamoto
+	dynasty_house=10001270 # Minamoto
 	father=10041030 # 
 	religion="shinto"
 	culture=yamato
-	trait="bastard"
+	#trait="bastard"
+	trait = sheauhaw_tenno_down_trait
 	822.1.1={
 		birth=yes
 	}
@@ -7291,7 +7294,7 @@
 }
 10127001={
 	name=character_name_10127001 # Tatau
-	dynasty=10001270 # Minamoto
+	dynasty_house=10001270 # Minamoto
 	father=10127000 # 
 	religion="shinto"
 	culture=yamato
@@ -7304,7 +7307,7 @@
 }
 10127002={
 	name=character_name_10127002 # Noboru
-	dynasty=10001270 # Minamoto
+	dynasty_house=10001270 # Minamoto
 	father=10127000 # 
 	religion="shinto"
 	culture=yamato
@@ -7317,7 +7320,7 @@
 }
 10127010={
 	name=character_name_10127010 # Tsukau
-	dynasty=10001270 # Minamoto
+	dynasty_house=10001270 # Minamoto
 	father=10127002 # 
 	religion="shinto"
 	culture=yamato
@@ -7330,7 +7333,7 @@
 }
 10127015={
 	name=character_name_10127015 # Atsuru
-	dynasty=10001270 # Minamoto
+	dynasty_house=10001270 # Minamoto
 	father=10127010 # 
 	religion="shinto"
 	culture=yamato
@@ -7343,10 +7346,11 @@
 }
 10127050={
 	name=character_name_10127050 # Makoto
-	dynasty=10001272 # Minamoto
+	dynasty_house=10001272 # Minamoto
 	father=10041030 # Emperor Saga
 	religion="shinto"
 	culture=yamato
+	trait = sheauhaw_tenno_down_trait
 	810.1.1={
 		birth=yes
 	}
@@ -7356,7 +7360,7 @@
 }
 10127051={
 	name=character_name_10127051 # Hirashi
-	dynasty=10001272 # Minamoto
+	dynasty_house=10001272 # Minamoto
 	father=10127050 # Minamoto Makoto
 	religion="shinto"
 	culture=yamato
@@ -7369,7 +7373,7 @@
 }
 10127052={
 	name=character_name_10127052 # Tsutsushimu
-	dynasty=10001272 # Minamoto
+	dynasty_house=10001272 # Minamoto
 	father=10127050 # Minamoto Makoto
 	religion="shinto"
 	culture=yamato
@@ -7382,7 +7386,7 @@
 }
 10127053={
 	name=character_name_10127053 # Tamotsu
-	dynasty=10001272 # Minamoto
+	dynasty_house=10001272 # Minamoto
 	father=10127050 # Minamoto Makoto
 	religion="shinto"
 	culture=yamato
@@ -7395,7 +7399,7 @@
 }
 10127054={
 	name=character_name_10127054 # Yasushi
-	dynasty=10001272 # Minamoto
+	dynasty_house=10001272 # Minamoto
 	father=10127050 # Minamoto Makoto
 	religion="shinto"
 	culture=yamato
@@ -7408,7 +7412,7 @@
 }
 10127070={
 	name=character_name_10127070 # Mamoru
-	dynasty=10001272 # Minamoto
+	dynasty_house=10001272 # Minamoto
 	father=10127052 # Minamoto Tsutsushimu
 	religion="shinto"
 	culture=yamato
@@ -7421,7 +7425,7 @@
 }
 10127071={
 	name=character_name_10127071 # Tasuku
-	dynasty=10001272 # Minamoto
+	dynasty_house=10001272 # Minamoto
 	father=10127070 # Minamoto Mamoru
 	religion="shinto"
 	culture=yamato
@@ -7434,7 +7438,7 @@
 }
 10127072={
 	name=character_name_10127072 # Takashi
-	dynasty=10001272 # Minamoto
+	dynasty_house=10001272 # Minamoto
 	father=10127070 # Minamoto Mamoru
 	religion="shinto"
 	culture=yamato
@@ -7447,7 +7451,7 @@
 }
 10127073={
 	name=character_name_10127073 # Shigeru
-	dynasty=10001272 # Minamoto
+	dynasty_house=10001272 # Minamoto
 	father=10127070 # Minamoto Mamoru
 	religion="shinto"
 	culture=yamato
@@ -7461,7 +7465,7 @@
 10127074={
 	name=character_name_10127074 # Masako
 	female=yes
-	dynasty=10001272 # Minamoto
+	dynasty_house=10001272 # Minamoto
 	father=10127070 # Minamoto Mamoru
 	religion="shinto"
 	culture=yamato
@@ -7475,7 +7479,7 @@
 10127075={
 	name=character_name_10127075 # Akiko
 	female=yes
-	dynasty=10001272 # Minamoto
+	dynasty_house=10001272 # Minamoto
 	father=10127070 # Minamoto Mamoru
 	religion="shinto"
 	culture=yamato
@@ -7489,7 +7493,7 @@
 10127076={
 	name=character_name_10127076 # Sadako
 	female=yes
-	dynasty=10001272 # Minamoto
+	dynasty_house=10001272 # Minamoto
 	father=10127070 # Minamoto Mamoru
 	religion="shinto"
 	culture=yamato
@@ -7515,11 +7519,12 @@
 }
 10127101={
 	name=character_name_10127101 # Masazane
-	dynasty=10001271 # Minamoto
+	dynasty_house=10001271 # Minamoto
 	father=10127100 # 
 	religion="shinto"
 	culture=yamato
-	trait="bastard"
+	#trait="bastard"
+	trait = sheauhaw_tenno_down_trait
 	920.1.1={
 		birth=yes
 	}
@@ -7529,7 +7534,7 @@
 }
 10127105={
 	name=character_name_10127105 # Tokinaka
-	dynasty=10001271 # Minamoto
+	dynasty_house=10001271 # Minamoto
 	father=10127101 # 
 	religion="shinto"
 	culture=yamato
@@ -7542,7 +7547,7 @@
 }
 10127106={
 	name=character_name_10127106 # Sukenori
-	dynasty=10001271 # Minamoto
+	dynasty_house=10001271 # Minamoto
 	father=10127101 # 
 	religion="shinto"
 	culture=yamato
@@ -7556,7 +7561,7 @@
 10127107={
 	name=character_name_10127107 # Noriko
 	female=yes
-	dynasty=10001271 # Minamoto
+	dynasty_house=10001271 # Minamoto
 	father=10127101 # 
 	religion="shinto"
 	culture=yamato
@@ -7569,7 +7574,7 @@
 }
 10127108={
 	name=character_name_10127108 # Tokikata
-	dynasty=10001271 # Minamoto
+	dynasty_house=10001271 # Minamoto
 	father=10127101 # 
 	religion="shinto"
 	culture=yamato
@@ -7582,7 +7587,7 @@
 }
 10127110={
 	name=character_name_10127110 # Tsuneyori
-	dynasty=10001271 # Minamoto
+	dynasty_house=10001271 # Minamoto
 	father=10127106 # 
 	religion="shinto"
 	culture=yamato
@@ -7595,7 +7600,7 @@
 }
 10127115={
 	name=character_name_10127115 # Nakanobu
-	dynasty=10001271 # Minamoto
+	dynasty_house=10001271 # Minamoto
 	father=10127108 # 
 	religion="shinto"
 	culture=yamato
@@ -7608,7 +7613,7 @@
 }
 10127120={
 	name=character_name_10127120 # Nakayori
-	dynasty=10001271 # Minamoto
+	dynasty_house=10001271 # Minamoto
 	father=10127115 # 
 	religion="shinto"
 	culture=yamato
@@ -7621,7 +7626,7 @@
 }
 10127125={
 	name=character_name_10127125 # Nakamune
-	dynasty=10001271 # Minamoto
+	dynasty_house=10001271 # Minamoto
 	father=10127120 # 
 	religion="shinto"
 	culture=yamato
@@ -7634,7 +7639,7 @@
 }
 10127130={
 	name=character_name_10127130 # Nakachika
-	dynasty=10001271 # Minamoto
+	dynasty_house=10001271 # Minamoto
 	father=10127125 # 
 	religion="shinto"
 	culture=yamato
@@ -7647,7 +7652,7 @@
 }
 10127135={
 	name=character_name_10127135 # Mitsuto
-	dynasty=10001271 # Minamoto
+	dynasty_house=10001271 # Minamoto
 	father=10127130 # 
 	religion="shinto"
 	culture=yamato
@@ -7663,7 +7668,7 @@
 }
 10127140={
 	name=character_name_10127140 # Nakakuni
-	dynasty=10001271 # Minamoto
+	dynasty_house=10001271 # Minamoto
 	father=10127135 # 
 	religion="shinto"
 	culture=yamato
@@ -7679,7 +7684,7 @@
 }
 10127141={
 	name=character_name_10127141 # Nakaakira
-	dynasty=10001271 # Minamoto
+	dynasty_house=10001271 # Minamoto
 	father=10127135 # 
 	religion="shinto"
 	culture=yamato
@@ -7695,7 +7700,7 @@
 }
 10127142={
 	name=character_name_10127142 # Nakakane
-	dynasty=10001271 # Minamoto
+	dynasty_house=10001271 # Minamoto
 	father=10127135 # 
 	religion="shinto"
 	culture=yamato
