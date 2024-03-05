@@ -152,10 +152,10 @@
 	name="dynasty_name_10005120"
 	culture = yamato
 }
-
-
-
-
+10005121={
+	name="dynasty_name_10005121"
+	culture = yamato
+}
 10005800 = {
 	name="dynasty_name_10005800"
 	culture = yamato

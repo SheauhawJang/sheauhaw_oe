@@ -16,27 +16,27 @@
 
 
 
+10001250 = {
+	name="dynasty_name_10001250" # Murakami=Genji
+	culture = yamato
+}
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+10001270 = {
+	name="dynasty_name_10001270" # Saga=Genji
+	culture = yamato
+}
+10001271 = {
+	name="dynasty_name_10001271" # Uda=Genji
+	culture = yamato
+}
+10001272={ 
+	name="dynasty_name_10001272" # Saga=Genji
+	culture = yamato
+}
 10001290 = {
 	name="dynasty_name_10001290"
 	culture = yamato
