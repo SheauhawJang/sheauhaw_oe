@@ -4365,12 +4365,12 @@
 	religion="shinto"
 	culture=yamato
 	#trait="bastard"
-	trait = sheauhaw_tenno_down_trait
 	0435.1.1={
 		birth=yes
 	}
 	0455.1.1={
 		dynasty=10005011 # Aho
+		trait = sheauhaw_tenno_down_trait
 	}
 	0485.1.1={
 		death=yes

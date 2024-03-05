@@ -102,7 +102,6 @@ yinyang02 = {
 	trait = intellect_good_1
 	trait = qidaizhao
 	trait = biwa
-	trait = sheauhaw_tenno_down_trait
 	dna = asian_actor02
 	918.2.21 = {
 		birth = yes
@@ -110,6 +109,7 @@ yinyang02 = {
 	934.1.1 = {
 		trait = jushii_ge
 		dynasty = 10001200		# Minamoto
+		trait = sheauhaw_tenno_down_trait
 	}
 	974.1.1 = {
 		trait = jusanmi
@@ -131,13 +131,13 @@ yinyang03 = {
 	trait = charming
 	trait = rowdy
 	trait = witch
-	trait = sheauhaw_tenno_down_trait
 	dna = asian_actress02
 	922.1.1 = {
 		birth = yes
 	}
 	935.1.1 = {
 		dynasty = 10001200		# Minamoto
+		trait = sheauhaw_tenno_down_trait
 	}
 	955.1.1 = {
 		trait = education_intrigue_2

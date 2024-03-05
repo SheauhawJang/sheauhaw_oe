@@ -777,3 +777,7 @@
 	culture = yamato
 	#culture = western_hokuriku
 }
+10001252 = {
+	dynasty = 10001200
+	name = "dynasty_name_10001252"
+}
