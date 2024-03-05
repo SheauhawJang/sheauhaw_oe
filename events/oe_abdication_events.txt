@@ -1,0 +1,560 @@
+﻿namespace = abdication
+abdication.0001 = {
+	type = character_event
+	title = abdication.0001.t
+	desc = abdication.0001.desc
+	theme = realm
+	left_portrait = {
+		character = root
+		animation = stress
+	}
+	option = {
+		name = abdication.0001.a
+		custom_tooltip = abdicate_decision_effect_tt
+		trigger = {
+			NOR = {
+				highest_held_title_tier = tier_empire
+				has_title = title:d_gosho
+				has_title = title:d_incho
+			}
+		}
+		hidden_effect = {
+			depose = yes
+		}
+		dynasty = {
+			add_dynasty_prestige = minor_dynasty_prestige_loss
+		}
+		ai_chance = 0
+	}
+	option = {
+		#上皇
+		name = abdication.0001.a
+		custom_tooltip = abdicate_decision_effect_tt
+		trigger = {
+			highest_held_title_tier = tier_empire
+			culture = {
+				has_cultural_pillar = heritage_chinese
+			}
+		}
+		add_trait = shanghuang
+		hidden_effect = {
+			depose = yes
+		}
+		dynasty = {
+			add_dynasty_prestige = minor_dynasty_prestige_loss
+		}
+		ai_chance = {
+			modifier = {
+				add = 30
+				is_imprisoned = yes
+				is_oe_celestial_government_trigger = yes
+			}
+			modifier = {
+				add = 30
+				is_imprisoned = yes
+				is_at_war = yes
+			}
+			modifier = {
+				add = 30
+				is_imprisoned = yes
+				is_imprisoned_by = title:e_jurchen.holder
+			}
+		}
+	}
+	option = {
+		#上皇
+		name = abdication.0001.a
+		trigger = {
+			has_title = title:d_gosho
+			culture = {
+				has_cultural_pillar = heritage_yamato
+			}
+			dynasty = dynasty:10000420
+		}
+		custom_tooltip = abdicate_decision_effect_tt
+		add_trait = joko
+		create_title_and_vassal_change = {
+			type = granted
+			save_scope_as = change
+			add_claim_on_loss = no
+		}
+		if = {
+			limit = {
+				OR = {
+					has_title = title:d_incho
+					NOT = {
+						exists = title:d_incho.holder
+					}
+				}
+			}
+			title:d_incho = {
+				change_title_holder = {
+					holder = root
+					change = scope:change
+				}
+			}
+			hidden_effect = {
+				if = {
+					limit = {
+						OR = {
+							primary_title.tier >= tier_kingdom
+							primary_heir.highest_held_title_tier >= tier_kingdom
+						}
+					}
+					change_liege = {
+						liege = root.primary_heir
+						change = scope:change
+					}
+				}
+				else_if = {
+					limit = {
+						exists = liege
+						NOT = {
+							liege = root
+						}
+					}
+					change_liege = {
+						liege = root.liege
+						change = scope:change
+					}
+				}
+			}
+		}
+		hidden_effect = {
+			trigger_event = {
+				id = sheauhaw_religious.1010
+			}
+			depose = yes
+		}
+		add_pressed_claim = title:k_yamato
+		resolve_title_and_vassal_change = scope:change
+		dynasty = {
+			add_dynasty_prestige = minor_dynasty_prestige_loss
+		}
+		ai_chance = {
+			modifier = {
+				add = 20
+				age > 50
+			}
+			modifier = {
+				add = 20
+				any_child = {
+					count > 3
+					OR = {
+						AND = {
+							is_female = no
+							ROOT = {
+								OR = {
+									has_realm_law = male_only_law
+									has_realm_law = male_preference_law
+								}
+							}
+						}
+						ROOT = {
+							has_realm_law = equal_law
+						}
+						AND = {
+							is_female = yes
+							ROOT = {
+								OR = {
+									has_realm_law = female_only_law
+									has_realm_law = female_preference_law
+								}
+							}
+						}
+					}
+				}
+			}
+			modifier = {
+				add = 30
+				any_child = {
+					OR = {
+						AND = {
+							is_female = no
+							ROOT = {
+								OR = {
+									has_realm_law = male_only_law
+									has_realm_law = male_preference_law
+								}
+							}
+						}
+						ROOT = {
+							has_realm_law = equal_law
+						}
+						AND = {
+							is_female = yes
+							ROOT = {
+								OR = {
+									has_realm_law = female_only_law
+									has_realm_law = female_preference_law
+								}
+							}
+						}
+					}
+					any_child = {
+						count > 1
+						OR = {
+							AND = {
+								is_female = no
+								ROOT = {
+									OR = {
+										has_realm_law = male_only_law
+										has_realm_law = male_preference_law
+									}
+								}
+							}
+							ROOT = {
+								has_realm_law = equal_law
+							}
+							AND = {
+								is_female = yes
+								ROOT = {
+									OR = {
+										has_realm_law = female_only_law
+										has_realm_law = female_preference_law
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+			modifier = {
+				factor = 0
+				OR = {
+					has_strong_claim_on = title:k_yamato
+					has_title = title:k_yamato
+				}
+			}
+		}
+	}
+	# If Hindu or Buddhist, replace this option with one to become a monk for no renown loss
+	option = {
+		#法皇
+		name = abdication.0001.c
+		trigger = {
+			dynasty = dynasty:10000420
+			OR = {
+				has_title = title:d_gosho
+				has_title = title:d_incho
+			}
+			culture = {
+				has_cultural_pillar = heritage_yamato
+			}
+			OR = {
+				AND = {
+					exists = capital_province
+					capital_province.county.faith.religion = religion:buddhism_religion
+				}
+				faith.religion = religion:buddhism_religion
+			}
+			exists = primary_heir
+		}
+		every_held_title = {
+			limit = {
+				NOT = {
+					this = title:d_incho
+				}
+				NOT = {
+					this = root.capital_county
+				}
+			}
+			add_to_list = target_titles
+		}
+		capital_province.county.faith = {
+			save_scope_as = hoo_faith
+		}
+		create_title_and_vassal_change = {
+			type = granted
+			save_scope_as = change
+			add_claim_on_loss = no
+		}
+		create_title_and_vassal_change = {
+			type = granted
+			save_scope_as = retire
+			add_claim_on_loss = no
+		}
+		if = {
+			limit = {
+				OR = {
+					has_title = title:d_incho
+					NOT = {
+						exists = title:d_incho.holder
+					}
+				}
+				NOT = {
+					has_title = title:k_yamato
+				}
+				title:k_yamato.holder = {
+					is_ai = yes
+					culture = {
+						has_cultural_pillar = heritage_yamato
+					}
+					has_government = celestial_government
+				}
+				OR = {
+					NOT = {
+						title:k_yamato.holder = title:d_sekke.holder
+					}
+					NOT = {
+						mother.dynasty = title:k_yamato.holder.dynasty
+					}
+				}
+				any_held_title = {
+					tier = tier_county
+					NOT = {
+						this = root.capital_county
+					}
+				}
+			}
+			custom_tooltip = abdicate_decision_effect_tt
+			add_trait = hoo
+			title:d_incho = {
+				change_title_holder = {
+					holder = root
+					change = scope:change
+				}
+			}
+			title:k_yamato.holder = {
+				every_held_title = {
+					limit = {
+						tier >= tier_kingdom
+					}
+					add_to_list = yamato_titles
+				}
+			}
+			hidden_effect = {
+				every_in_list = {
+					list = target_titles
+					change_title_holder = {
+						holder = root.primary_heir
+						change = scope:retire
+					}
+				}
+				if = {
+					limit = {
+						root.highest_held_title_tier > root.primary_heir.highest_held_title_tier
+						title:k_yamato.holder.highest_held_title_tier > root.highest_held_title_tier
+					}
+					primary_heir = {
+						change_liege = {
+							liege = root
+							change = scope:retire
+						}
+					}
+				}
+			}
+			hidden_effect = {
+				setup_claim_cb = {
+					titles = yamato_titles
+					attacker = root
+					defender = title:k_yamato.holder
+					claimant = root
+					change = scope:change
+				}
+				resolve_title_and_vassal_change = scope:change
+				change_government = celestial_government
+			}
+			hidden_effect = {
+				trigger_event = {
+					id = sheauhaw_religious.1010
+				}
+				resolve_title_and_vassal_change = scope:retire
+			}
+		}
+		else = {
+			custom_tooltip = abdicate_decision_effect_tt
+			add_trait = hoo
+			if = {
+				limit = {
+					OR = {
+						has_title = title:d_incho
+						NOT = {
+							exists = title:d_incho.holder
+						}
+					}
+				}
+				title:d_incho = {
+					change_title_holder = {
+						holder = root
+						change = scope:change
+					}
+				}
+				hidden_effect = {
+					if = {
+						limit = {
+							OR = {
+								primary_title.tier >= tier_kingdom
+								primary_heir.highest_held_title_tier >= tier_kingdom
+							}
+						}
+						change_liege = {
+							liege = root.primary_heir
+							change = scope:change
+						}
+					}
+					else_if = {
+						limit = {
+							exists = liege
+							NOT = {
+								liege = root
+							}
+						}
+						change_liege = {
+							liege = root.liege
+							change = scope:change
+						}
+					}
+				}
+			}
+			hidden_effect = {
+				trigger_event = {
+					id = sheauhaw_religious.1010
+				}
+				depose = yes
+			}
+			add_pressed_claim = title:k_yamato
+			resolve_title_and_vassal_change = scope:change
+		}
+		if = {
+			limit = {
+				NOT = { faith.religion = religion:buddhism_religion }
+			}
+			set_character_faith = scope:hoo_faith
+		}
+		# add_trait = devoted	
+		ai_chance = {
+			modifier = {
+				add = 20
+				age > 50
+			}
+			modifier = {
+				add = 20
+				any_child = {
+					count > 3
+					OR = {
+						AND = {
+							is_female = no
+							ROOT = {
+								OR = {
+									has_realm_law = male_only_law
+									has_realm_law = male_preference_law
+								}
+							}
+						}
+						ROOT = {
+							has_realm_law = equal_law
+						}
+						AND = {
+							is_female = yes
+							ROOT = {
+								OR = {
+									has_realm_law = female_only_law
+									has_realm_law = female_preference_law
+								}
+							}
+						}
+					}
+				}
+			}
+			modifier = {
+				add = 30
+				any_child = {
+					OR = {
+						AND = {
+							is_female = no
+							ROOT = {
+								OR = {
+									has_realm_law = male_only_law
+									has_realm_law = male_preference_law
+								}
+							}
+						}
+						ROOT = {
+							has_realm_law = equal_law
+						}
+						AND = {
+							is_female = yes
+							ROOT = {
+								OR = {
+									has_realm_law = female_only_law
+									has_realm_law = female_preference_law
+								}
+							}
+						}
+					}
+					any_child = {
+						count > 1
+						OR = {
+							AND = {
+								is_female = no
+								ROOT = {
+									OR = {
+										has_realm_law = male_only_law
+										has_realm_law = male_preference_law
+									}
+								}
+							}
+							ROOT = {
+								has_realm_law = equal_law
+							}
+							AND = {
+								is_female = yes
+								ROOT = {
+									OR = {
+										has_realm_law = female_only_law
+										has_realm_law = female_preference_law
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+			modifier = {
+				factor = 0
+				OR = {
+					has_strong_claim_on = title:k_yamato
+					has_title = title:k_yamato
+				}
+				NAND = {
+					OR = {
+						has_title = title:d_incho
+						NOT = {
+							exists = title:d_incho.holder
+						}
+					}
+					NOT = {
+						has_title = title:k_yamato
+					}
+					title:k_yamato.holder = {
+						is_ai = yes
+						culture = {
+							has_cultural_pillar = heritage_yamato
+						}
+						has_government = celestial_government
+					}
+					OR = {
+						NOT = {
+							title:k_yamato.holder = title:d_sekke.holder
+						}
+						NOT = {
+							mother.dynasty = title:k_yamato.holder.dynasty
+						}
+					}
+					any_held_title = {
+						tier = tier_county
+						NOT = {
+							this = root.capital_county
+						}
+					}
+				}
+			}
+		}
+	}
+	option = {
+		name = abdication.0001.b
+		add_piety_no_experience = major_prestige_value
+		ai_chance = 0
+	}
+}

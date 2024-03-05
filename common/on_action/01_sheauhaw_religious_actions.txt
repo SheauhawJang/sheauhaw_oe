@@ -1,0 +1,50 @@
+﻿on_faith_monthly = {
+	events = {
+		sheauhaw_religious.1000
+		sheauhaw_religious.1001
+		sheauhaw_religious.1002
+		sheauhaw_religious.1003
+
+		sheauhaw_religious.1020
+		sheauhaw_religious.1021
+		sheauhaw_religious.1022
+		sheauhaw_religious.1023
+	}
+}
+
+on_death = {
+	events = {
+		sheauhaw_religious.1010
+	}
+}
+
+on_title_gain = {
+	events = {
+		sheauhaw_religious.1011
+	}
+}
+
+on_game_start = {
+	on_actions = {
+		on_sheauhaw_religious_start
+	}
+}
+
+
+on_sheauhaw_religious_start = {
+	effect = {
+		every_religion_global = {
+			every_faith = {
+				trigger_event = {
+					id = sheauhaw_religious.1000
+				}
+			}
+		}
+	}
+}
+
+on_birth_child = {
+	events = {
+		sheauhaw_religious.1024
+	}
+}

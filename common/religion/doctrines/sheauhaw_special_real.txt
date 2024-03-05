@@ -1,0 +1,38 @@
+﻿real_religious_heads_d_gosho = {
+	group = "special"
+
+	is_available_on_create = {
+		has_doctrine_parameter = maintains_head_of_faith_on_creation
+		has_doctrine = special_doctrine_real_religious_heads_d_gosho
+	}
+
+	special_doctrine_real_religious_heads_d_gosho = {
+		visible = no
+	}
+}
+
+real_religious_heads_d_tianshi = {
+	group = "special"
+
+	is_available_on_create = {
+		has_doctrine_parameter = maintains_head_of_faith_on_creation
+		has_doctrine = special_doctrine_real_religious_heads_d_tianshi
+	}
+
+	special_doctrine_real_religious_heads_d_tianshi = {
+		visible = no
+	}
+}
+
+real_religious_heads_d_confucius = {
+	group = "special"
+
+	is_available_on_create = {
+		has_doctrine_parameter = maintains_head_of_faith_on_creation
+		has_doctrine = special_doctrine_real_religious_heads_d_confucius
+	}
+
+	special_doctrine_real_religious_heads_d_confucius = {
+		visible = no
+	}
+}

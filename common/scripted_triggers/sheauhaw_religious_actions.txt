@@ -1,0 +1,34 @@
+can_create_head_of_faith_title_trigger = {
+	$FAITH$ = {
+		trigger_if = {
+			limit = {
+				has_doctrine_parameter = spiritual_head_of_faith
+			}
+			can_create_spiritual_head_of_faith_title_trigger = yes
+		}
+		trigger_else_if = {
+			limit = {
+				has_doctrine_parameter = temporal_head_of_faith
+			}
+			can_create_temporal_head_of_faith_title_trigger = yes
+		}
+		trigger_else = {
+			# We shouldn't hit this point, but if we do use the following as error messages.
+			has_doctrine_parameter = spiritual_head_of_faith
+			has_doctrine_parameter = temporal_head_of_faith
+		}
+		custom_tooltip = {
+			text = d_gosho_real_religious_head_title
+			NOT = { has_doctrine = special_doctrine_real_religious_heads_d_gosho }
+		}
+		custom_tooltip = {
+			text = d_tianshi_real_religious_head_title
+			NOT = { has_doctrine = special_doctrine_real_religious_heads_d_tianshi }
+		}
+		custom_tooltip = {
+			text = d_confucius_real_religious_head_title
+			NOT = { has_doctrine = special_doctrine_real_religious_heads_d_confucius }
+		}
+	}
+	can_afford_create_head_of_faith_title_cost_trigger = yes
+}

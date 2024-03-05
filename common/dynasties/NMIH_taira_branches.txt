@@ -1,0 +1,37 @@
+﻿10001100 = {
+	name="dynasty_name_10001100" # Kanmu Heishi (Takamochi-Branch)
+	culture = yamato
+}
+
+
+
+
+
+
+
+
+
+10001150 = {
+	name="dynasty_name_10001150"
+	culture = yamato
+}
+10001151 = {
+	name="dynasty_name_10001151"
+	culture = yamato
+}
+10001152 = {
+	name="dynasty_name_10001152"
+	culture = yamato
+}
+10001153 = {
+	name="dynasty_name_10001153"
+	culture = yamato
+}
+10001154 = {
+	name="dynasty_name_10001154"
+	culture = yamato
+}
+10001155 = {
+	name="dynasty_name_10001155"
+	culture = yamato
+}

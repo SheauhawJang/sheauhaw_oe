@@ -1,0 +1,820 @@
+10001101 = {
+	dynasty = 10001100
+	name="dynasty_name_10001101" # Kanmu Heishi (Takamune-Branch)
+	culture = yamato
+}
+10001250 = {
+	dynasty = 10001200
+	name="dynasty_name_10001250" # Murakami=Genji
+	culture = yamato
+}
+10001270 = {
+	dynasty = 10001200
+	name="dynasty_name_10001270" # Saga=Genji
+	culture = yamato
+}
+10001271 = {
+	dynasty = 10001200
+	name="dynasty_name_10001271" # Uda=Genji
+	culture = yamato
+}
+10001272={ 
+	dynasty = 10001200
+	name="dynasty_name_10001272" # Saga=Genji
+	culture = yamato
+}
+10005121={
+	dynasty = 10005120
+	name="dynasty_name_10005121"
+	culture = yamato
+}
+
+10006168	={
+	dynasty = 10001200
+	name=dynasty_name_10006168	# Owari=Yamada. Relative of Owari=Okada clan
+	culture=yamato
+	#culture=chubu
+}
+10006170	={
+	dynasty = 10001200
+	name=dynasty_name_10006170	# Owari=Kida
+	culture=yamato
+	#culture=chubu
+}
+10006178	={
+	dynasty = 10001200
+	name=dynasty_name_10006178	# Mino=Yamagata
+	culture=yamato
+	#culture=chubu
+}
+10006182={
+	dynasty = 10001200
+	name=dynasty_name_10006182
+	culture=yamato
+	#culture=kinai
+}
+10006183={
+	dynasty = 10001200
+	name=dynasty_name_10006183
+	culture=yamato
+	#culture=kinai
+}
+10007000={
+	dynasty = 10001200
+	name=dynasty_name_10007000
+	culture=yamato
+	#culture=kinai
+}
+10007006={
+	dynasty = 10001200
+	name=dynasty_name_10007006
+	culture=oshu
+	#culture=kanto
+}
+10007009={
+	dynasty = 10001100
+	name=dynasty_name_10007009 # Kazusa=Hei-shi
+	culture=oshu
+	#culture=kanto
+}
+10007010={
+	dynasty = 10001100
+	name=dynasty_name_10007010
+	culture=oshu
+	#culture=kanto
+}
+10007011={
+	dynasty = 10001100
+	name=dynasty_name_10007011 # Kazusa=Soma
+	culture=oshu
+	#culture=kanto
+}
+10007012={
+	dynasty = 10001100
+	name=dynasty_name_10007012
+	culture=oshu
+	#culture=kanto
+}
+10007013={
+	dynasty = 10001100
+	name=dynasty_name_10007013
+	culture=oshu
+	#culture=kanto
+}
+10007014={
+	dynasty = 10001100
+	name=dynasty_name_10007014
+	culture=oshu
+	#culture=kanto
+}
+10007015={
+	dynasty = 10001100
+	name=dynasty_name_10007015
+	culture=oshu
+	#culture=kanto
+}
+10007016={
+	dynasty = 10001100
+	name=dynasty_name_10007016
+	culture=oshu
+	#culture=kanto
+}
+10007017={
+	dynasty = 10001100
+	name=dynasty_name_10007017
+	culture=oshu
+	#culture=kanto
+}
+10007018={
+	dynasty = 10001100
+	name=dynasty_name_10007018
+	culture=oshu
+	#culture=kanto
+}
+10007022={
+	dynasty = 10001100
+	name=dynasty_name_10007022
+	culture=oshu
+	#culture=kanto
+}
+10007023={
+	dynasty = 10001100
+	name=dynasty_name_10007023
+	culture=oshu
+	#culture=kanto
+}
+10007024={
+	dynasty = 10001100
+	name=dynasty_name_10007024
+	culture=oshu
+	#culture=kanto
+}
+10007025={
+	dynasty = 10001100
+	name=dynasty_name_10007025
+	culture=oshu
+	#culture=kanto
+}
+10007026={
+	dynasty = 10001100
+	name=dynasty_name_10007026
+	culture=oshu
+	#culture=kanto
+}
+10007027={
+	dynasty = 10001100
+	name=dynasty_name_10007027
+	culture=oshu
+	#culture=kanto
+}
+10007028={
+	dynasty = 10001100
+	name=dynasty_name_10007028
+	culture=oshu
+	#culture=kanto
+}
+10007032={
+	dynasty = 10001100
+	name=dynasty_name_10007032
+	culture=oshu
+	#culture=kanto
+}
+10007033={
+	dynasty = 10001100
+	name=dynasty_name_10007033
+	culture=oshu
+	#culture=kanto
+}
+10007034={
+	dynasty = 10001100
+	name=dynasty_name_10007034
+	culture=oshu
+	#culture=kanto
+}
+10007035={
+	dynasty = 10001100
+	name=dynasty_name_10007035
+	culture=oshu
+	#culture=kanto
+}
+10007036={
+	dynasty = 10001100
+	name=dynasty_name_10007036
+	culture=oshu
+	#culture=kanto
+}
+10007037={
+	dynasty = 10001100
+	name=dynasty_name_10007037
+	culture=oshu
+	#culture=kanto
+}
+10007038={
+	dynasty = 10001100
+	name=dynasty_name_10007038
+	culture=oshu
+	#culture=kanto
+}
+10007039={
+	dynasty = 10001100
+	name=dynasty_name_10007039
+	culture=oshu
+	#culture=kanto
+}
+10007043={
+	dynasty = 10001100
+	name=dynasty_name_10007043
+	culture=oshu
+	#culture=kanto
+}
+10007044={
+	dynasty = 10001100
+	name=dynasty_name_10007044
+	culture=oshu
+	#culture=kanto
+}
+10007045={
+	dynasty = 10001100
+	name=dynasty_name_10007045
+	culture=oshu
+	#culture=kanto
+}
+10007060={
+	dynasty = 10005011
+	name=dynasty_name_10007060
+	culture=oshu
+	#culture=kanto
+}
+10007062={
+	dynasty = 10001100
+	name=dynasty_name_10007062
+	culture=oshu
+	#culture=kanto
+}
+10007063={
+	dynasty = 10001100
+	name=dynasty_name_10007063 #Sagami
+	culture=yamato
+	#culture = sanyo
+}
+10007064={
+	dynasty = 10001100
+	name=dynasty_name_10007064
+	culture=oshu
+	#culture=kanto
+}
+10007065={
+	dynasty = 10001100
+	name=dynasty_name_10007065
+	culture=oshu
+	#culture=kanto
+}
+10007066={
+	dynasty = 10001100
+	name=dynasty_name_10007066
+	culture=oshu
+	#culture=kanto
+}
+10007067={
+	dynasty = 10001100
+	name=dynasty_name_10007067
+	culture=oshu
+	#culture=kanto
+}
+10007068={
+	dynasty = 10001100
+	name=dynasty_name_10007068
+	culture=oshu
+	#culture=kanto
+}
+10007069={
+	dynasty = 10001100
+	name=dynasty_name_10007069
+	culture=oshu
+	#culture=kanto
+}
+10007070={
+	dynasty = 10001100
+	name=dynasty_name_10007070
+	culture=oshu
+	#culture=kanto
+}
+10007071={
+	dynasty = 10001100
+	name=dynasty_name_10007071
+	culture=oshu
+	#culture=kanto
+}
+10007073={
+	dynasty = 10001100
+	name=dynasty_name_10007073
+	culture=oshu
+	#culture=kanto
+}
+10007074={
+	dynasty = 10001100
+	name=dynasty_name_10007074
+	culture=oshu
+	#culture=kanto
+}
+10007075={
+	dynasty = 10001100
+	name=dynasty_name_10007075
+	culture=oshu
+	#culture=kanto
+}
+10007076={
+	dynasty = 10001100
+	name=dynasty_name_10007076
+	culture=oshu
+	#culture=kanto
+}
+10007077={
+	dynasty = 10001100
+	name=dynasty_name_10007077
+	culture=oshu
+	#culture=kanto
+}
+10007078={
+	dynasty = 10001100
+	name=dynasty_name_10007078
+	culture=oshu
+	#culture=kanto
+}
+10007079={
+	dynasty = 10001100
+	name=dynasty_name_10007079
+	culture=oshu
+	#culture=kanto
+}
+10007091={
+	dynasty = 10001100
+	name=dynasty_name_10007091
+	culture=oshu
+	#culture=kanto
+}
+10007093={
+	dynasty = 10001200
+	name=dynasty_name_10007093
+	culture=yamato
+	#culture = kanto
+}
+10007094={
+	dynasty = 10001200
+	name=dynasty_name_10007094
+	culture=yamato
+	#culture = kanto
+}
+10007095={
+	dynasty = 10001200
+	name=dynasty_name_10007095
+	culture=yamato
+	#culture = kanto
+}
+10007096={
+	dynasty = 10001200
+	name=dynasty_name_10007096
+	culture=yamato
+	#culture = kanto
+}
+10007097={
+	dynasty = 10001200
+	name=dynasty_name_10007097
+	culture=yamato
+	#culture = kanto
+}
+10007129 = {
+	dynasty = 10005082
+	name=dynasty_name_10007129
+	culture=yamato
+	#culture=shikoku
+}
+10007158 = {
+	dynasty = 10001100
+	name=dynasty_name_10007158
+	culture=yamato
+	#culture = kanto
+}
+10007159 = {
+	dynasty = 10001100
+	name=dynasty_name_10007159
+	culture=yamato
+	#culture = kanto
+}
+10007166={
+	dynasty = 10001100
+	name=dynasty_name_10007166
+	culture=oshu
+	#culture=kanto
+}
+10007206={
+	dynasty = 10001100
+	name=dynasty_name_10007206
+	culture=oshu
+	#culture=kanto
+}
+10007207={
+	dynasty = 10001100
+	name=dynasty_name_10007207
+	culture=oshu
+	#culture=kanto
+}
+10007275={
+	dynasty = 10001100
+	name=dynasty_name_10007275
+	culture=oshu
+	#culture=kanto
+}
+10007276={
+	dynasty = 10001100
+	name=dynasty_name_10007276
+	culture=oshu
+	#culture=kanto
+}
+10007277={
+	dynasty = 10001100
+	name=dynasty_name_10007277
+	culture=oshu
+	#culture=kanto
+}
+10007279={
+	dynasty = 10001100
+	name=dynasty_name_10007279
+	culture=oshu
+	#culture=kanto
+}
+10007280={
+	dynasty = 10001200
+	name=dynasty_name_10007280
+	culture=oshu
+	#culture=kanto
+}
+10007281={
+	dynasty = 10001200
+	name=dynasty_name_10007281
+	culture=oshu
+	#culture=kanto
+}
+10007329={
+	dynasty = 10001200
+	name=dynasty_name_10007329
+	culture=yamato
+	#culture=kinai
+}
+10007333={
+	dynasty = 10001100
+	name=dynasty_name_10007333
+	culture=oshu
+	#culture=kanto
+}
+10000253 = {
+	dynasty = 10001200
+	name=dynasty_name_10000253
+	culture = yamato
+	#culture = western_chubu
+}
+10000260 = {
+	dynasty = 10001200 # 10001250
+	name=dynasty_name_10000260
+	culture = yamato
+	#culture = western_chubu
+}
+10000275 = {
+	dynasty = 10001100
+	name=dynasty_name_10000275
+	culture = yamato
+	#culture = western_chubu
+}
+10000279 = {
+	dynasty = 10001200
+	name=dynasty_name_10000279
+	culture = yamato
+	#culture = western_chubu
+}
+10000289 = {
+	dynasty = 10001100
+	name=dynasty_name_10000289
+	culture = yamato
+	#culture = western_chubu
+}
+10000004 = {
+	dynasty = 10001200
+	name=dynasty_name_10000004
+	culture = yamato
+	#culture = dewa
+}
+10000007 = {
+	dynasty = 10001200
+	name=dynasty_name_10000007
+	culture = yamato
+	#culture = dewa
+}
+10000008 = {
+	dynasty = 10001200
+	name=dynasty_name_10000008
+	culture = yamato
+	#culture = dewa
+}
+10000009 = {
+	dynasty = 10001200
+	name=dynasty_name_10000009
+	culture = yamato
+	#culture = dewa
+}
+10000013={
+	dynasty = 10001200
+	name=dynasty_name_10000013
+	culture = yamato
+	#culture = dewa
+}
+10000014 = {
+	dynasty = 10001200
+	name=dynasty_name_10000014
+	culture = yamato
+	#culture = dewa
+}
+10000116 = {
+	dynasty = 10001100
+	name=dynasty_name_10000116
+	culture = yamato
+}
+10000119 = {
+	dynasty = 10001200
+	name=dynasty_name_10000119
+	culture = yamato
+}
+10000126 = {
+	dynasty = 10001100
+	name=dynasty_name_10000126 # Chiba-Hara
+	culture = yamato
+}
+10000134={
+	dynasty = 10001100
+	name=dynasty_name_10000134
+	culture = yamato
+}
+10000200 = {
+	dynasty = 10001200
+	name=dynasty_name_10000200
+	culture = yamato
+	#culture = koshin
+}
+10000226={
+	dynasty = 10001100
+	name=dynasty_name_10000226 # Kai=Oyamada
+	culture = yamato
+	#culture=koshin
+}
+10000400 = {
+	dynasty = 10001200
+	name="dynasty_name_10000400"
+	culture = yamato
+}
+10000444={
+	dynasty = 10001200
+	name="dynasty_name_10000444"
+	culture = yamato
+}
+10001201 = {
+	dynasty = 10001200
+	name="dynasty_name_10001201"
+	culture = yamato
+}
+10001202 = {
+	dynasty = 10001200
+	name="dynasty_name_10001202"
+	culture = yamato
+}
+10001203 = {
+	dynasty = 10001200
+	name="dynasty_name_10001203"
+	culture = yamato
+}
+10001204 = {
+	dynasty = 10001200
+	name="dynasty_name_10001204"
+	culture = yamato
+}
+10001205 = {
+	dynasty = 10001200
+	name="dynasty_name_10001205"
+	culture = yamato
+}
+10001206 = {
+	dynasty = 10001200
+	name="dynasty_name_10001206"
+	culture = yamato
+}
+10001220 = {
+	dynasty = 10001200
+	name="dynasty_name_10001220" # Seiwa Genji
+	culture = yamato
+}
+10001221 = {
+	dynasty = 10001200
+	name="dynasty_name_10001221" # Seiwa Genji
+	culture = yamato
+}
+10001222 = {
+	dynasty = 10001200
+	name="dynasty_name_10001222" # Seiwa Genji
+	culture = yamato
+}
+10001223 = {
+	dynasty = 10001200
+	name="dynasty_name_10001223" # Seiwa Genji
+	culture = yamato
+}
+10001251 = {
+	dynasty = 10001200 # 10001250
+	name="dynasty_name_10001251"
+	culture = yamato
+}
+10001253 = {
+	dynasty = 10001200 # 10001250
+	name="dynasty_name_10001253"
+	culture = yamato
+}
+10001254 = {
+	dynasty = 10001200 # 10001250
+	name="dynasty_name_10001254"
+	culture = yamato
+}
+10001255 = {
+	dynasty = 10001200 # 10001250
+	name="dynasty_name_10001255"
+	culture = yamato
+}
+10005061 = {
+	dynasty = 10005060
+	name="dynasty_name_10005061"
+	culture = yamato
+}
+10005083 = {
+	dynasty = 10005082
+	name="dynasty_name_10005083"
+	culture = yamato
+}
+10005012={
+	dynasty = 10005007
+	name="dynasty_name_10005012"
+	culture = yamato
+}
+10005013={
+	dynasty = 10005007
+	name="dynasty_name_10005013"
+	culture = yamato
+}
+10005014={
+	dynasty = 10005007
+	name="dynasty_name_10005014"
+	culture = yamato
+}
+10005015={
+	dynasty = 10005007
+	name="dynasty_name_10005015"
+	culture = yamato
+}
+10005016={
+	dynasty = 10005007
+	name="dynasty_name_10005016"
+	culture = yamato
+}
+10005017={
+	dynasty = 10005007
+	name="dynasty_name_10005017"
+	culture = yamato
+}
+10001102 = {
+	dynasty = 10001100
+	name="dynasty_name_10001102" # Kanmu Heishi (Shigemori-Branch)
+	culture = yamato
+}
+10001103 = {
+	dynasty = 10001100
+	name="dynasty_name_10001103" # Kanmu Heishi (Motomori-Branch)
+	culture = yamato
+}
+10001110 = {
+	dynasty = 10001100
+	name="dynasty_name_10001110" # 
+	culture = yamato
+}
+10001111 = {
+	dynasty = 10001100
+	name="dynasty_name_10001111"
+	culture = yamato
+}
+10001112 = {
+	dynasty = 10001100
+	name="dynasty_name_10001112"
+	culture = yamato
+}
+10000103 = {
+	dynasty = 10001100
+	name=dynasty_name_10000103
+	culture = oshu
+	#culture = northern_kanto
+}
+10000105 = {
+	dynasty = 10001100
+	name=dynasty_name_10000105
+	culture = oshu
+	#culture = northern_kanto
+}
+10000106 = {
+	dynasty = 10001100
+	name=dynasty_name_10000106
+	culture = oshu
+	#culture = northern_kanto
+}
+10000108 = {
+	dynasty = 10001200
+	name=dynasty_name_10000108
+	culture = oshu
+	#culture = northern_kanto
+}
+10000405 = {
+	dynasty = 10001200
+	name=dynasty_name_10000405
+	culture = yamato
+	#culture = northern_kinai
+}
+10000429 = {
+	dynasty = 10001200
+	name=dynasty_name_10000429
+	culture = yamato
+	#culture = northern_kinai
+}
+10000542 = {
+	dynasty = 10001100
+	name=dynasty_name_10000542 #Sagami
+	culture = yamato
+	#culture = sanyo
+}
+10000553 = {
+	dynasty = 10001200
+	name=dynasty_name_10000553 #Yamashiro?
+	culture = yamato
+	#culture = sanyo
+}
+10000623={
+	dynasty = 10001100
+	name=dynasty_name_10000623
+	#culture=southern_kyushu
+	culture = hayato
+}
+10000624={
+	dynasty = 10001100
+	name=dynasty_name_10000624
+	#culture=southern_kyushu
+	culture = hayato
+}
+10000061 = {
+	dynasty = 10001100
+	name=dynasty_name_10000061
+	culture = oshu
+	#culture = southern_oshu
+}
+10000067 = {
+	dynasty = 10001100
+	name=dynasty_name_10000067
+	culture = oshu
+	#culture = southern_oshu
+}
+10000070 = {
+	dynasty = 10001100
+	name=dynasty_name_10000070
+	culture = oshu
+	#culture = southern_oshu
+}
+10000072 = {
+	dynasty = 10001100
+	name=dynasty_name_10000072
+	culture = oshu
+	#culture = southern_oshu
+}
+10000081 = {
+	dynasty = 10001100
+	name=dynasty_name_10000081
+	culture = oshu
+	#culture = southern_oshu
+}
+10000085 = {
+	dynasty = 10001200
+	name=dynasty_name_10000085
+	culture = oshu
+	#culture = southern_oshu
+}
+10000246 = {
+	dynasty = 10001200
+	name=dynasty_name_10000246
+	culture = yamato
+	#culture = tokai
+}
+10000350 = {
+	dynasty = 10005060
+	name=dynasty_name_10000350
+	culture = yamato
+	#culture = western_hokuriku
+}

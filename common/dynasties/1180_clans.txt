@@ -1,0 +1,1872 @@
+﻿
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10006015 = {
+	name=dynasty_name_10006015
+	culture=oshu
+	#culture=kanto
+}
+10006016 = {
+	name=dynasty_name_10006016
+	culture=oshu
+	#culture=kanto
+}
+
+10006018 = {
+	name=dynasty_name_10006018
+	culture=yamato
+}
+
+10006020 = {
+	name=dynasty_name_10006020
+	culture=yamato
+}
+
+
+10006023 = {
+	name=dynasty_name_10006023
+	culture=yamato
+}
+10006024 = {
+	name=dynasty_name_10006024
+	culture=yamato
+}
+10006025 = {
+	name=dynasty_name_10006025	# Fujiwara Hidesato blanch, Hatano clan
+	culture=yamato
+}
+10006026 = {
+	name=dynasty_name_10006026
+	culture=yamato
+}
+
+
+10006030 = {
+	name=dynasty_name_10006030
+	culture=yamato
+}
+10006031 = {
+	name=dynasty_name_10006031
+	culture=yamato
+}
+10006032 = {
+	name=dynasty_name_10006032
+	culture=yamato
+}
+10006033 = {
+	name=dynasty_name_10006033
+	culture=yamato
+}
+
+10006035 = {
+	name=dynasty_name_10006035
+	culture=yamato
+}
+10006036 = {
+	name=dynasty_name_10006036
+	culture=yamato
+}
+10006037 = {
+	name=dynasty_name_10006037
+	culture=yamato
+}
+10006038 = {
+	name=dynasty_name_10006038
+	culture=yamato
+}
+10006040 = {
+	name=dynasty_name_10006040
+	culture=yamato
+}
+
+
+10006043 = {
+	name=dynasty_name_10006043
+	culture=yamato
+}
+
+
+
+10006047 = {
+	name=dynasty_name_10006047
+	culture=yamato
+}
+10006048 = {
+	name=dynasty_name_10006048
+	culture=yamato
+}
+10006049 = {
+	name=dynasty_name_10006049
+	culture=yamato
+}
+10006050 = {
+	name=dynasty_name_10006050
+	culture=yamato
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10006074={
+	name=dynasty_name_10006074
+	culture=yamato
+	#culture=chubu
+}
+10006075 = {
+	name=dynasty_name_10006075
+	culture=yamato
+}
+10006076 = {
+	name=dynasty_name_10006076
+	culture=yamato
+}
+
+
+
+
+
+
+
+
+
+
+
+10006088 = {
+	name=dynasty_name_10006088
+	culture=oshu
+	#culture=hokuriku
+}
+
+
+
+
+
+
+
+10006096 = {
+	name=dynasty_name_10006096
+	culture=oshu
+	#culture=hokuriku
+}
+
+10006098 = {
+	name=dynasty_name_10006098
+	culture=oshu
+	#culture=hokuriku
+}
+10006099 = {
+	name=dynasty_name_10006099
+	culture=oshu
+	#culture=hokuriku
+}
+10006100 = {
+	name=dynasty_name_10006100
+	culture=oshu
+	#culture=hokuriku
+}
+10006130 = {
+	name=dynasty_name_10006130
+	culture=oshu
+	#culture=hokuriku
+}
+10006101 = {
+	name=dynasty_name_10006101
+	culture=oshu
+	#culture=hokuriku
+}
+10006102 = {
+	name=dynasty_name_10006102
+	culture=oshu
+	#culture=hokuriku
+}
+10006103 = {
+	name=dynasty_name_10006103
+	culture=oshu
+	#culture=hokuriku
+}
+
+
+
+10006107 = {
+	name=dynasty_name_10006107
+	culture=oshu
+	#culture=hokuriku
+}
+
+
+
+
+
+
+
+
+
+
+
+10006119 = {
+	name=dynasty_name_10006119	# Fujiwara Yamakage blanch
+	culture=oshu
+	#culture=kanto
+}
+
+10006121 = {
+	name=dynasty_name_10006121	# Date blanch
+	culture=oshu
+	#culture=kanto
+}
+10006122 = {
+	name=dynasty_name_10006122	# Date, Tsukame blanch
+	culture=oshu
+	#culture=oshu
+}
+10006123 = {
+	name=dynasty_name_10006123	# Date blanch
+	culture=oshu
+	#culture=oshu
+}
+10006124 = {
+	name=dynasty_name_10006124	# Date blanch
+	culture=oshu
+	#culture=kanto
+}
+10006125 = {
+	name=dynasty_name_10006125	# Date blanch
+	culture=oshu
+	#culture=oshu
+}
+10006126 = {
+	name=dynasty_name_10006126	# Date blanch
+	culture=oshu
+	#culture=kanto
+}
+10006127 = {
+	name=dynasty_name_10006127	# Date blanch
+	culture=oshu
+	#culture=kanto
+}
+10006129 = {
+	name=dynasty_name_10006129	# Hojo blanch
+	culture=oshu
+	#culture=kanto
+}
+10006135 = {
+	name=dynasty_name_10006135
+	culture=yamato
+	#culture=koshin
+}
+10006136 = {
+	name=dynasty_name_10006136
+	culture=yamato
+	#culture=koshin
+}
+10006137 = {
+	name=dynasty_name_10006137
+	culture=yamato
+	#culture=kinai
+}
+10006138 = {
+	name=dynasty_name_10006138
+	culture=yamato
+	#culture=koshin
+}
+10006139 = {
+	name=dynasty_name_10006139
+	culture=yamato
+	#culture=koshin
+}
+10006140 = {
+	name=dynasty_name_10006140
+	culture=yamato
+	#culture=koshin
+}
+10006141={
+	name=dynasty_name_10006141
+	culture=oshu
+	#culture=oshu
+}
+10006142={
+	name=dynasty_name_10006142
+	culture=yamato
+	#culture=dewa
+}
+10006143={
+	name=dynasty_name_10006143
+	culture=yamato
+	#culture=dewa
+}
+10006144={
+	name=dynasty_name_10006144
+	culture=yamato
+	#culture=dewa
+}
+10006145={
+	name=dynasty_name_10006145
+	culture=yamato
+	#culture=dewa
+}
+10006146={
+	name=dynasty_name_10006146
+	culture=yamato
+	#culture=dewa
+}
+10006147={
+	name=dynasty_name_10006147 # Shinobu=Sato
+	culture=oshu
+	#culture=oshu
+}
+10006148={
+	name=dynasty_name_10006148 # Head of Natori=Kumano Shrine
+	culture=oshu
+	#culture=oshu
+}
+10006149={
+	name=dynasty_name_10006149
+	culture=oshu
+	#culture=oshu
+}
+10006150={
+	name=dynasty_name_10006150
+	culture=oshu
+	#culture=oshu
+}
+10006151={
+	name=dynasty_name_10006151
+	culture=oshu
+	#culture=oshu
+}
+10006152={
+	name=dynasty_name_10006152
+	culture=oshu
+	#culture=hokuriku
+}
+10006153={
+	name=dynasty_name_10006153
+	culture=oshu
+	#culture=hokuriku
+}
+10006154={
+	name=dynasty_name_10006154
+	culture=oshu
+	#culture=hokuriku
+}
+10006155={
+	name=dynasty_name_10006155
+	culture=oshu
+	#culture=hokuriku
+}
+10006156={
+	name=dynasty_name_10006156
+	culture=oshu
+	#culture=hokuriku
+}
+10006157={
+	name=dynasty_name_10006157
+	culture=oshu
+	#culture=hokuriku
+}
+10006158={
+	name=dynasty_name_10006158
+	culture=oshu
+	#culture=hokuriku
+}
+10006159={
+	name=dynasty_name_10006159
+	culture=yamato
+	#culture=koshin
+}
+10006160={
+	name=dynasty_name_10006160 # Branch of Echigo=Taira clan
+	culture=yamato
+	#culture=koshin
+}
+10006161={
+	name=dynasty_name_10006161
+	culture=yamato
+	#culture=koshin
+}
+10006162={
+	name=dynasty_name_10006162
+	culture=yamato
+	#culture=koshin
+}
+10006163={
+	name=dynasty_name_10006163
+	culture=yamato
+	#culture=koshin
+}
+10006164={
+	name=dynasty_name_10006164
+	culture=yamato
+	#culture=tokai
+}
+10006165={
+	name=dynasty_name_10006165
+	culture=yamato
+	#culture=tokai
+}
+10006166={
+	name=dynasty_name_10006166
+	culture=yamato
+	#culture=tokai
+}
+10006167={
+	name=dynasty_name_10006167	# Toki=Iga
+	culture=yamato
+	#culture=chubu
+}
+
+10006169={
+	name=dynasty_name_10006169	# Owari=Ajiki
+	culture=yamato
+	#culture=chubu
+}
+
+10006171	={
+	name=dynasty_name_10006171	# Owari=Inoue
+	culture=yamato
+	#culture=chubu
+}
+10006172	={
+	name=dynasty_name_10006172	# Owari=Narumi
+	culture=yamato
+	#culture=chubu
+}
+10006173	={
+	name=dynasty_name_10006173	# Owari=Nagashio
+	culture=yamato
+	#culture=chubu
+}
+10006174	={
+	name=dynasty_name_10006174	# Owari=Tachikida
+	culture=yamato
+	#culture=chubu
+}
+10006175	={
+	name=dynasty_name_10006175	# Owari=Hei-shi
+	culture=yamato
+	#culture=chubu
+}
+10006176	={
+	name=dynasty_name_10006176	# Ise=Tomida
+	culture=yamato
+	#culture=chubu
+}
+10006177	={
+	name=dynasty_name_10006177	# Ise=Inabe
+	culture=yamato
+	#culture=chubu
+}
+
+10006179	={
+	name=dynasty_name_10006179	# Wakasa=Nakahara
+	culture=yamato
+	#culture=kinai
+}
+10006180	={
+	name=dynasty_name_10006180 # Relative of Tanba=Akai clan
+	culture=yamato
+	#culture=kinai
+}
+10006181	={
+	name=dynasty_name_10006181
+	culture=yamato
+	#culture=kinai
+}
+
+
+10006184={
+	name=dynasty_name_10006184
+	culture=yamato
+	#culture=kinai
+}
+10006185={
+	name=dynasty_name_10006185
+	culture=yamato
+	#culture=kinai
+}
+
+10007001={
+	name=dynasty_name_10007001
+	culture=yamato
+	#culture=kinai
+}
+10007002={
+	name=dynasty_name_10007002
+	culture=yamato
+	#culture=kinai
+}
+10007003={
+	name=dynasty_name_10007003
+	culture=yamato
+	#culture=kinai
+}
+10007004={
+	name=dynasty_name_10007004
+	culture=oshu
+	#culture=kanto
+}
+10007005={
+	name=dynasty_name_10007005
+	culture=oshu
+	#culture=kanto
+}
+
+10007007={
+	name=dynasty_name_10007007
+	culture=oshu
+	#culture=kanto
+}
+10007008={
+	name=dynasty_name_10007008 # Hitachi=Tomura
+	culture=oshu
+	#culture=kanto
+}
+
+
+
+
+
+
+
+
+
+
+10007019={
+	name=dynasty_name_10007019 # Shimosa=Fujiwara
+	culture=oshu
+	#culture=kanto
+}
+10007020={
+	name=dynasty_name_10007020
+	culture=oshu
+	#culture=kanto
+}
+10007021={
+	name=dynasty_name_10007021
+	culture=oshu
+	#culture=kanto
+}
+
+
+
+
+
+
+
+
+10007030={
+	name=dynasty_name_10007030 # Relative of Ashikaga=Fujiwara clan (Probable)
+	culture=oshu
+	#culture=kanto
+}
+10007031={
+	name=dynasty_name_10007031
+	culture=oshu
+	#culture=kanto
+}
+
+
+
+
+
+
+
+
+10007040={
+	name=dynasty_name_10007040 # Musashi=Adachi
+	culture=oshu
+	#culture=kanto
+}
+10007041={
+	name=dynasty_name_10007041
+	culture=oshu
+	#culture=kanto
+}
+10007042={
+	name=dynasty_name_10007042
+	culture=oshu
+	#culture=kanto
+}
+
+
+
+10007046={
+	name=dynasty_name_10007046
+	culture=oshu
+	#culture=kanto
+}
+10007047={
+	name=dynasty_name_10007047
+	culture=oshu
+	#culture=kanto
+}
+10007048={
+	name=dynasty_name_10007048
+	culture=oshu
+	#culture=kanto
+}
+10007049={
+	name=dynasty_name_10007049
+	culture=oshu
+	#culture=kanto
+}
+10007050={
+	name=dynasty_name_10007050
+	culture=oshu
+	#culture=kanto
+}
+10007051={
+	name=dynasty_name_10007051
+	culture=oshu
+	#culture=kanto
+}
+10007052={
+	name=dynasty_name_10007052
+	culture=oshu
+	#culture=kanto
+}
+10007053={
+	name=dynasty_name_10007053
+	culture=oshu
+	#culture=kanto
+}
+10007054={
+	name=dynasty_name_10007054
+	culture=oshu
+	#culture=kanto
+}
+10007055={
+	name=dynasty_name_10007055
+	culture=oshu
+	#culture=kanto
+}
+10007056={
+	name=dynasty_name_10007056
+	culture=oshu
+	#culture=kanto
+}
+10007057={
+	name=dynasty_name_10007057
+	culture=oshu
+	#culture=kanto
+}
+10007058={
+	name=dynasty_name_10007058
+	culture=oshu
+	#culture=kanto
+}
+10007059={
+	name=dynasty_name_10007059
+	culture=oshu
+	#culture=kanto
+}
+
+10007061={
+	name=dynasty_name_10007061
+	culture=oshu
+	#culture=kanto
+}
+
+
+
+
+
+
+
+
+
+
+10007072={
+	name=dynasty_name_10007072
+	culture=oshu
+	#culture=kanto
+}
+
+
+
+
+
+
+
+10007080={
+	name=dynasty_name_10007080
+	culture=oshu
+	#culture=kanto
+}
+10007081={
+	name=dynasty_name_10007081
+	culture=oshu
+	#culture=kanto
+}
+10007082={
+	name=dynasty_name_10007082
+	culture=oshu
+	#culture=kanto
+}
+10007083={
+	name=dynasty_name_10007083
+	culture=oshu
+	#culture=kanto
+}
+10007084={
+	name=dynasty_name_10007084
+	culture=oshu
+	#culture=kanto
+}
+10007085={
+	name=dynasty_name_10007085
+	culture=oshu
+	#culture=kanto
+}
+10007086={
+	name=dynasty_name_10007086
+	culture=oshu
+	#culture=kanto
+}
+10007087={
+	name=dynasty_name_10007087
+	culture=oshu
+	#culture=kanto
+}
+10007088={
+	name=dynasty_name_10007088
+	culture=oshu
+	#culture=kanto
+}
+10007089={
+	name=dynasty_name_10007089
+	culture=oshu
+	#culture=kanto
+}
+10007090={
+	name=dynasty_name_10007090
+	culture=oshu
+	#culture=kanto
+}
+
+10007092={
+	name=dynasty_name_10007092
+	culture=oshu
+	#culture=kanto
+}
+
+
+
+
+
+10007098 = {
+	name=dynasty_name_10007098 # Uta-Gen-ji, Sasaki Blanch
+	culture=oshu
+	#culture="hokuriku"
+}
+10007099 = {
+	name=dynasty_name_10007099 # Honjo Sho Blanch
+	culture=oshu
+	#culture="hokuriku"
+}
+10007100 = {
+	name=dynasty_name_10007100 # Tajima=Taira
+	culture=yamato
+	#culture=sanin
+}
+10007101 = {
+	name=dynasty_name_10007101 # Branch of Owari clan
+	culture=yamato
+	#culture=sanin
+}
+10007102 = {
+	name=dynasty_name_10007102
+	culture=yamato
+	#culture=sanin
+}
+10007103 = {
+	name=dynasty_name_10007103 # Tajima=Adachi
+	culture=yamato
+	#culture=sanin
+}
+10007104 = {
+	name=dynasty_name_10007104
+	culture=yamato
+	#culture=sanin
+}
+10007105 = {
+	name=dynasty_name_10007105
+	culture=yamato
+	#culture=sanin
+}
+10007106 = {
+	name=dynasty_name_10007106 # Branch of Ki clan
+	culture=yamato
+	#culture=sanin
+}
+10007107 = {
+	name=dynasty_name_10007107 # Branch of Taira clan
+	culture=yamato
+	#culture=sanin
+}
+10007108 = {
+	name=dynasty_name_10007108
+	culture=yamato
+	#culture=sanin
+}
+10007109 = {
+	name=dynasty_name_10007109 # Branch of Ki clan
+	culture=yamato
+	#culture=sanin
+}
+10007110 = {
+	name=dynasty_name_10007110
+	culture=yamato
+	#culture=sanin
+}
+10007111 = {
+	name=dynasty_name_10007111
+	culture=yamato
+	#culture=sanyo
+}
+10007112 = {
+	name=dynasty_name_10007112
+	culture=yamato
+	#culture=sanyo
+}
+10007113 = {
+	name=dynasty_name_10007113
+	culture=yamato
+	#culture=sanyo
+}
+10007114 = {
+	name=dynasty_name_10007114
+	culture=yamato
+	#culture=sanyo
+}
+10007115 = {
+	name=dynasty_name_10007115
+	culture=yamato
+	#culture=chugoku
+}
+10007116 = {
+	name=dynasty_name_10007116 # Bingo=Tachibana
+	culture=yamato
+	#culture=chugoku
+}
+10007117 = {
+	name=dynasty_name_10007117 # Branch of Minamoto clan
+	culture=yamato
+	#culture=chugoku
+}
+10007118 = {
+	name=dynasty_name_10007118 # Relative of Miya clan (probable)
+	culture=yamato
+	#culture=chugoku
+}
+10007119 = {
+	name=dynasty_name_10007119 # Aki=Saeki
+	culture=yamato
+	#culture=chugoku
+}
+10007120 = {
+	name=dynasty_name_10007120 # Branch of Fujiwara clan (probable)
+	culture=yamato
+	#culture=chugoku
+}
+10007121 = {
+	name=dynasty_name_10007121
+	culture=yamato
+	#culture=chugoku
+}
+10007122 = {
+	name=dynasty_name_10007122
+	culture=yamato
+	#culture=chugoku
+}
+10007123 = {
+	name=dynasty_name_10007123 # Branch of Minamoto Clan
+	culture=yamato
+	#culture=chugoku
+}
+10007124 = {
+	name=dynasty_name_10007124 # Branch of Fujiwara clan
+	culture=yamato
+	#culture=chugoku
+}
+10007125 = {
+	name=dynasty_name_10007125
+	culture=yamato
+	#culture=chugoku
+}
+10007126 = {
+	name=dynasty_name_10007126 # Branch of Tachibana clan
+	culture=yamato
+	#culture=chugoku
+}
+10007127 = {
+	name=dynasty_name_10007127
+	culture=yamato
+	#culture=shikoku
+}
+10007128 = {
+	name=dynasty_name_10007128 # Branch of Fujiwara clan
+	culture=yamato
+	#culture=shikoku
+}
+
+10007130 = {
+	name=dynasty_name_10007130 # Branch of Ochi clan
+	culture=yamato
+	#culture=shikoku
+}
+10007131 = {
+	name=dynasty_name_10007131
+	culture=yamato
+	#culture=shikoku
+}
+10007132 = {
+	name=dynasty_name_10007132 # Iyo=Tachibana
+	culture=yamato
+	#culture=shikoku
+}
+10007133 = {
+	name=dynasty_name_10007133
+	culture=yamato
+	#culture=shikoku
+}
+10007134 = {
+	name=dynasty_name_10007134 # Tosa=Kondo
+	culture=yamato
+	#culture=shikoku
+}
+10007139 = {
+	name=dynasty_name_10007139 # Branch of Okura clan
+	culture=kyushu
+	#culture=kyushu
+}
+10007140 = {
+	name=dynasty_name_10007140 # Matsura=Abe
+	culture=kyushu
+	#culture=kyushu
+}
+10007141 = {
+	name=dynasty_name_10007141 # Branch of Okura clan
+	culture=kyushu
+	#culture=kyushu
+}
+10007142 = {
+	name=dynasty_name_10007142
+	culture=kyushu
+	#culture=kyushu
+}
+10007143 = {
+	name=dynasty_name_10007143
+	culture=kyushu
+	#culture=kyushu
+}
+10007144 = {
+	name=dynasty_name_10007144
+	culture=kyushu
+	#culture=kyushu
+}
+10007145 = {
+	name=dynasty_name_10007145
+	culture=kyushu
+	#culture=kyushu
+}
+10007146 = {
+	name=dynasty_name_10007146
+	culture=kyushu
+	#culture=kyushu
+}
+10007147 = {
+	name=dynasty_name_10007147
+	culture=kyushu
+	#culture=kyushu
+}
+10007148 = {
+	name=dynasty_name_10007148 # Branch of Okura clan
+	culture=kyushu
+	#culture=kyushu
+}
+10007149 = {
+	name=dynasty_name_10007149 # Hyuga=Kusakabe
+	culture=kyushu
+	#culture=kyushu
+}
+10007150 = {
+	name=dynasty_name_10007150 # Osumi=Tomo
+	culture=kyushu
+	#culture=kyushu
+}
+10007151 = {
+	name=dynasty_name_10007151
+	culture=kyushu
+	#culture=kyushu
+}
+10007152 = {
+	name=dynasty_name_10007152
+	culture=kyushu
+	#culture=kyushu
+}
+10007153 = {
+	name=dynasty_name_10007153
+	culture=kyushu
+	#culture=kyushu
+}
+10007154 = {
+	name=dynasty_name_10007154 # Satsuma=Taira
+	culture=kyushu
+	#culture=kyushu
+}
+
+10007156 = {
+	name=dynasty_name_10007156 # 
+	culture=yamato
+	#culture=sanyo
+}
+10007157 = {
+	name=dynasty_name_10007157
+	culture=yamato
+	#culture = tokai
+}
+
+
+10007160 = {
+	name=dynasty_name_10007160
+	culture=yamato
+	#culture = kanto
+}
+10007161 = {
+	name=dynasty_name_10007161
+	culture=yamato
+	#culture = koshin
+}
+10007162 = {
+	name=dynasty_name_10007162
+	culture=yamato
+	#culture = koshin
+}
+10007163 = {
+	name=dynasty_name_10007163
+	culture=yamato
+	#culture = koshin
+}
+10007164 = {
+	name=dynasty_name_10007164
+	culture=yamato
+	#culture = koshin
+}
+10007165 = {
+	name=dynasty_name_10007165
+	culture=yamato
+	#culture = koshin
+}
+
+10007167={
+	name=dynasty_name_10007167
+	culture=oshu
+	#culture=kanto
+}
+10007168={
+	name=dynasty_name_10007168
+	culture=oshu
+	#culture=kanto
+}
+10007169={
+	name=dynasty_name_10007169
+	culture=oshu
+	#culture=kanto
+}
+10007170={
+	name=dynasty_name_10007170
+	culture=yamato
+	#culture=aristocrats
+}
+10007171={
+	name=dynasty_name_10007171
+	culture=oshu
+	#culture=kanto
+}
+10007172={
+	name=dynasty_name_10007172
+	culture=oshu
+	#culture=kanto
+}
+10007173={
+	name=dynasty_name_10007173
+	culture=oshu
+	#culture=kanto
+}
+10007174={
+	name=dynasty_name_10007174
+	culture=oshu
+	#culture=kanto
+}
+10007175={
+	name=dynasty_name_10007175
+	culture=oshu
+	#culture=kanto
+}
+10007176={
+	name=dynasty_name_10007176
+	culture=oshu
+	#culture=kanto
+}
+10007177={
+	name=dynasty_name_10007177
+	culture=oshu
+	#culture=kanto
+}
+10007178={
+	name=dynasty_name_10007178
+	culture=oshu
+	#culture=kanto
+}
+10007179={
+	name=dynasty_name_10007179
+	culture=kyushu
+	#culture=kyushu
+}
+10007180={
+	name=dynasty_name_10007180
+	culture=kyushu
+	#culture=kyushu
+}
+10007181={
+	name=dynasty_name_10007181
+	culture=yamato
+	#culture = aristocrats
+}
+10007200 = {
+	name=dynasty_name_10007200 # Taira no Shigekuni
+	culture=yamato
+	#culture="chubu"
+}
+
+10007202={
+	name=dynasty_name_10007202
+	culture=yamato
+	#culture= oshu
+}
+10007203={
+	name=dynasty_name_10007203
+	culture=yamato
+	#culture= oshu
+}
+10007204={
+	name=dynasty_name_10007204
+	culture=oshu
+	#culture=oshu
+}
+10007205={
+	name=dynasty_name_10007205
+	culture=oshu
+	#culture=oshu
+}
+
+
+10007208={
+	name=dynasty_name_10007208
+	culture=yamato
+	#culture=koshin
+}
+10007209={
+	name=dynasty_name_10007209
+	culture=yamato
+	#culture=koshin
+}
+10007210={
+	name=dynasty_name_10007210
+	culture=yamato
+	#culture=koshin
+}
+10007211={
+	name=dynasty_name_10007211
+	culture=yamato
+	#culture=koshin
+}
+10007212={
+	name=dynasty_name_10007212
+	culture=yamato
+	#culture=tokai
+}
+10007213={
+	name=dynasty_name_10007213
+	culture=yamato
+	#culture=tokai
+}
+10007214={
+	name=dynasty_name_10007214
+	culture=yamato
+	#culture=tokai
+}
+10007215={
+	name=dynasty_name_10007215
+	culture=yamato
+	#culture=chubu
+}
+10007216={
+	name=dynasty_name_10007216
+	culture=yamato
+	#culture=chubu
+}
+10007217={
+	name=dynasty_name_10007217
+	culture=yamato
+	#culture=kinai
+}
+10007218={
+	name=dynasty_name_10007218
+	culture=yamato
+	#culture=kinai
+}
+10007219={
+	name=dynasty_name_10007219
+	culture=yamato
+	#culture=kinai
+}
+10007220={
+	name=dynasty_name_10007220
+	culture=yamato
+	#culture=kinai
+}
+10007221={
+	name=dynasty_name_10007221
+	culture=yamato
+	#culture=kinai
+}
+10007222={
+	name=dynasty_name_10007222
+	culture=yamato
+	#culture=kinai
+}
+10007223={
+	name=dynasty_name_10007223
+	culture=yamato
+	#culture=kinai
+}
+10007224={
+	name=dynasty_name_10007224
+	culture=yamato
+	#culture=kinai
+}
+10007225={
+	name=dynasty_name_10007225
+	culture=yamato
+	#culture=kinai
+}
+10007226={
+	name=dynasty_name_10007226
+	culture=yamato
+	#culture=kinai
+}
+10007227={
+	name=dynasty_name_10007227
+	culture=yamato
+	#culture=kinai
+}
+10007228={
+	name=dynasty_name_10007228
+	culture=yamato
+	#culture=kinai
+}
+10007229={
+	name=dynasty_name_10007229
+	culture=yamato
+	#culture=kinai
+}
+10007230={
+	name=dynasty_name_10007230
+	culture=yamato
+	#culture=kinai_buddhist
+}
+10007231={
+	name=dynasty_name_10007231
+	culture=yamato
+	#culture=kinai_buddhist
+}
+10007232={
+	name=dynasty_name_10007232
+	culture=yamato
+	#culture=kinai_buddhist
+}
+10007233={
+	name=dynasty_name_10007233
+	culture=yamato
+	#culture=kinai_buddhist
+}
+10007234={
+	name=dynasty_name_10007234
+	culture=yamato
+	#culture=kinai_buddhist
+}
+10007235={
+	name=dynasty_name_10007235
+	culture=yamato
+	#culture=kinai_buddhist
+}
+10007236={
+	name=dynasty_name_10007236
+	culture=yamato
+	#culture=sanin
+}
+10007237={
+	name=dynasty_name_10007237
+	culture=yamato
+	#culture=sanin
+}
+10007238={
+	name=dynasty_name_10007238
+	culture=yamato
+	#culture=sanyo
+}
+10007239={
+	name=dynasty_name_10007239
+	culture=yamato
+	#culture=sanyo
+}
+10007240={
+	name=dynasty_name_10007240
+	culture=yamato
+	#culture=chugoku
+}
+10007241={
+	name=dynasty_name_10007241
+	culture=yamato
+	#culture=chugoku
+}
+10007242={
+	name=dynasty_name_10007242
+	culture=yamato
+	#culture=shikoku
+}
+10007243={
+	name=dynasty_name_10007243
+	culture=yamato
+	#culture=shikoku
+}
+10007244={
+	name=dynasty_name_10007244
+	culture=yamato
+	#culture=shikoku
+}
+10007245={
+	name=dynasty_name_10007245
+	culture=yamato
+	#culture=shikoku
+}
+10007246={
+	name=dynasty_name_10007246
+	culture=kyushu
+	#culture=kyushu
+}
+10007247={
+	name=dynasty_name_10007247
+	culture=kyushu
+	#culture=kyushu
+}
+10007248={
+	name=dynasty_name_10007248
+	culture=kyushu
+	#culture=kyushu
+}
+10007249={
+	name=dynasty_name_10007249
+	culture=kyushu
+	#culture=kyushu
+}
+10007250={
+	name=dynasty_name_10007250
+	culture=kyushu
+	#culture=kyushu
+}
+10007251={
+	name=dynasty_name_10007251
+	culture=oshu
+	#culture=kanto
+}
+10007252={
+	name=dynasty_name_10007252
+	culture=ainu
+	#culture=oshu
+}
+10007253={
+	name=dynasty_name_10007253
+	culture=oshu
+	#culture=oshu
+}
+10007254={
+	name=dynasty_name_10007254
+	culture=oshu
+	#culture=oshu
+}
+10007255={
+	name=dynasty_name_10007255
+	culture=oshu
+	#culture=oshu
+}
+10007256={
+	name=dynasty_name_10007256
+	culture=oshu
+	#culture=oshu
+}
+10007257={
+	name=dynasty_name_10007257
+	culture=oshu
+	#culture=oshu
+}
+10007258={
+	name=dynasty_name_10007258
+	culture=oshu
+	#culture=oshu
+}
+10007259={
+	name=dynasty_name_10007259
+	culture=oshu
+	#culture=oshu
+}
+10007260={
+	name=dynasty_name_10007260
+	culture=yamato
+	#culture=tohoku_buddhist
+}
+10007261={
+	name=dynasty_name_10007261
+	culture=yamato
+	#culture=koshin
+}
+10007262={
+	name=dynasty_name_10007262
+	culture=yamato
+	#culture=koshin
+}
+10007263={
+	name=dynasty_name_10007263
+	culture=yamato
+	#culture=koshin
+}
+10007264={
+	name=dynasty_name_10007264
+	culture=yamato
+	#culture=koshin
+}
+10007265={
+	name=dynasty_name_10007265
+	culture=yamato
+	#culture=koshin
+}
+10007266={
+	name=dynasty_name_10007266
+	culture=yamato
+	#culture=koshin
+}
+10007267={
+	name=dynasty_name_10007267
+	culture=yamato
+	#culture=koshin
+}
+10007268={
+	name=dynasty_name_10007268
+	culture=yamato
+	#culture=koshin
+}
+10007269={
+	name=dynasty_name_10007269
+	culture=oshu
+	#culture=hokuriku
+}
+10007270={
+	name=dynasty_name_10007270
+	culture=oshu
+	#culture=hokuriku
+}
+10007271={
+	name=dynasty_name_10007271
+	culture=oshu
+	#culture=hokuriku
+}
+10007272={
+	name=dynasty_name_10007272
+	culture=oshu
+	#culture=hokuriku
+}
+10007273={
+	name=dynasty_name_10007273
+	culture=oshu
+	#culture=hokuriku
+}
+10007274={
+	name=dynasty_name_10007274
+	culture=oshu
+	#culture=hokuriku
+}
+
+
+
+10007278={
+	name=dynasty_name_10007278
+	culture=oshu
+	#culture=kanto
+}
+
+
+
+10007282={
+	name=dynasty_name_10007282
+	culture=oshu
+	#culture=kanto
+}
+10007283={
+	name=dynasty_name_10007283
+	culture=oshu
+	#culture=kanto
+}
+10007284={
+	name=dynasty_name_10007284
+	culture=yamato
+	#culture="koshin"
+}
+10007285={
+	name=dynasty_name_10007285
+	culture=yamato
+	#culture="sanin"
+}
+10007286={
+	name=dynasty_name_10007286
+	culture=yamato
+	#culture="sanin"
+}
+10007287={
+	name=dynasty_name_10007287
+	culture=yamato
+	#culture="sanin"
+}
+10007288={
+	name=dynasty_name_10007288
+	culture=yamato
+	#culture="sanin"
+}
+10007289={
+	name=dynasty_name_10007289
+	culture=yamato
+	#culture="sanin"
+}
+10007290={
+	name=dynasty_name_10007290
+	culture=yamato
+	#culture="sanin"
+}
+10007291={
+	name=dynasty_name_10007291
+	culture=yamato
+	#culture="sanin"
+}
+10007292={
+	name=dynasty_name_10007292
+	culture=oshu
+	#culture=oshu
+}
+10007293={
+	name=dynasty_name_10007293
+	culture=oshu
+	#culture=oshu
+}
+10007294={
+	name=dynasty_name_10007294
+	culture=yamato
+	#culture=tohoku_buddhist
+}
+10007295={
+	name=dynasty_name_10007295
+	culture=yamato
+	#culture=tohoku_buddhist
+}
+10007296={
+	name=dynasty_name_10007296
+	culture=oshu
+	#culture=kanto
+}
+10007297={
+	name=dynasty_name_10007297
+	culture=oshu
+	#culture=kanto
+}
+10007298={
+	name=dynasty_name_10007298
+	culture=oshu
+	#culture=kanto
+}
+10007299={
+	name=dynasty_name_10007299
+	culture=oshu
+	#culture=kanto_buddhist
+}
+10007300={
+	name=dynasty_name_10007300
+	culture=oshu
+	#culture=kanto_buddhist
+}
+10007301={
+	name=dynasty_name_10007301
+	culture=oshu
+	#culture=hokuriku
+}
+10007302={
+	name=dynasty_name_10007302
+	culture=oshu
+	#culture=hokuriku_buddhist
+}
+10007303={
+	name=dynasty_name_10007303
+	culture=yamato
+	#culture=koshin
+}
+10007304={
+	name=dynasty_name_10007304
+	culture=yamato
+	#culture=koshin
+}
+10007305={
+	name=dynasty_name_10007305
+	culture=yamato
+	#culture=koshin
+}
+10007306={
+	name=dynasty_name_10007306
+	culture=yamato
+	#culture=koshin
+}
+10007307={
+	name=dynasty_name_10007307
+	culture=yamato
+	#culture=koshin
+}
+10007308={
+	name=dynasty_name_10007308
+	culture=yamato
+	#culture=chubu
+}
+10007309={
+	name=dynasty_name_10007309
+	culture=yamato
+	#culture=chubu
+}
+10007310={
+	name=dynasty_name_10007310
+	culture=yamato
+	#culture=chubu
+}
+10007311={
+	name=dynasty_name_10007311
+	culture=yamato
+	#culture=chubu_buddhist
+}
+10007312={
+	name=dynasty_name_10007312
+	culture=yamato
+	#culture=kinai
+}
+10007313={
+	name=dynasty_name_10007313
+	culture=yamato
+	#culture=kinai
+}
+10007314={
+	name=dynasty_name_10007314
+	culture=yamato
+	#culture=kinai
+}
+10007315={
+	name=dynasty_name_10007315
+	culture=yamato
+	#culture=kinai
+}
+10007316={
+	name=dynasty_name_10007316
+	culture=yamato
+	#culture=kinai
+}
+10007317={
+	name=dynasty_name_10007317
+	culture=yamato
+	#culture=kinai
+}
+10007318={
+	name=dynasty_name_10007318
+	culture=yamato
+	#culture=kinai_buddhist
+}
+10007319={
+	name=dynasty_name_10007319
+	culture=yamato
+	#culture=kinai_buddhist
+}
+10007320={
+	name=dynasty_name_10007320
+	culture=yamato
+	#culture=kinai_buddhist
+}
+10007321={
+	name=dynasty_name_10007321
+	culture=yamato
+	#culture=dewa
+}
+10007322={
+	name=dynasty_name_10007322
+	culture=yamato
+	#culture=dewa
+}
+10007323={
+	name=dynasty_name_10007323
+	culture=oshu
+	#culture=oshu
+}
+10007324={
+	name=dynasty_name_10007324
+	culture=kyushu
+	#culture=kyushu
+}
+10007325={
+	name=dynasty_name_10007325
+	culture=yamato
+	#culture=chubu
+}
+10007326={
+	name=dynasty_name_10007326
+	culture=yamato
+	#culture="sanyo"
+}
+10007327={
+	name=dynasty_name_10007327
+	culture=yamato
+	#culture="sanyo"
+}
+10007328={
+	name=dynasty_name_10007328
+	culture=yamato
+}
+
+10007330={
+	name=dynasty_name_10007330
+	culture=yamato
+	#culture=kinai
+}
+10007331={
+	name=dynasty_name_10007331
+	culture=yamato
+	#culture=kinai
+}
+10007332={
+	name=dynasty_name_10007332
+	culture=yamato
+	#culture=kinai
+}
+
+10007334={
+	name=dynasty_name_10007334
+	culture=yamato
+	#culture=tokai
+}
+10007335={
+	name=dynasty_name_10007335
+	culture=yamato
+	#culture=sanyo
+}
+10007336={
+	name=dynasty_name_10007336
+	culture=yamato
+	#culture=sanyo
+}
+10007337={
+	name=dynasty_name_10007337
+	culture=yamato
+	#culture=chugoku
+}
+10007338={
+	name=dynasty_name_10007338
+	culture=kyushu
+	#culture=kyushu
+}
+10007339={
+	name=dynasty_name_10007339
+	culture=kyushu
+	#culture=kyushu
+}
+10007340={
+	name=dynasty_name_10007340
+	culture=kyushu
+	#culture=kyushu
+}
+10007341={
+	name=dynasty_name_10007341
+	culture=kyushu
+	#culture=kyushu
+}
+10007342={
+	name=dynasty_name_10007342
+	culture=kyushu
+	#culture=kyushu
+}
+10007343={
+	name=dynasty_name_10007343
+	culture=kyushu
+	#culture=kyushu
+}
+10007344={
+	name=dynasty_name_10007344
+	culture=kyushu
+	#culture=kyushu
+}
+10007345={
+	name=dynasty_name_10007345
+	culture=kyushu
+	#culture=kyushu
+}
+10007346={
+	name=dynasty_name_10007346
+	culture=kyushu
+	#culture=kyushu
+}
+10007347={
+	name=dynasty_name_10007347
+	culture=kyushu
+	#culture=kyushu
+}
+10007348={
+	name=dynasty_name_10007348
+	culture=kyushu
+	#culture=kyushu
+}
+10007349={
+	name=dynasty_name_10007349
+	culture=yamato
+	#culture=kinai
+}

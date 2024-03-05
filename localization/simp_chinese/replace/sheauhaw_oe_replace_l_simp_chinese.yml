@@ -1,0 +1,9 @@
+﻿l_simp_chinese:
+ e_nippon:0 "日本"
+
+ prince_han:0 "王子"
+ princess_han:0 "王女"
+
+  automatic_invite_to_court_interaction_dynasty_menber_will_get_tfm_tt:0 "如果[dynasty_menber_will_get.Custom('OE_GetShortUINameNoTooltip')]同意，你将[dynasty_menber_will_get_tfm.Custom('OE_GetShortUIName')]招募至你的[court|E]"
+  sheauhaw_courtier_dynasty_male_marry_tt:0 "[sheauhaw_courtier_dynasty_male_waiting.Custom('OE_GetShortUIName')|U]与#L 随机未婚女性#![marry|E]"
+  sheauhaw_courtier_dynasty_female_marry_tt:0 "[sheauhaw_courtier_dynasty_female_waiting.Custom('OE_GetShortUIName')|U]将与#L 随机未婚男性#!进行[matrilineally|E][marry|E]"
