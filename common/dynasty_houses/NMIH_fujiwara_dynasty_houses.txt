@@ -1,7 +1,8 @@
 ﻿10001300 = {
 	dynasty = 10001000
 	name = dynasty_name_10001300	# Oshu Fujiwara
-	motto = house_10001300_motto
+	culture = yamato
+	motto = dynn_10001300_motto
 }
 
 10006000 = {
@@ -12,71 +13,85 @@
 10006001 = {
 	dynasty = 10001000
 	name = dynasty_name_10006001	# Kudo blanch
+	culture = yamato
 }
 
 10006002 = {
 	dynasty = 10001000
 	name = dynasty_name_10006002	# Kudo, Irie blanch
+	culture = yamato
 }
 
 10006003 = {
 	dynasty = 10001000
 	name = dynasty_name_10006003	# Kudo, Irie blanch
+	culture = yamato
 }
 
 10006004 = {
 	dynasty = 10001000
 	name = dynasty_name_10006004	# Kudo, Irie, Hara blanch
+	culture = yamato
 }
 
 10006005 = {
 	dynasty = 10001000
 	name = dynasty_name_10006005	# Kudo, Irie, Hara blanch
+	culture = yamato
 }
 
 10006006 = {
 	dynasty = 10001000
 	name = dynasty_name_10006006
+	culture = yamato
 }
 
 10006007 = {
 	dynasty = 10001000
 	name = dynasty_name_10006007
+	culture = yamato
 }
 
 10006008 = {
 	dynasty = 10001000
 	name = dynasty_name_10006008
+	culture = yamato
 }
 
 10006009 = {
 	dynasty = 10001000
 	name = dynasty_name_10006009
+	culture = yamato
 }
 
 10006010 = {
 	dynasty = 10001000
 	name = dynasty_name_10006010
+	culture = yamato
 }
 
 10006011 = {
 	dynasty = 10001000
 	name = dynasty_name_10006011
+	culture = yamato
 }
 
 10006012 = {
 	dynasty = 10001000
 	name = dynasty_name_10006012
+	culture = yamato
 }
 
 10006013 = {
 	dynasty = 10001000
 	name = dynasty_name_10006013
+	culture = yamato
 }
 
 10006014 = {
 	dynasty = 10001000
 	name = dynasty_name_10006014
+	culture = yamato
 }
 
 10006017 = {
@@ -102,6 +117,7 @@
 10006028 = {
 	dynasty = 10001000
 	name = dynasty_name_10006028	# Fujiwara Hidesato blanch
+	culture = yamato
 }
 
 10006029 = {
@@ -142,126 +158,151 @@
 10006052 = {
 	dynasty = 10001000
 	name = dynasty_name_10006052
+	culture = yamato
 }
 
 10006053 = {
 	dynasty = 10001000
 	name = dynasty_name_10006053
+	culture = yamato
 }
 
 10006054 = {
 	dynasty = 10001000
 	name = dynasty_name_10006054
+	culture = yamato
 }
 
 10006055 = {
 	dynasty = 10001000
 	name = dynasty_name_10006055
+	culture = yamato
 }
 
 10006056 = {
 	dynasty = 10001000
 	name = dynasty_name_10006056
+	culture = yamato
 }
 
 10006057 = {
 	dynasty = 10001000
 	name = dynasty_name_10006057
+	culture = yamato
 }
 
 10006058 = {
 	dynasty = 10001000
 	name = dynasty_name_10006058
+	culture = yamato
 }
 
 10006059 = {
 	dynasty = 10001000
 	name = dynasty_name_10006059
+	culture = yamato
 }
 
 10006060 = {
 	dynasty = 10001000
 	name = dynasty_name_10006060
+	culture = yamato
 }
 
 10006061 = {
 	dynasty = 10001000
 	name = dynasty_name_10006061
+	culture = yamato
 }
 
 10006062 = {
 	dynasty = 10001000
 	name = dynasty_name_10006062
+	culture = yamato
 }
 
 10006063 = {
 	dynasty = 10001000
 	name = dynasty_name_10006063
+	culture = yamato
 }
 
 10006064 = {
 	dynasty = 10001000
 	name = dynasty_name_10006064
+	culture = yamato
 }
 
 10006065 = {
 	dynasty = 10001000
 	name = dynasty_name_10006065
+	culture = yamato
 }
 
 10006066 = {
 	dynasty = 10001000
 	name = dynasty_name_10006066
+	culture = yamato
 }
 
 10006067 = {
 	dynasty = 10001000
 	name = dynasty_name_10006067
+	culture = yamato
 }
 
 10006068 = {
 	dynasty = 10001000
 	name = dynasty_name_10006068
+	culture = yamato
 }
 
 10006069 = {
 	dynasty = 10001000
 	name = dynasty_name_10006069
+	culture = yamato
 }
 
 10006070 = {
 	dynasty = 10001000
 	name = dynasty_name_10006070
+	culture = yamato
 }
 
 10006071 = {
 	dynasty = 10001000
 	name = dynasty_name_10006071
+	culture = yamato
 }
 
 10006072 = {
 	dynasty = 10001000
 	name = dynasty_name_10006072
+	culture = yamato
 }
 
 10006073 = {
 	dynasty = 10001000
 	name = dynasty_name_10006073
+	culture = yamato
 }
 
 10006077 = {
 	dynasty = 10001000
 	name = dynasty_name_10006077
+	culture = yamato
 }
 
 10006078 = {
 	dynasty = 10001000
 	name = dynasty_name_10006078
+	culture = yamato
 }
 
 10006079 = {
 	dynasty = 10001000
 	name = dynasty_name_10006079
+	culture = yamato
 }
 
 10006080 = {
@@ -282,61 +323,73 @@
 10006083 = {
 	dynasty = 10001000
 	name = dynasty_name_10006083
+	culture = yamato
 }
 
 10006084 = {
 	dynasty = 10001000
 	name = dynasty_name_10006084
+	culture = yamato
 }
 
 10006085 = {
 	dynasty = 10001000
 	name = dynasty_name_10006085
+	culture = yamato
 }
 
 10006086 = {
 	dynasty = 10001000
 	name = dynasty_name_10006086
+	culture = yamato
 }
 
 10006087 = {
 	dynasty = 10001000
 	name = dynasty_name_10006087
+	culture = yamato
 }
 
 10006089 = {
 	dynasty = 10001000
 	name = dynasty_name_10006089
+	culture = yamato
 }
 
 10006090 = {
 	dynasty = 10001000
 	name = dynasty_name_10006090
+	culture = yamato
 }
 
 10006091 = {
 	dynasty = 10001000
 	name = dynasty_name_10006091
+	culture = yamato
 }
 
 10006092 = {
 	dynasty = 10001000
 	name = dynasty_name_10006092
+	culture = yamato
 }
 
 10006093 = {
 	dynasty = 10001000
 	name = dynasty_name_10006093
+	culture = yamato
 }
 
 10006094 = {
 	dynasty = 10001000
 	name = dynasty_name_10006094
+	culture = yamato
 }
 
 10006095 = {
 	dynasty = 10001000
 	name = dynasty_name_10006095
+	culture = yamato
 }
 
 10006097 = {
@@ -347,26 +400,31 @@
 10006104 = {
 	dynasty = 10001000
 	name = dynasty_name_10006104
+	culture = yamato
 }
 
 10006105 = {
 	dynasty = 10001000
 	name = dynasty_name_10006105
+	culture = yamato
 }
 
 10006106 = {
 	dynasty = 10001000
 	name = dynasty_name_10006106
+	culture = yamato
 }
 
 10006108 = {
 	dynasty = 10001000
 	name = dynasty_name_10006108
+	culture = yamato
 }
 
 10006109 = {
 	dynasty = 10001000
 	name = dynasty_name_10006109
+	culture = yamato
 }
 
 10006110 = {
@@ -377,51 +435,61 @@
 10006111 = {
 	dynasty = 10001000
 	name = dynasty_name_10006111
+	culture = yamato
 }
 
 10006112 = {
 	dynasty = 10001000
 	name = dynasty_name_10006112
+	culture = yamato
 }
 
 10006113 = {
 	dynasty = 10001000
 	name = dynasty_name_10006113
+	culture = yamato
 }
 
 10006114 = {
 	dynasty = 10001000
 	name = dynasty_name_10006114
+	culture = yamato
 }
 
 10006115 = {
 	dynasty = 10001000
 	name = dynasty_name_10006115
+	culture = yamato
 }
 
 10006116 = {
 	dynasty = 10001000
 	name = dynasty_name_10006116
+	culture = yamato
 }
 
 10006117 = {
 	dynasty = 10001000
 	name = dynasty_name_10006117
+	culture = yamato
 }
 
 10006118 = {
 	dynasty = 10001000
 	name = dynasty_name_10006118
+	culture = yamato
 }
 
 10006120 = {
 	dynasty = 10001000
 	name = dynasty_name_10006120	# Fujiwara Yamakage blanch
+	culture = yamato
 }
 
 10007029 = {
 	dynasty = 10001000
 	name = dynasty_name_10007029	# Relative of Ashikaga=Fujiwara clan (Probable)
+	culture = yamato
 }
 
 10007155 = {
@@ -584,6 +652,31 @@
 10001032 = {
 	dynasty = 10001000
 	name = "dynasty_name_10001032"
+}
+
+10001033 = {
+	dynasty = 10001000
+	name = dynasty_name_10001033
+}
+
+10001034 = {
+	dynasty = 10001000
+	name = dynasty_name_10001034
+}
+
+10001035 = {
+	dynasty = 10001000
+	name = dynasty_name_10001035
+}
+
+10001036 = {
+	dynasty = 10001000
+	name = dynasty_name_10001036
+}
+
+10001037 = {
+	dynasty = 10001000
+	name = dynasty_name_10001037
 }
 
 10001040 = {
@@ -754,3 +847,273 @@
 	dynasty = 10001000
 	name = dynasty_name_10000153
 }
+
+10006016 = {
+	dynasty = 10001000
+	name = dynasty_name_10006016
+	culture = yamato
+}
+
+10006030 = {
+	dynasty = 10001000
+	name = dynasty_name_10006030
+}
+
+10006031 = {
+	dynasty = 10001000
+	name = dynasty_name_10006031
+}
+
+10006036 = {
+	dynasty = 10001000
+	name = dynasty_name_10006036
+}
+
+10006037 = {
+	dynasty = 10001000
+	name = dynasty_name_10006037
+}
+
+10006038 = {
+	dynasty = 10001000
+	name = dynasty_name_10006038
+}
+
+10006123 = {
+	dynasty = 10001000
+	name = dynasty_name_10006123	# Date blanch
+	culture = yamato
+}
+
+10006124 = {
+	dynasty = 10001000
+	name = dynasty_name_10006124	# Date blanch
+	culture = yamato
+}
+
+10006125 = {
+	dynasty = 10001000
+	name = dynasty_name_10006125	# Date blanch
+	culture = yamato
+}
+
+10006126 = {
+	dynasty = 10001000
+	name = dynasty_name_10006126	# Date blanch
+	culture = yamato
+}
+
+10006127 = {
+	dynasty = 10001000
+	name = dynasty_name_10006127	# Date blanch
+	culture = yamato
+}
+
+10006147 = {
+	dynasty = 10001000
+	name = dynasty_name_10006147	# Shinobu=Sato
+	culture = yamato
+}
+
+10007004 = {
+	dynasty = 10001000
+	name = dynasty_name_10007004
+	culture = yamato
+}
+
+10007005 = {
+	dynasty = 10001000
+	name = dynasty_name_10007005
+	culture = yamato
+}
+
+10007007 = {
+	dynasty = 10001000
+	name = dynasty_name_10007007
+	culture = yamato
+}
+
+10007008 = {
+	dynasty = 10001000
+	name = dynasty_name_10007008	# Hitachi=Tomura
+	culture = yamato
+}
+
+10007030 = {
+	dynasty = 10001000
+	name = dynasty_name_10007030	# Relative of Ashikaga=Fujiwara clan (Probable)
+	culture = yamato
+}
+
+10007040 = {
+	dynasty = 10001000
+	name = dynasty_name_10007040	# Musashi=Adachi
+	culture = yamato
+}
+
+10007041 = {
+	dynasty = 10001000
+	name = dynasty_name_10007041
+	culture = yamato
+}
+
+10007204 = {
+	dynasty = 10001000
+	name = dynasty_name_10007204
+	culture = yamato
+}
+
+10007205 = {
+	dynasty = 10001000
+	name = dynasty_name_10007205
+	culture = yamato
+}
+
+10007259 = {
+	dynasty = 10001000
+	name = dynasty_name_10007259
+	culture = yamato
+}
+
+10007278 = {
+	dynasty = 10001000
+	name = dynasty_name_10007278
+	culture = yamato
+}
+
+10007282 = {
+	dynasty = 10001000
+	name = dynasty_name_10007282
+	culture = yamato
+}
+
+10007323 = {
+	dynasty = 10001000
+	name = dynasty_name_10007323
+	culture = yamato
+}
+
+10000006 = {
+	dynasty = 10001000
+	name = dynasty_name_10000006
+	culture = yamato
+	#culture = dewa
+}
+
+10000010 = {
+	dynasty = 10001000
+	name = dynasty_name_10000010
+	culture = yamato
+	#culture = dewa
+}
+
+10000101 = {
+	dynasty = 10001000
+	name = dynasty_name_10000101
+	culture = oshu
+	#culture = oshu
+}
+
+10000104 = {
+	dynasty = 10001000
+	name = dynasty_name_10000104
+	culture = oshu
+	#culture = oshu
+}
+
+10000109 = {
+	dynasty = 10001000
+	name = dynasty_name_10000109
+	culture = oshu
+	#culture = oshu
+}
+
+10000111 = {
+	dynasty = 10001000
+	name = dynasty_name_10000111
+	culture = oshu
+	#culture = oshu
+}
+
+10000112 = {
+	dynasty = 10001000
+	name = dynasty_name_10000112
+	culture = oshu
+	#culture = oshu
+}
+
+10000121 = {
+	dynasty = 10001000
+	name = dynasty_name_10000121
+	culture = oshu
+	#culture = oshu
+}
+
+10000670 = {
+	dynasty = 10001000
+	name = dynasty_name_10000670	# Kii-Utsunomiya
+	culture = kyushu
+	#culture = kyushu
+}
+
+10000034 = {
+	dynasty = 10001000
+	name = dynasty_name_10000034
+	culture = oshu
+}
+
+10000041 = {
+	dynasty = 10001000
+	name = dynasty_name_10000041
+	culture = oshu
+}
+
+10000064 = {
+	dynasty = 10001000
+	name = dynasty_name_10000064
+	culture = oshu
+	#culture = southern_oshu
+}
+
+10000068 = {
+	dynasty = 10001000
+	name = dynasty_name_10000068
+	culture = oshu
+	#culture = southern_oshu
+}
+
+10000080 = {
+	dynasty = 10001000
+	name = dynasty_name_10000080	# Fujiwara Hidesato blanch, Oyama Clan
+	culture = oshu
+	#culture = southern_oshu
+}
+
+10000082 = {
+	dynasty = 10001000
+	name = dynasty_name_10000082
+	culture = oshu
+	#culture = southern_oshu
+}
+
+10000086 = {
+	dynasty = 10001000
+	name = dynasty_name_10000086
+	culture = oshu
+	#culture = southern_oshu
+}
+
+10000087 = {
+	dynasty = 10001000
+	name = dynasty_name_10000087
+	culture = oshu
+	#culture = southern_oshu
+}
+
+10000088 = {
+	dynasty = 10001000
+	name = dynasty_name_10000088
+	culture = oshu
+	#culture = southern_oshu
+}
+
