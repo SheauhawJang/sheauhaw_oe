@@ -60,7 +60,7 @@
 	father=11040003 # Yamato Minu
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	trait = sheauhaw_tenno_down_trait
 	684.1.1={
 		birth=yes
@@ -75,7 +75,7 @@
 	father=11040010 # Tachibana Moroe
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	721.1.1={
 		birth=yes
 	}
@@ -89,7 +89,7 @@
 	father=11040011 # Tachibana Naramaro
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	739.1.1={
 		birth=yes
 	}
@@ -103,7 +103,7 @@
 	father=11040011 # Tachibana Naramaro
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	740.1.1={
 		birth=yes
 	}
@@ -117,7 +117,7 @@
 	father=11040011 # Tachibana Naramaro
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	742.1.1={
 		birth=yes
 	}
@@ -131,7 +131,7 @@
 	father=11040011 # Tachibana Naramaro
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	750.1.1={
 		birth=yes
 	}
@@ -145,7 +145,7 @@
 	father=11040011 # Tachibana Naramaro
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	758.1.1={
 		birth=yes
 	}
@@ -159,7 +159,7 @@
 	father=11040013 # Tachibana Shimadamaro
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	770.1.1={
 		birth=yes
 	}
@@ -173,7 +173,7 @@
 	father=11040013 # Tachibana Shimadamaro
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	779.1.1={
 		birth=yes
 	}
@@ -187,7 +187,7 @@
 	father=11040013 # Tachibana Shimadamaro
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	787.1.1={
 		birth=yes
 	}
@@ -201,7 +201,7 @@
 	father=11040020 # Tachibana Masaki
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	800.1.1={
 		birth=yes
 	}
@@ -215,7 +215,7 @@
 	father=11040025 # Tachibana Minenori
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	837.1.1={
 		birth=yes
 	}
@@ -229,7 +229,7 @@
 	father=11040030 # Tachibana Hiromi
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	870.1.1={
 		birth=yes
 	}
@@ -243,7 +243,7 @@
 	father=11040030 # Tachibana Hiromi
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	877.1.1={
 		birth=yes
 	}
@@ -257,7 +257,7 @@
 	father=11040032 # Tachibana Kimiyori
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	900.1.1={
 		birth=yes
 	}
@@ -271,7 +271,7 @@
 	father=11040031 # Tachibana Kimiki
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	893.1.1={
 		birth=yes
 	}
@@ -285,7 +285,7 @@
 	father=11040040 # Tachibana Yoshifuru
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	930.1.1={
 		birth=yes
 	}
@@ -299,7 +299,7 @@
 	father=11040040 # Tachibana Yoshifuru
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	935.1.1={
 		birth=yes
 	}
@@ -313,7 +313,7 @@
 	father=11040040 # Tachibana Yoshifuru
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	950.1.1={
 		birth=yes
 	}
@@ -327,7 +327,7 @@
 	father=11040042 # Tachibana Toshimasa
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	965.1.1={
 		birth=yes
 	}
@@ -347,7 +347,7 @@
 	father=11040042 # Tachibana Toshimasa
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	970.1.1={
 		birth=yes
 	}
@@ -361,7 +361,7 @@
 	father=11040042 # Tachibana Toshimasa
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	975.1.1={
 		birth=yes
 	}
@@ -376,7 +376,7 @@
 	mother=11041024 # Kiyohara Nagiko
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	982.1.1={
 		birth=yes
 	}
@@ -390,7 +390,7 @@
 	father=11040045 # Tachibana Norimitsu
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	1000.1.1={
 		birth=yes
 	}
@@ -404,7 +404,7 @@
 	father=11040050 # Tachibana Norinaga
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	1025.1.1={
 		birth=yes
 	}
@@ -418,7 +418,7 @@
 	father=11040055 # Tachibana Norisue
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	1070.1.1={
 		birth=yes
 	}
@@ -432,7 +432,7 @@
 	father=11040056 # Tachibana Kiyonobu
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	1110.1.1={
 		birth=yes
 	}
@@ -446,7 +446,7 @@
 	father=11040057 # Tachibana Kiyonori
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	1140.1.1={
 		birth=yes
 	}
@@ -460,7 +460,7 @@
 	father=11040051 # Tachibana Suemichi
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	1040.1.1={
 		birth=yes
 	}
@@ -474,7 +474,7 @@
 	father=11040060 # Tachibana Suetsuna
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	1080.1.1={
 		birth=yes
 	}
@@ -488,7 +488,7 @@
 	father=11040061 # Tachibana Mitsutsuna
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	1120.1.1={
 		birth=yes
 	}
@@ -502,7 +502,7 @@
 	father=11040062 # Tachibana Masamitsu
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	1150.1.1={
 		birth=yes
 	}
@@ -516,7 +516,7 @@
 	father=11040063 # Tachibana Kiyomitsu
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	1180.1.1={
 		birth=yes
 	}
@@ -530,7 +530,7 @@
 	father=11040046 # Tachibana Noritaka
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	1000.1.1={
 		birth=yes
 	}
@@ -544,7 +544,7 @@
 	father=11040070 # Tachibana Narito
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	1030.1.1={
 		birth=yes
 	}
@@ -558,7 +558,7 @@
 	father=11040071 # Tachibana Mochitsuna
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	1060.1.1={
 		birth=yes
 	}
@@ -572,7 +572,7 @@
 	father=11040072 # Tachibana Hirofusa
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	1100.1.1={
 		birth=yes
 	}
@@ -586,7 +586,7 @@
 	father=11040073 # Tachibana Mochinaga
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	1130.1.1={
 		birth=yes
 	}
@@ -600,7 +600,7 @@
 	father=11040021 # Tachibana Hasemaro
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	810.1.1={
 		birth=yes
 	}
@@ -614,7 +614,7 @@
 	father=11040022 # Tachibana Tsunenushi
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	805.1.1={
 		birth=yes
 	}
@@ -628,7 +628,7 @@
 	father=11040022 # Tachibana Tsunenushi
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	815.1.1={
 		birth=yes
 	}
@@ -642,7 +642,7 @@
 	father=11040085 # Tachibana Akio
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	825.1.1={
 		birth=yes
 	}
@@ -656,7 +656,7 @@
 	father=11040085 # Tachibana Akio
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	864.1.1={
 		birth=yes
 	}
@@ -670,7 +670,7 @@
 	father=11040090 # Tachibana Yoshimoto
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	859.1.1={
 		birth=yes
 	}
@@ -684,7 +684,7 @@
 	father=11040091 # Tachibana Yoshitane
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	895.1.1={
 		birth=yes
 	}
@@ -698,7 +698,7 @@
 	father=11040093 # Tachibana Toshiyuki
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	922.1.1={
 		birth=yes
 	}
@@ -712,7 +712,7 @@
 	father=11040016 # Tachibana Kiyotomo
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	780.1.1={
 		birth=yes
 	}
@@ -726,7 +726,7 @@
 	father=11040016 # Tachibana Kiyotomo
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	782.1.1={
 		birth=yes
 	}
@@ -740,7 +740,7 @@
 	father=11040016 # Tachibana Kiyotomo
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	783.1.1={
 		birth=yes
 	}
@@ -755,7 +755,7 @@
 	father=11040016 # Tachibana Kiyotomo
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	786.1.1={
 		birth=yes
 	}
@@ -769,7 +769,7 @@
 	father=11040100 # Tachibana Ujihito
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	810.1.1={
 		birth=yes
 	}
@@ -783,7 +783,7 @@
 	father=11040100 # Tachibana Ujihito
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	812.1.1={
 		birth=yes
 	}
@@ -797,7 +797,7 @@
 	father=11040100 # Tachibana Ujihito
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	814.1.1={
 		birth=yes
 	}
@@ -811,7 +811,7 @@
 	father=11040100 # Tachibana Ujihito
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	816.1.1={
 		birth=yes
 	}
@@ -825,7 +825,7 @@
 	father=11040102 # Tachibana Ujikimi
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	804.1.1={
 		birth=yes
 	}
@@ -839,7 +839,7 @@
 	father=11040102 # Tachibana Ujikimi
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	816.1.1={
 		birth=yes
 	}
@@ -853,7 +853,7 @@
 	father=11040014 # Tachibana Irii
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	769.1.1={
 		birth=yes
 	}
@@ -867,7 +867,7 @@
 	father=11040014 # Tachibana Irii
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	780.1.1={
 		birth=yes
 	}
@@ -881,7 +881,7 @@
 	father=11040014 # Tachibana Irii
 	religion="shinto"
 	culture = yamato
-	#culture="aristocrats"
+	
 	782.1.1={
 		birth=yes
 	}

@@ -1,4 +1,6 @@
-﻿namespace = abdication
+﻿
+namespace = abdication
+
 abdication.0001 = {
 	type = character_event
 	title = abdication.0001.t
@@ -8,9 +10,11 @@ abdication.0001 = {
 		character = root
 		animation = stress
 	}
+
 	option = {
 		name = abdication.0001.a
 		custom_tooltip = abdicate_decision_effect_tt
+
 		trigger = {
 			NOR = {
 				highest_held_title_tier = tier_empire
@@ -21,20 +25,20 @@ abdication.0001 = {
 		hidden_effect = {
 			depose = yes
 		}
+
 		dynasty = {
 			add_dynasty_prestige = minor_dynasty_prestige_loss
 		}
 		ai_chance = 0
 	}
-	option = {
-		#上皇
+	
+	option = { #上皇
 		name = abdication.0001.a
 		custom_tooltip = abdicate_decision_effect_tt
+
 		trigger = {
 			highest_held_title_tier = tier_empire
-			culture = {
-				has_cultural_pillar = heritage_chinese
-			}
+			culture = { has_cultural_pillar = heritage_chinese }
 		}
 		add_trait = shanghuang
 		hidden_effect = {
@@ -43,11 +47,12 @@ abdication.0001 = {
 		dynasty = {
 			add_dynasty_prestige = minor_dynasty_prestige_loss
 		}
+
 		ai_chance = {
 			modifier = {
 				add = 30
 				is_imprisoned = yes
-				is_oe_celestial_government_trigger = yes
+				is_oe_imperial_government_trigger = yes
 			}
 			modifier = {
 				add = 30
@@ -61,14 +66,12 @@ abdication.0001 = {
 			}
 		}
 	}
-	option = {
-		#上皇
+	
+	option = { #上皇
 		name = abdication.0001.a
 		trigger = {
 			has_title = title:d_gosho
-			culture = {
-				has_cultural_pillar = heritage_yamato
-			}
+			culture = { has_cultural_pillar = heritage_yamato }
 			dynasty = dynasty:10000420
 		}
 		custom_tooltip = abdicate_decision_effect_tt
@@ -132,6 +135,8 @@ abdication.0001 = {
 			add_dynasty_prestige = minor_dynasty_prestige_loss
 		}
 		ai_chance = {
+			base = 0
+			
 			modifier = {
 				add = 20
 				age > 50
@@ -229,8 +234,8 @@ abdication.0001 = {
 		}
 	}
 	# If Hindu or Buddhist, replace this option with one to become a monk for no renown loss
-	option = {
-		#法皇
+	
+	option = { #法皇
 		name = abdication.0001.c
 		trigger = {
 			dynasty = dynasty:10000420
@@ -238,9 +243,7 @@ abdication.0001 = {
 				has_title = title:d_gosho
 				has_title = title:d_incho
 			}
-			culture = {
-				has_cultural_pillar = heritage_yamato
-			}
+			culture = { has_cultural_pillar = heritage_yamato }
 			OR = {
 				AND = {
 					exists = capital_province
@@ -557,4 +560,5 @@ abdication.0001 = {
 		add_piety_no_experience = major_prestige_value
 		ai_chance = 0
 	}
+
 }
