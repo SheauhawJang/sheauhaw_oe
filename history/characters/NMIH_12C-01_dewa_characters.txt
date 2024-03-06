@@ -2407,7 +2407,7 @@
 		birth=yes
 	}
 	1280.1.1={
-		dynasty=10000006 # Daihoji
+		dynasty_house=10000006 # Daihoji
 		#dynasty_house = "house_shgnt_daihoji"
 	}
 	1305.1.1={
@@ -2416,7 +2416,7 @@
 }
 12010115={
 	name=character_name_12010115 # Nagamori
-	dynasty=10000006 # Daihoji
+	dynasty_house=10000006 # Daihoji
 	#dynasty_house = "house_shgnt_daihoji"
 	father=12010110 # Muto Akiuji
 	religion="shinto"
@@ -2431,7 +2431,7 @@
 }
 12010116={
 	name=character_name_12010116 # Morouji
-	dynasty=10000006 # Daihoji
+	dynasty_house=10000006 # Daihoji
 	#dynasty_house = "house_shgnt_daihoji"
 	father=12010110 # Muto Akiuji
 	religion="shinto"
@@ -2446,7 +2446,7 @@
 }
 12010120={
 	name=character_name_12010120 # Ujihira
-	dynasty=10000006 # Daihoji
+	dynasty_house=10000006 # Daihoji
 	#dynasty_house = "house_shgnt_daihoji"
 	father=12010116 # Daihoji Morouji
 	religion="shinto"
@@ -2461,7 +2461,7 @@
 }
 12010121={
 	name=character_name_12010121 # Chikauji
-	dynasty=10000006 # Daihoji
+	dynasty_house=10000006 # Daihoji
 	#dynasty_house = "house_shgnt_daihoji"
 	father=12010116 # Daihoji Morouji
 	religion="shinto"
@@ -2476,7 +2476,7 @@
 }
 12010130={
 	name=character_name_12010130 # Mochiuji
-	dynasty=10000006 # Daihoji
+	dynasty_house=10000006 # Daihoji
 	#dynasty_house = "house_shgnt_daihoji"
 	father=12010121 # Daihoji Chikauji
 	religion="shinto"
@@ -2491,7 +2491,7 @@
 }
 12010135={
 	name=character_name_12010135 # Noriuji
-	dynasty=10000006 # Daihoji
+	dynasty_house=10000006 # Daihoji
 	#dynasty_house = "house_shgnt_daihoji"
 	father=12010130 # Daihoji Mochiuji
 	religion="shinto"
@@ -2506,7 +2506,7 @@
 }
 12010140={
 	name=character_name_12010140 # Kiyouji
-	dynasty=10000006 # Daihoji
+	dynasty_house=10000006 # Daihoji
 	#dynasty_house = "house_shgnt_daihoji"
 	father=12010135 # Daihoji Noriuji
 	religion="shinto"

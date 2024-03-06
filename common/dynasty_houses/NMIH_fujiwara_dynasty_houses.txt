@@ -76,12 +76,6 @@
 	culture = yamato
 }
 
-10006012 = {
-	dynasty = 10001000
-	name = dynasty_name_10006012
-	culture = yamato
-}
-
 10006013 = {
 	dynasty = 10001000
 	name = dynasty_name_10006013
@@ -1115,5 +1109,15 @@
 	name = dynasty_name_10000088
 	culture = oshu
 	#culture = southern_oshu
+}
+
+10006033 = {
+	dynasty = 10001000
+	name=dynasty_name_10006033
+}
+
+10006040 = {
+	dynasty = 10001000
+	name=dynasty_name_10006040
 }
 

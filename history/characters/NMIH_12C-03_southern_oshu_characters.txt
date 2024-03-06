@@ -1,6 +1,6 @@
 ﻿12060000={
 	name=character_name_12060000 # Nagayuki
-	dynasty=10006147 # Sato
+	dynasty_house=10006147 # Sato
 	father=11004666 # 
 	religion="shinto"
 	culture="oshu"
@@ -15,7 +15,7 @@
 }
 12060005={
 	name=character_name_12060005 # Kimisuke
-	dynasty=10006147 # Sato
+	dynasty_house=10006147 # Sato
 	father=12060000 # 
 	religion="shinto"
 	culture="oshu"
@@ -30,7 +30,7 @@
 }
 12060010={
 	name=character_name_12060010 # Morokiyo
-	dynasty=10006147 # Sato
+	dynasty_house=10006147 # Sato
 	father=12060005 # 
 	religion="shinto"
 	culture="oshu"
@@ -45,7 +45,7 @@
 }
 12060015={
 	name=character_name_12060015 # Morofumi
-	dynasty=10006147 # Sato
+	dynasty_house=10006147 # Sato
 	father=12060010 # 
 	religion="shinto"
 	culture="oshu"
@@ -60,7 +60,7 @@
 }
 12060050={
 	name=character_name_12060050 # Moroharu
-	dynasty=10006147 # Sato
+	dynasty_house=10006147 # Sato
 	father=12060015
 	religion="shinto"
 	culture="oshu"
@@ -75,7 +75,7 @@
 }
 12060051={
 	name=character_name_12060051 # Takatsuna
-	dynasty=10007204 # Kawabe
+	dynasty_house=10007204 # Kawabe
 	father=12060015 # 
 	religion="shinto"
 	culture="oshu"
@@ -96,7 +96,7 @@
 }
 12060052={
 	name=character_name_12060052 # Takashige
-	dynasty=10007205 # Igarame
+	dynasty_house=10007205 # Igarame
 	father=12060015 # 
 	religion="shinto"
 	culture="oshu"
@@ -117,7 +117,7 @@
 }
 12060060={
 	name=character_name_12060060 # Motoharu
-	dynasty=10006147 # Sato
+	dynasty_house=10006147 # Sato
 	father=12060050 # Sato Moroharu
 	religion="shinto"
 	culture="oshu"
@@ -144,7 +144,7 @@
 }
 12060070={
 	name=character_name_12060070 # Takaharu
-	dynasty=10006147 # Sato
+	dynasty_house=10006147 # Sato
 	father=12060060 # Sato Motoharu
 	religion="shinto"
 	culture="oshu"
@@ -160,7 +160,7 @@
 }
 12060071={
 	name=character_name_12060071 # Harukiyo
-	dynasty=10006147 # Sato
+	dynasty_house=10006147 # Sato
 	father=12060060 # Sato Motoharu
 	religion="shinto"
 	culture="oshu"
@@ -176,7 +176,7 @@
 }
 12060072={
 	name=character_name_12060072 # Tsugunobu
-	dynasty=10006147 # Sato
+	dynasty_house=10006147 # Sato
 	father=12060060 # Sato Motoharu
 	mother=12030042 # Fujiwara Towako
 	religion="shinto"
@@ -215,7 +215,7 @@
 }
 12060073={
 	name=character_name_12060073 # Tadanobu
-	dynasty=10006147 # Sato
+	dynasty_house=10006147 # Sato
 	father=12060060 # Sato Motoharu
 	mother=12030042 # Fujiwara Towako
 	religion="shinto"
@@ -255,7 +255,7 @@
 12060074={
 	name=character_name_12060074 # Fujinoe
 	female=yes
-	dynasty=10006147 # Sato
+	dynasty_house=10006147 # Sato
 	father=12060060 # Sato Motoharu
 	mother=12030042 # Fujiwara Towako
 	religion="shinto"
@@ -272,7 +272,7 @@
 12060075={
 	name=character_name_12060075 # Naminoe
 	female=yes
-	dynasty=10006147 # Sato
+	dynasty_house=10006147 # Sato
 	father=12060060 # Sato Motoharu
 	mother=12030042 # Fujiwara Towako
 	religion="shinto"
@@ -1474,7 +1474,7 @@
 }
 12063500={
 	name=character_name_12063500 # Morimitsu
-	dynasty=10000271 # Iga
+	dynasty_house=10000271 # Iga
 	father=10130349 # Iga Mitsusada
 	religion="shinto"
 	culture="oshu"
@@ -2063,7 +2063,7 @@
 }
 12071000={
 	name = character_name_12071000 # Tokitsuna
-	dynasty = 10006120	#Isa
+	dynasty_house = 10006120	#Isa
 	religion = "shinto"
 	culture = oshu #"eastern_kanto"
 	father =12121002	#Isa Tameshige
@@ -2072,7 +2072,7 @@
 		birth=yes
 	}
 	1189.11.15 = {
-		dynasty =10000010	#Date Clan
+		dynasty_house =10000010	#Date Clan
 	}
 	1232.1.1 = {
 		death=yes
@@ -2080,7 +2080,7 @@
 }
 12071001={
 	name = character_name_12071001 # Yoshihiro
-	dynasty = 10006120	#Isa
+	dynasty_house = 10006120	#Isa
 	religion = "shinto"
 	culture = oshu #"eastern_kanto"
 	father =12121002	#Isa Tameshige
@@ -2089,7 +2089,7 @@
 		birth=yes
 	}
 	1189.11.15 = {
-		dynasty =10000010	#Date Clan
+		dynasty_house =10000010	#Date Clan
 	}
 	1225.1.1 = {
 		effect = {
@@ -2102,7 +2102,7 @@
 }
 12071005={
 	name = character_name_12071005 # Masayori
-	dynasty = 10000010	#Date
+	dynasty_house = 10000010	#Date
 	religion = "shinto"
 	culture = oshu #"eastern_kanto"
 	father =12071001	#Isa Yoshihiro
@@ -2121,7 +2121,7 @@
 }
 12071006={
 	name=character_name_12071006 # Chikanaga
-	dynasty=10000010 # Date
+	dynasty_house=10000010 # Date
 	father=12071001 # Date Yoshihiro
 	religion="shinto"
 	culture="oshu"
@@ -2135,7 +2135,7 @@
 }
 12071010={
 	name=character_name_12071010 # Munetsuna 
-	dynasty=10000010 # Date
+	dynasty_house=10000010 # Date
 	father=12071005 # Date Masayori
 	religion="shinto"
 	culture="oshu"
@@ -2149,7 +2149,7 @@
 }
 12071015={
 	name=character_name_12071015 # Motomune
-	dynasty=10000010 # Date
+	dynasty_house=10000010 # Date
 	father=12071010 # Date Masayori
 	religion="shinto"
 	culture="oshu"
@@ -2163,7 +2163,7 @@
 }
 12071016={
 	name=character_name_12071016 # Yukitsuna
-	dynasty=10000010 # Date
+	dynasty_house=10000010 # Date
 	father=12071010 # Date Masayori
 	religion="shinto"
 	culture="oshu"
@@ -2177,7 +2177,7 @@
 }
 12071020={
 	name=character_name_12071020 # Yukitomo
-	dynasty=10000010 # Date
+	dynasty_house=10000010 # Date
 	father=12071015 # Date Masayori
 	religion="shinto"
 	culture="oshu"
@@ -2194,7 +2194,7 @@
 }
 12071025={
 	name=character_name_12071025 # Munetoo
-	dynasty=10000010 # Date
+	dynasty_house=10000010 # Date
 	father=12071020 # Date Masayori
 	religion="shinto"
 	culture="oshu"
@@ -2214,7 +2214,7 @@
 }
 12071030={
 	name=character_name_12071030 # Masamune
-	dynasty=10000010 # Date
+	dynasty_house=10000010 # Date
 	father=12071025 # Date Masayori
 	religion="shinto"
 	culture="oshu"
@@ -2230,7 +2230,7 @@
 }
 12071031={
 	name=character_name_12071031 # Muneyuki
-	dynasty=10000010 # Date
+	dynasty_house=10000010 # Date
 	father=12071025 # Date Masayori
 	religion="shinto"
 	culture="oshu"
@@ -2245,7 +2245,7 @@
 12071032={
 	female=yes
 	name=character_name_12071032 # Muneko
-	dynasty=10000010 # Date
+	dynasty_house=10000010 # Date
 	father=12071025 # Date Masayori
 	religion="shinto"
 	culture="oshu"
@@ -2259,7 +2259,7 @@
 }
 12071033={
 	name=character_name_12071033 # Ujimune
-	dynasty=10000010 # Date
+	dynasty_house=10000010 # Date
 	father=12071030 # Date Masayori
 	religion="shinto"
 	culture="oshu"
@@ -2274,7 +2274,7 @@
 }
 12071035={
 	name=character_name_12071035 # Mochimune
-	dynasty=10000010 # Date
+	dynasty_house=10000010 # Date
 	father=12071033 # Date Masayori
 	religion="shinto"
 	culture="oshu"
@@ -2292,7 +2292,7 @@
 }
 12071040={
 	name=character_name_12071040 # Narimune
-	dynasty=10000010 # Date
+	dynasty_house=10000010 # Date
 	religion="shinto"
 	culture="oshu"
 	father=12071035 # Date Mochimune
@@ -2316,7 +2316,7 @@
 }
 12071041={
 	name=character_name_12071041 # Morimune
-	dynasty=10000010 # Date
+	dynasty_house=10000010 # Date
 	father=12071035 # Date Mochimune
 	religion="shinto"
 	culture="oshu"
@@ -2325,7 +2325,7 @@
 		birth=yes
 	}
 	1467.1.1={
-		dynasty=10000086 # Koyanagawa
+		dynasty_house=10000086 # Koyanagawa
 	}
 	1500.11.19={
 		death=yes
@@ -2333,7 +2333,7 @@
 }
 12071045={
 	name=character_name_12071045 # Hisamune
-	dynasty=10000010 # Date
+	dynasty_house=10000010 # Date
 	religion="shinto"
 	culture="oshu"
 	father=12071040 # Date Narimune
@@ -2359,7 +2359,7 @@
 }
 12071200={
 	name=character_name_12071200 # Chikatomo
-	dynasty=10000086 # Koyanagawa
+	dynasty_house=10000086 # Koyanagawa
 	#dynasty_house = "house_shgnt_koyanagawa"
 	father=12071041 # Koyanagawa Narimune
 	religion="shinto"
@@ -2374,7 +2374,7 @@
 }
 12071201={
 	name=character_name_12071201 # Munetomo
-	dynasty=10000086 # Koyanagawa
+	dynasty_house=10000086 # Koyanagawa
 	#dynasty_house = "house_shgnt_koyanagawa"
 	father=12071041 # Koyanagawa Narimune
 	religion="shinto"
@@ -2399,7 +2399,7 @@
 }
 12071202={
 	name=character_name_12071202 # Chikamune
-	dynasty=10000086 # Koyanagawa
+	dynasty_house=10000086 # Koyanagawa
 	#dynasty_house = "house_shgnt_koyanagawa"
 	father=12071200 # Koyanagawa Chikatomo
 	religion="shinto"
@@ -2414,7 +2414,7 @@
 }
 12071203={
 	name=character_name_12071203 # Munehide
-	dynasty=10000086 # Koyanagawa
+	dynasty_house=10000086 # Koyanagawa
 	#dynasty_house = "house_shgnt_koyanagawa"
 	father=12071201 # Koyanagawa Munetomo
 	religion="shinto"
@@ -2433,7 +2433,7 @@
 }
 12071204={
 	name=character_name_12071204 # Morimune
-	dynasty=10000086 # Koyanagawa
+	dynasty_house=10000086 # Koyanagawa
 	#dynasty_house = "house_shgnt_koyanagawa"
 	father=12071202 # Koyanagawa Chikamune
 	religion="shinto"
@@ -2448,7 +2448,7 @@
 }
 12071205={
 	name=character_name_12071205 # Muneshige
-	dynasty=10000086 # Koyanagawa
+	dynasty_house=10000086 # Koyanagawa
 	#dynasty_house = "house_shgnt_koyanagawa"
 	father=12071204 # Koyanagawa Morimune
 	religion="shinto"
@@ -2463,7 +2463,7 @@
 }
 12071220={
 	name=character_name_12071220 # Munekage
-	dynasty=10000087 # Oeda
+	dynasty_house=10000087 # Oeda
 	#dynasty_house = "house_shgnt_date_oeda"
 	father=12071031 # Oeda Masayori
 	religion="shinto"
@@ -2478,7 +2478,7 @@
 }
 12071221={
 	name=character_name_12071221 # Munemoto
-	dynasty=10000087 # Oeda
+	dynasty_house=10000087 # Oeda
 	#dynasty_house = "house_shgnt_date_oeda"
 	father=12071220 # Oeda Munekage
 	religion="shinto"
@@ -2493,7 +2493,7 @@
 }
 12071222={
 	name=character_name_12071222 # Munesumi
-	dynasty=10000087 # Oeda
+	dynasty_house=10000087 # Oeda
 	#dynasty_house = "house_shgnt_date_oeda"
 	father=12071221 # Oeda Munemoto
 	religion="shinto"
@@ -2508,7 +2508,7 @@
 }
 12071223={
 	name=character_name_12071223 # Munesuke
-	dynasty=10000087 # Oeda
+	dynasty_house=10000087 # Oeda
 	#dynasty_house = "house_shgnt_date_oeda"
 	father=12071222 # Oeda Munesumi
 	religion="shinto"
@@ -2523,7 +2523,7 @@
 }
 12071250={
 	name=character_name_12071250 # Masanaga
-	dynasty=10000082 # Kori
+	dynasty_house=10000082 # Kori
 	#dynasty_house = "house_shgnt_date_kori"
 	father=12071006 # Kori Masayori
 	religion="shinto"
@@ -2538,7 +2538,7 @@
 }
 12071251={
 	name=character_name_12071251 # Muneyasu
-	dynasty=10000082 # Kori
+	dynasty_house=10000082 # Kori
 	#dynasty_house = "house_shgnt_date_kori"
 	father=12071250 # Kori Masanaga
 	religion="shinto"
@@ -2553,7 +2553,7 @@
 }
 12071252={
 	name=character_name_12071252 # Yasunaga
-	dynasty=10000082 # Kori
+	dynasty_house=10000082 # Kori
 	#dynasty_house = "house_shgnt_date_kori"
 	father=12071251 # Kori Muneyasu
 	religion="shinto"
@@ -2568,7 +2568,7 @@
 }
 12071253={
 	name=character_name_12071253 # Yorinaga
-	dynasty=10000082 # Kori
+	dynasty_house=10000082 # Kori
 	#dynasty_house = "house_shgnt_date_kori"
 	father=12071252 # Kori Yasunaga
 	religion="shinto"
@@ -2583,7 +2583,7 @@
 }
 12071254={
 	name=character_name_12071254 # Kuninaga
-	dynasty=10000082 # Kori
+	dynasty_house=10000082 # Kori
 	#dynasty_house = "house_shgnt_date_kori"
 	father=12071253 # Kori Yorinaga
 	religion="shinto"
@@ -2598,7 +2598,7 @@
 }
 12071255={
 	name=character_name_12071255 # Munehide
-	dynasty=10000082 # Kori
+	dynasty_house=10000082 # Kori
 	#dynasty_house = "house_shgnt_date_kori"
 	father=12071254 # Kori Kuninaga
 	religion="shinto"
@@ -2613,7 +2613,7 @@
 }
 12071256={
 	name=character_name_12071256 # Muneyasu
-	dynasty=10000082 # Kori
+	dynasty_house=10000082 # Kori
 	#dynasty_house = "house_shgnt_date_kori"
 	father=12071255 # Kori Munehide
 	religion="shinto"
@@ -2628,7 +2628,7 @@
 }
 12071257={
 	name=character_name_12071257 # Munesue
-	dynasty=10000082 # Kori
+	dynasty_house=10000082 # Kori
 	#dynasty_house = "house_shgnt_date_kori"
 	father=12071256 # Kori Muneyasu
 	religion="shinto"
@@ -2643,7 +2643,7 @@
 }
 12071300={
 	name=character_name_12071300 # Yukiyasu
-	dynasty=10000088 # Senoue
+	dynasty_house=10000088 # Senoue
 	#dynasty_house = "house_shgnt_date_senoue"
 	father=12071016 # Senoue Yukitsuna
 	religion="shinto"
@@ -2658,7 +2658,7 @@
 }
 12071301={
 	name=character_name_12071301 # Muneyasu
-	dynasty=10000088 # Senoue
+	dynasty_house=10000088 # Senoue
 	#dynasty_house = "house_shgnt_date_senoue"
 	father=12071300 # Senoue Yukiyasu
 	religion="shinto"
@@ -2673,7 +2673,7 @@
 }
 12071302={
 	name=character_name_12071302 # Yasukiyo
-	dynasty=10000088 # Senoue
+	dynasty_house=10000088 # Senoue
 	#dynasty_house = "house_shgnt_date_senoue"
 	father=12071301 # Senoue Muneyasu
 	religion="shinto"
@@ -2688,7 +2688,7 @@
 }
 12071303={
 	name=character_name_12071303 # Munekiyo
-	dynasty=10000088 # Senoue
+	dynasty_house=10000088 # Senoue
 	#dynasty_house = "house_shgnt_date_senoue"
 	father=12071302 # Senoue Yasukiyo
 	religion="shinto"
@@ -2703,7 +2703,7 @@
 }
 12071304={
 	name=character_name_12071304 # Yasutoshi
-	dynasty=10000088 # Senoue
+	dynasty_house=10000088 # Senoue
 	#dynasty_house = "house_shgnt_date_senoue"
 	father=12071303 # Senoue Munekiyo
 	religion="shinto"
@@ -2718,7 +2718,7 @@
 }
 12071305={
 	name=character_name_12071305 # Yasuie
-	dynasty=10000088 # Senoue
+	dynasty_house=10000088 # Senoue
 	#dynasty_house = "house_shgnt_date_senoue"
 	father=12071304 # Senoue Yasutoshi
 	religion="shinto"
@@ -2733,7 +2733,7 @@
 }
 12071306={
 	name=character_name_12071306 # Yasuhide
-	dynasty=10000088 # Senoue
+	dynasty_house=10000088 # Senoue
 	#dynasty_house = "house_shgnt_date_senoue"
 	father=12071305 # Senoue Yasuie
 	religion="shinto"
@@ -2748,7 +2748,7 @@
 }
 12071308={
 	name=character_name_12071308 # Muneyasu
-	dynasty=10000088 # Senoue
+	dynasty_house=10000088 # Senoue
 	#dynasty_house = "house_shgnt_date_senoue"
 	father=12071306 # Senoue Yasuhide
 	religion="shinto"
@@ -2763,7 +2763,7 @@
 }
 12071309={
 	name=character_name_12071309 # Nobuyasu
-	dynasty=10000088 # Senoue
+	dynasty_house=10000088 # Senoue
 	#dynasty_house = "house_shgnt_date_senoue"
 	father=12071308 # Senoue Muneyasu
 	religion="shinto"
@@ -2778,7 +2778,7 @@
 }
 12071310={
 	name=character_name_12071310 # Sadayasu
-	dynasty=10000088 # Senoue
+	dynasty_house=10000088 # Senoue
 	#dynasty_house = "house_shgnt_date_senoue"
 	father=12071309 # Senoue Nobuyasu
 	religion="shinto"
@@ -2793,7 +2793,7 @@
 }
 12071311={
 	name=character_name_12071311 # Kageyasu
-	dynasty=10000088 # Senoue
+	dynasty_house=10000088 # Senoue
 	#dynasty_house = "house_shgnt_date_senoue"
 	father=12071310 # Senoue Sadayasu
 	religion="shinto"
@@ -2808,7 +2808,7 @@
 }
 12071400={
 	name = character_name_12071400 # Tamemasa
-	dynasty = 10000010	#Date
+	dynasty_house = 10000010	#Date
 	religion = "shinto"
 	culture = oshu #"eastern_kanto"
 	father =12121004	#Isa Tameie
@@ -2822,7 +2822,7 @@
 }
 12071401={
 	name = character_name_12071401 # Tsuneie
-	dynasty = 10000010	#Date
+	dynasty_house = 10000010	#Date
 	religion = "shinto"
 	culture = oshu #"eastern_kanto"
 	father =12121004	#Isa Tameie
@@ -2836,7 +2836,7 @@
 }
 12071402={
 	name = character_name_12071402 # Tsunekata
-	dynasty = 10000010	#Date
+	dynasty_house = 10000010	#Date
 	religion = "shinto"
 	culture = oshu #"eastern_kanto"
 	father =12121004	#Isa Tameie
@@ -2850,7 +2850,7 @@
 }
 12071403={
 	name = character_name_12071403 # Tsunemitsu
-	dynasty = 10000010	#Date
+	dynasty_house = 10000010	#Date
 	religion = "shinto"
 	culture = oshu #"eastern_kanto"
 	father =12121004	#Isa Tameie
@@ -2864,7 +2864,7 @@
 }
 12071404={
 	name = character_name_12071404 # Myoen
-	dynasty = 10000010	#Date
+	dynasty_house = 10000010	#Date
 	religion = "shinto"
 	culture = oshu #"eastern_kanto"
 	father=12121004 # Isa Tameie
@@ -2879,7 +2879,7 @@
 }
 12071405={
 	name = character_name_12071405 # Shichiro
-	dynasty = 10000010	#Date
+	dynasty_house = 10000010	#Date
 	religion = "shinto"
 	culture = oshu #"eastern_kanto"
 	father =12121004	#Isa Tameie
@@ -2893,7 +2893,7 @@
 }
 12071406={
 	name = character_name_12071406 # Tokiie
-	dynasty = 10000010	#Date
+	dynasty_house = 10000010	#Date
 	religion = "shinto"
 	culture = oshu #"eastern_kanto"
 	father =12121004	#Isa Tameie
@@ -2907,7 +2907,7 @@
 }
 12071407={
 	name = character_name_12071407 # Tameko
-	dynasty = 10000010	#Date
+	dynasty_house = 10000010	#Date
 	religion = "shinto"
 	culture = oshu #"eastern_kanto"
 	female = yes
@@ -2922,7 +2922,7 @@
 }
 12071410={
 	name = character_name_12071410 # Tsunetomo
-	dynasty = 10000010	#Date
+	dynasty_house = 10000010	#Date
 	religion = "shinto"
 	culture = oshu #"eastern_kanto"
 	father =12071401	#Date Tsuneie
@@ -2936,7 +2936,7 @@
 }
 12071411={
 	name = character_name_12071411 # Iemitsu
-	dynasty = 10000010	#Date
+	dynasty_house = 10000010	#Date
 	religion = "shinto"
 	culture = oshu #"eastern_kanto"
 	father =12071401	#Date Tsuneie
@@ -2950,7 +2950,7 @@
 }
 12071412={
 	name = character_name_12071412 # Tsunemasa
-	dynasty = 10000010	#Date
+	dynasty_house = 10000010	#Date
 	religion = "shinto"
 	culture = oshu #"eastern_kanto"
 	father =12071401	#Date Tsuneie
@@ -2964,7 +2964,7 @@
 }
 12071413={
 	name = character_name_12071413 # Tsunemitsu
-	dynasty = 10000010	#Date
+	dynasty_house = 10000010	#Date
 	religion = "shinto"
 	culture = oshu #"eastern_kanto"
 	father =12071401	#Date Tsuneie
@@ -2978,7 +2978,7 @@
 }
 12071414={
 	name = character_name_12071414 # Ietoki
-	dynasty = 10000010	#Date
+	dynasty_house = 10000010	#Date
 	religion = "shinto"
 	culture = oshu #"eastern_kanto"
 	father =12071401	#Date Tsuneie
@@ -2992,7 +2992,7 @@
 }
 12071415={
 	name = character_name_12071415 # Tadatsugu
-	dynasty = 10000010	#Date
+	dynasty_house = 10000010	#Date
 	religion = "shinto"
 	culture = oshu #"eastern_kanto"
 	father =12071410	#Date Tsunetomo
@@ -3006,7 +3006,7 @@
 }
 12071416={
 	name = character_name_12071416 # Munenaga
-	dynasty = 10006123	#Ishida
+	dynasty_house = 10006123	#Ishida
 	#dynasty_house = "house_shgnt_date_ishida"
 	religion = "shinto"
 	culture = oshu #"eastern_kanto"
@@ -3021,7 +3021,7 @@
 }
 12071420={
 	name = character_name_12071420 # Tadatsune
-	dynasty = 10000010	#Date
+	dynasty_house = 10000010	#Date
 	religion = "shinto"
 	culture = oshu #"eastern_kanto"
 	father =12071412	#Date Tsunemasa
@@ -3035,7 +3035,7 @@
 }
 12071421={
 	name = character_name_12071421 # Munenori
-	dynasty = 10000010	#Date
+	dynasty_house = 10000010	#Date
 	religion = "shinto"
 	culture = oshu #"eastern_kanto"
 	father =12071412	#Date Tsunemasa
@@ -3049,7 +3049,7 @@
 }
 12071422={
 	name = character_name_12071422 # Yukitsune
-	dynasty = 10000010	#Date
+	dynasty_house = 10000010	#Date
 	religion = "shinto"
 	culture = oshu #"eastern_kanto"
 	father =12071412	#Date Tsunemasa
@@ -3063,7 +3063,7 @@
 }
 12071423={
 	name = character_name_12071423 # Yasutsune
-	dynasty = 10000010	#Date
+	dynasty_house = 10000010	#Date
 	religion = "shinto"
 	culture = oshu #"eastern_kanto"
 	father =12071412	#Date Tsunemasa
@@ -3077,7 +3077,7 @@
 }
 12071424={
 	name = character_name_12071424 # Tsunesada
-	dynasty = 10000010	#Date
+	dynasty_house = 10000010	#Date
 	religion = "shinto"
 	culture = oshu #"eastern_kanto"
 	father =12071420	#Date Tadatsune
@@ -3091,7 +3091,7 @@
 }
 12071425={
 	name = character_name_12071425 # Tsunemori
-	dynasty = 10006124	#Yabe
+	dynasty_house = 10006124	#Yabe
 	#dynasty_house = "house_shgnt_date_yabe"
 	religion = "shinto"
 	culture = oshu #"eastern_kanto"
@@ -3176,7 +3176,7 @@
 }
 12071500={
 	name = character_name_12071500 # Sukemitsu
-	dynasty = 10006127	#Iida
+	dynasty_house = 10006127	#Iida
 	#dynasty_house = "house_shgnt_date_iida"
 	religion = "shinto"
 	culture = oshu #"eastern_kanto"
@@ -3205,7 +3205,7 @@
 }
 12080005={
 	name=character_name_12080005 # Iekage
-	dynasty=10007259 # Isawa
+	dynasty_house=10007259 # Isawa
 	father=12080000 # Fujiwara Kanenobu
 	religion="shinto"
 	culture = yamato
@@ -3238,7 +3238,7 @@
 }
 12080010={
 	name=character_name_12080010 # Iemoto
-	dynasty=10007259 # Isawa
+	dynasty_house=10007259 # Isawa
 	father=12080005 # Isawa Iekage
 	religion="shinto"
 	culture = yamato
@@ -3255,7 +3255,7 @@
 }
 12080015={
 	name=character_name_12080015 # Iehiro
-	dynasty=10000064 # Rusu
+	dynasty_house=10000064 # Rusu
 	father=12080010 # Rusu Iemoto
 	religion="shinto"
 	culture="oshu"
@@ -3269,7 +3269,7 @@
 }
 12080020={
 	name=character_name_12080020 # Tsuneie
-	dynasty=10000064 # Rusu
+	dynasty_house=10000064 # Rusu
 	father=12080015 # Rusu Iehiro
 	religion="shinto"
 	culture="oshu"
@@ -3283,7 +3283,7 @@
 }
 12080025={
 	name=character_name_12080025 # Ienobu
-	dynasty=10000064 # Rusu
+	dynasty_house=10000064 # Rusu
 	father=12080020 # Rusu Tsuneie
 	religion="shinto"
 	culture="oshu"
@@ -3297,7 +3297,7 @@
 }
 12080030={
 	name=character_name_12080030 # Iesuke
-	dynasty=10000064 # Rusu
+	dynasty_house=10000064 # Rusu
 	father=12080025 # Rusu Ienobu
 	religion="shinto"
 	culture="oshu"
@@ -3311,7 +3311,7 @@
 }
 12080035={
 	name=character_name_12080035 # Ietaka
-	dynasty=10000064 # Rusu
+	dynasty_house=10000064 # Rusu
 	father=12080030 # Rusu Iesuke
 	religion="shinto"
 	culture="oshu"
@@ -3325,7 +3325,7 @@
 }
 12080040={
 	name=character_name_12080040 # Iefuyu
-	dynasty=10000064 # Rusu
+	dynasty_house=10000064 # Rusu
 	father=12080035 # Rusu Ietaka
 	religion="shinto"
 	culture="oshu"
@@ -3339,7 +3339,7 @@
 }
 12080045={
 	name=character_name_12080045 # Ieto
-	dynasty=10000064 # Rusu
+	dynasty_house=10000064 # Rusu
 	father=12080040 # Rusu Iefuyu
 	religion="shinto"
 	culture="oshu"
@@ -3353,7 +3353,7 @@
 }
 12080050={
 	name=character_name_12080050 # Iemasa
-	dynasty=10000064 # Rusu
+	dynasty_house=10000064 # Rusu
 	father=12080045 # Rusu Ieto
 	religion="shinto"
 	culture="oshu"
@@ -3367,7 +3367,7 @@
 }
 12080055={
 	name=character_name_12080055 # Ieaki
-	dynasty=10000064 # Rusu
+	dynasty_house=10000064 # Rusu
 	father=12080050 # Rusu Iemasa
 	religion="shinto"
 	culture="oshu"
@@ -3381,7 +3381,7 @@
 }
 12080060={
 	name=character_name_12080060 # Akiie
-	dynasty=10000064 # Rusu
+	dynasty_house=10000064 # Rusu
 	father=12080055 # Rusu Ieaki
 	religion="shinto"
 	culture="oshu"
@@ -3395,7 +3395,7 @@
 }
 12080061={
 	name=character_name_12080061 # Mochiie
-	dynasty=10000064 # Rusu
+	dynasty_house=10000064 # Rusu
 	father=12080055 # Rusu Ieaki
 	religion="shinto"
 	culture="oshu"
@@ -3778,7 +3778,7 @@
 }
 12082000={
 	name=character_name_12082000 # Motokane
-	dynasty=10007323 # Katta
+	dynasty_house=10007323 # Katta
 	father=12030001 # Fujiwara Tsunemoto
 	religion="shinto"
 	culture="oshu"
@@ -3792,7 +3792,7 @@
 }
 12082001={
 	name=character_name_12082001 # Mototsugu
-	dynasty=10007323 # Katta
+	dynasty_house=10007323 # Katta
 	father=12082000 # Katta Motokane
 	religion="shinto"
 	culture="oshu"
@@ -3806,7 +3806,7 @@
 }
 12082005={
 	name=character_name_12082005 # Hidetsugu
-	dynasty=10007323 # Katta
+	dynasty_house=10007323 # Katta
 	father=12082001 # Katta Mototsugu
 	religion="shinto"
 	culture="oshu"
@@ -3820,7 +3820,7 @@
 }
 12082010={
 	name=character_name_12082010 # Hidenobu
-	dynasty=10007323 # Katta
+	dynasty_house=10007323 # Katta
 	father=12082005 # Katta Hidetsugu
 	religion="shinto"
 	culture="oshu"
@@ -3834,7 +3834,7 @@
 }
 12082011={
 	name=character_name_12082011 # Hidenaga
-	dynasty=10007323 # Katta
+	dynasty_house=10007323 # Katta
 	father=12082005 # Katta Hidetsugu
 	religion="shinto"
 	culture="oshu"
@@ -3848,7 +3848,7 @@
 }
 12082015={
 	name=character_name_12082015 # Nagamasa
-	dynasty=10007323 # Katta
+	dynasty_house=10007323 # Katta
 	father=12082011 # Katta Hidenaga
 	religion="shinto"
 	culture="oshu"
@@ -3862,7 +3862,7 @@
 }
 12082020={
 	name=character_name_12082020 # Nagatoshi
-	dynasty=10007323 # Katta
+	dynasty_house=10007323 # Katta
 	father=12082015 # Katta Nagamasa
 	religion="shinto"
 	culture="oshu"

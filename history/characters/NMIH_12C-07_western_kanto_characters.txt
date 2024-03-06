@@ -1,6 +1,6 @@
 ﻿12180100 = {
 	name = character_name_12180100 # Nariyuki
-#	dynasty = 10006033	#Ashikaga
+	dynasty_house = 10006033	#Ashikaga
 	#dynasty_house = "house_shgnt_fujiwara_ashikaga"
 	religion = "shinto"
 	culture="yamato"
@@ -20,7 +20,7 @@
 }
 12180101 = {
 	name = character_name_12180101 # Naritsuna
-#	dynasty = 10006033	#Ashikaga
+	dynasty_house = 10006033	#Ashikaga
 	#dynasty_house = "house_shgnt_fujiwara_ashikaga"
 	religion = "shinto"
 	culture="yamato"
@@ -35,7 +35,7 @@
 }
 12180102 = {
 	name = character_name_12180102 # Ietsuna
-#	dynasty = 10006033	#Ashikaga
+	dynasty_house = 10006033	#Ashikaga
 	#dynasty_house = "house_shgnt_fujiwara_ashikaga"
 	religion = "shinto"
 	culture="yamato"
@@ -50,7 +50,7 @@
 }
 12180103 = {
 	name = character_name_12180103 # Narizane
-#	dynasty = 10006036	#Sonoda
+	dynasty_house = 10006036	#Sonoda
 	#dynasty_house = "house_shgnt_fujiwara_ashikaga"
 	religion = "shinto"
 	culture="yamato"
@@ -66,7 +66,7 @@
 }
 12180104 = {
 	name = character_name_12180104 # Shigetoshi
-#	dynasty = 10006037	#Ogo
+	dynasty_house = 10006037	#Ogo
 	#dynasty_house = "house_shgnt_fujiwara_ashikaga"
 	religion = "shinto"
 	culture="yamato"
@@ -82,7 +82,7 @@
 }
 12180110 = {
 	name = character_name_12180110 # Toshitsuna
-#	dynasty = 10006033	#Ashikaga
+	dynasty_house = 10006033	#Ashikaga
 	#dynasty_house = "house_shgnt_fujiwara_ashikaga"
 	martial = 7
 	intrigue = 4
@@ -113,7 +113,7 @@
 }
 12180111 = {
 	name = character_name_12180111 # Takatsuna
-#	dynasty = 10006038	#Yamagami
+	dynasty_house = 10006038	#Yamagami
 	#dynasty_house = "house_shgnt_fujiwara_ashikaga"
 	religion = "shinto"
 	culture="yamato"
@@ -129,7 +129,7 @@
 }
 12180112 = {
 	name = character_name_12180112 # Naritoshi
-#	dynasty = 10006033	#Ashikaga
+	dynasty_house = 10006033	#Ashikaga
 	#dynasty_house = "house_shgnt_fujiwara_ashikaga"
 	religion = "shinto"
 	culture="yamato"
@@ -144,7 +144,7 @@
 }
 12180113 = {
 	name = character_name_12180113 # Aritsuna
-#	dynasty = 10006033	#Ashikaga
+	dynasty_house = 10006033	#Ashikaga
 	#dynasty_house = "house_shgnt_fujiwara_ashikaga"
 	religion = "shinto"
 	culture="yamato"
@@ -159,7 +159,7 @@
 }
 12180120 = {
 	name = character_name_12180120 # Tadatsuna
-#	dynasty = 10006033	#Ashikaga
+	dynasty_house = 10006033	#Ashikaga
 	#dynasty_house = "house_shgnt_fujiwara_ashikaga"
 	martial = 8
 	intrigue = 4
@@ -186,7 +186,7 @@
 }
 12180121 = {
 	name = character_name_12180121 # Yasutsuna
-#	dynasty = 10006033	#Ashikaga
+	dynasty_house = 10006033	#Ashikaga
 	#dynasty_house = "house_shgnt_fujiwara_ashikaga"
 	religion = "shinto"
 	culture="yamato"
@@ -201,7 +201,7 @@
 }
 12180130 = {
 	name = character_name_12180130 # Munetsuna
-#	dynasty = 10006033	#Ashikaga
+	dynasty_house = 10006033	#Ashikaga
 	#dynasty_house = "house_shgnt_fujiwara_ashikaga"
 	religion = "shinto"
 	culture="yamato"
@@ -216,7 +216,7 @@
 }
 12180140 = {
 	name = character_name_12180140 # Tokitsuna
-#	dynasty = 10006033	#Ashikaga
+	dynasty_house = 10006033	#Ashikaga
 	#dynasty_house = "house_shgnt_fujiwara_ashikaga"
 	religion = "shinto"
 	culture="yamato"
@@ -231,7 +231,7 @@
 }
 12180150 = {
 	name = character_name_12180150 # Mototsuna
-#	dynasty = 10000111	#Sano
+	dynasty_house = 10000111	#Sano
 	#dynasty_house = "house_shgnt_sano"
 	religion = "shinto"
 	culture="yamato"
@@ -242,12 +242,12 @@
 	}
 	1207.1.1 = {
 		death=yes
-		dynasty = 10000111
+		dynasty_house = 10000111
 	}
 }
 12180151 = {
 	name = character_name_12180151 # Hirotsuna
-#	dynasty = 10000041	#Asonuma
+	dynasty_house = 10000041	#Asonuma
 	#dynasty_house = "house_shgnt_asonuma"
 	religion = "shinto"
 	culture="yamato"
@@ -267,12 +267,12 @@
 	}
 	1208.1.1 = {
 		death=yes
-		dynasty = 10000041
+		dynasty_house = 10000041
 	}
 }
 12180152 = {
 	name = character_name_12180152 # Nobutsuna
-#	dynasty = 10006040	#Kimura
+	dynasty_house = 10006040	#Kimura
 	#dynasty_house = "house_shgnt_kimura"
 	religion = "shinto"
 	culture="yamato"
@@ -287,7 +287,7 @@
 }
 12180200 = {
 	name = character_name_12180200 # Takamitsu
-#	dynasty = 10006038	#Yamagami
+	dynasty_house = 10006038	#Yamagami
 	#dynasty_house = "house_shgnt_yamagami"
 	religion = "shinto"
 	culture="yamato"
@@ -314,7 +314,7 @@
 }
 12180201={
 	name=character_name_12180201 # Shigeyoshi
-	dynasty=10006038 # Yamagami
+	dynasty_house=10006038 # Yamagami
 	#dynasty_house = "house_shgnt_yamagami"
 	father=12180111 # Yamagami Takatsuna
 	religion="shinto"
@@ -329,7 +329,7 @@
 }
 12180210 = {
 	name = character_name_12180210 # Tokimitsu
-#	dynasty = 10006038	#Yamagami
+	dynasty_house = 10006038	#Yamagami
 	#dynasty_house = "house_shgnt_yamagami"
 	religion = "shinto"
 	culture="yamato"
@@ -350,7 +350,7 @@
 }
 12180220={
 	name=character_name_12180220 # Hidemori
-	dynasty=10006038 # Yamagami
+	dynasty_house=10006038 # Yamagami
 	#dynasty_house = "house_shgnt_yamagami"
 	father=12180210 # Yamagami Tokimitsu
 	religion="shinto"
@@ -365,7 +365,7 @@
 }
 12180225={
 	name=character_name_12180225 # Taro # Fictional
-	dynasty=10006038 # Yamagami
+	dynasty_house=10006038 # Yamagami
 	#dynasty_house = "house_shgnt_yamagami"
 	father=12180220 # Yamagami Hidemori
 	religion="shinto"
@@ -380,7 +380,7 @@
 }
 12180226={
 	name=character_name_12180226 # Taro
-	dynasty=10006038 # Yamagami
+	dynasty_house=10006038 # Yamagami
 	#dynasty_house = "house_shgnt_yamagami"
 	father=12180225 # Yamagami Taro
 	religion="shinto"
@@ -395,7 +395,7 @@
 }
 12180227={
 	name=character_name_12180227 # Kinhide
-	dynasty=10006038 # Yamagami
+	dynasty_house=10006038 # Yamagami
 	#dynasty_house = "house_shgnt_yamagami"
 	father=12180226 # Yamagami Taro
 	religion="shinto"
@@ -410,7 +410,7 @@
 }
 12180300={
 	name=character_name_12180300 # Narichika
-	dynasty=10006037 # Ogo
+	dynasty_house=10006037 # Ogo
 	#dynasty_house = "house_shgnt_ogo"
 	father=12180104 # Ogo Shigetoshi
 	religion="shinto"
@@ -425,7 +425,7 @@
 }
 12180310={
 	name=character_name_12180310 # Takayoshi
-	dynasty=10006037 # Ogo
+	dynasty_house=10006037 # Ogo
 	#dynasty_house = "house_shgnt_ogo"
 	father=12180300 # Ogo Narichika
 	religion="shinto"
@@ -440,7 +440,7 @@
 }
 12180320={
 	name=character_name_12180320 # Sanehide
-	dynasty=10006037 # Ogo
+	dynasty_house=10006037 # Ogo
 	#dynasty_house = "house_shgnt_ogo"
 	father=12180310 # Ogo Takayoshi
 	religion="shinto"
@@ -455,7 +455,7 @@
 }
 12180325={
 	name=character_name_12180325 # Hidemura
-	dynasty=10006037 # Ogo
+	dynasty_house=10006037 # Ogo
 	#dynasty_house = "house_shgnt_ogo"
 	father=12180320 # Ogo Sanehide
 	religion="shinto"
@@ -470,7 +470,7 @@
 }
 12180326={
 	name=character_name_12180326 # KazusaNoSuke # Fictional
-	dynasty=10006037 # Ogo
+	dynasty_house=10006037 # Ogo
 	#dynasty_house = "house_shgnt_ogo"
 	father=12180325 # Ogo Hidemura
 	religion="shinto"
@@ -485,7 +485,7 @@
 }
 12180327={
 	name=character_name_12180327 # KazusaNoSuke # Fictional
-	dynasty=10006037 # Ogo
+	dynasty_house=10006037 # Ogo
 	#dynasty_house = "house_shgnt_ogo"
 	father=12180326 # Ogo KazusaNoSuke
 	religion="shinto"
@@ -500,7 +500,7 @@
 }
 12180328={
 	name=character_name_12180328 # KazusaNoSuke
-	dynasty=10006037 # Ogo
+	dynasty_house=10006037 # Ogo
 	#dynasty_house = "house_shgnt_ogo"
 	father=12180327 # Ogo KazusaNoSuke
 	religion="shinto"
@@ -515,7 +515,7 @@
 }
 12180400 = {
 	name = character_name_12180400 # Hirozane
-#	dynasty = 10006036	#Sonoda
+	dynasty_house = 10006036	#Sonoda
 	#dynasty_house = "house_shgnt_sonoda"
 	religion = "shinto"
 	culture="yamato"
@@ -530,7 +530,7 @@
 }
 12180401 = {
 	name = character_name_12180401 # Naritaka
-#	dynasty = 10006036	#Sonoda
+	dynasty_house = 10006036	#Sonoda
 	#dynasty_house = "house_shgnt_sonoda"
 	religion = "shinto"
 	culture="yamato"
@@ -545,7 +545,7 @@
 }
 12180402 = {
 	name = character_name_12180402 # Shigesumi
-#	dynasty = 10006036	#Sonoda
+	dynasty_house = 10006036	#Sonoda
 	#dynasty_house = "house_shgnt_sonoda"
 	religion = "shinto"
 	culture="yamato"
@@ -560,7 +560,7 @@
 }
 12180410 = {
 	name = character_name_12180410 # Narimoto
-#	dynasty = 10006036	#Sonoda
+	dynasty_house = 10006036	#Sonoda
 	#dynasty_house = "house_shgnt_sonoda"
 	religion = "shinto"
 	culture="yamato"
@@ -575,7 +575,7 @@
 }
 12180420 = {
 	name = character_name_12180420 # Nariie
-#	dynasty = 10006036	#Sonoda
+	dynasty_house = 10006036	#Sonoda
 	#dynasty_house = "house_shgnt_sonoda"
 	religion = "shinto"
 	culture="yamato"
@@ -590,7 +590,7 @@
 }
 12180421 = {
 	name = character_name_12180421 # Toshimoto
-#	dynasty = 10006036	#Sonoda
+	dynasty_house = 10006036	#Sonoda
 	#dynasty_house = "house_shgnt_sonoda"
 	religion = "shinto"
 	culture="yamato"
@@ -605,7 +605,7 @@
 }
 12180422 = {
 	name = character_name_12180422 # Yasumoto
-#	dynasty = 10006036	#Sonoda
+	dynasty_house = 10006036	#Sonoda
 	#dynasty_house = "house_shgnt_sonoda"
 	religion = "shinto"
 	culture="yamato"
@@ -620,7 +620,7 @@
 }
 12180430 = {
 	name = character_name_12180430 # Yoshitoshi
-#	dynasty = 10006036	#Sonoda
+	dynasty_house = 10006036	#Sonoda
 	#dynasty_house = "house_shgnt_sonoda"
 	religion = "shinto"
 	culture="yamato"
@@ -635,7 +635,7 @@
 }
 12180440={
 	name=character_name_12180440 # Hidetoshi
-	dynasty=10006036 # Sonoda
+	dynasty_house=10006036 # Sonoda
 	#dynasty_house = "house_shgnt_sonoda"
 	father=12180430 # Sonoda Yoshitoshi
 	religion="shinto"
@@ -650,7 +650,7 @@
 }
 12180443={
 	name=character_name_12180443 # Hidenari
-	dynasty=10006036 # Sonoda
+	dynasty_house=10006036 # Sonoda
 	#dynasty_house = "house_shgnt_sonoda"
 	father=12180440 # Sonoda Hidetoshi
 	religion="shinto"
@@ -665,7 +665,7 @@
 }
 12180447={
 	name=character_name_12180447 # Hidezumi
-	dynasty=10006036 # Sonoda
+	dynasty_house=10006036 # Sonoda
 	#dynasty_house = "house_shgnt_sonoda"
 	father=12180443 # Sonoda Hidenari
 	religion="shinto"
@@ -680,7 +680,7 @@
 }
 12180450={
 	name=character_name_12180450 # Shigezumi
-	dynasty=10006036 # Sonoda
+	dynasty_house=10006036 # Sonoda
 	#dynasty_house = "house_shgnt_sonoda"
 	father=12180447 # Sonoda Hidezumi
 	religion="shinto"
@@ -695,7 +695,7 @@
 }
 12180500 = {
 	name = character_name_12180500 # Kagetsuna
-#	dynasty = 10000111	#Sano
+	dynasty_house = 10000111	#Sano
 	#dynasty_house = "house_shgnt_sano"
 	religion = "shinto"
 	culture="yamato"
@@ -706,12 +706,12 @@
 	}
 	1237.1.1 = {
 		death=yes
-		dynasty = 10000111
+		dynasty_house = 10000111
 	}
 }
 12180501 = {
 	name = character_name_12180501 # Kunimoto
-#	dynasty = 10000111	#Sano
+	dynasty_house = 10000111	#Sano
 	#dynasty_house = "house_shgnt_sano"
 	religion = "shinto"
 	culture="yamato"
@@ -722,12 +722,12 @@
 	}
 	1238.1.1 = {
 		death=yes
-		dynasty = 10000111
+		dynasty_house = 10000111
 	}
 }
 12180510 = {
 	name = character_name_12180510 # Hidetsuna
-	dynasty = 10000111	#Sano
+	dynasty_house = 10000111	#Sano
 	religion = "shinto"
 	culture="yamato"
 	father = 12180500	#Sano Kagetsuna
@@ -741,7 +741,7 @@
 }
 12180511 = {
 	name = character_name_12180511 # Munetsuna
-	dynasty = 10000111	#Sano
+	dynasty_house = 10000111	#Sano
 	religion = "shinto"
 	culture="yamato"
 	father = 12180500	#Sano Kagetsuna
@@ -755,7 +755,7 @@
 }
 12180520 = {
 	name = character_name_12180520 # Sanetsuna
-	dynasty = 10000111	#Sano
+	dynasty_house = 10000111	#Sano
 	religion = "shinto"
 	culture="yamato"
 	father = 12180501	#Sano Kunimoto
@@ -769,7 +769,7 @@
 }
 12180521 = {
 	name = character_name_12180521 # Kagetsuna
-	dynasty = 10000111	#Sano
+	dynasty_house = 10000111	#Sano
 	religion = "shinto"
 	culture="yamato"
 	father = 12180501	#Sano Kunimoto
@@ -783,7 +783,7 @@
 }
 12180530 = {
 	name = character_name_12180530 # Yoritsuna
-	dynasty = 10000111	#Sano
+	dynasty_house = 10000111	#Sano
 	religion = "shinto"
 	culture="yamato"
 	father = 12180511	#Sano Munetsuna
@@ -797,7 +797,7 @@
 }
 12180540 = {
 	name = character_name_12180540 # Morotsuna
-	dynasty = 10000111	#Sano
+	dynasty_house = 10000111	#Sano
 	religion = "shinto"
 	culture="yamato"
 	father = 12180530	#Sano Yoritsuna
@@ -811,7 +811,7 @@
 }
 12180550 = {
 	name = character_name_12180550 # Moritsuna
-	dynasty = 10000111	#Sano
+	dynasty_house = 10000111	#Sano
 	religion = "shinto"
 	culture="yamato"
 	father = 12180520	#Sano Sanetsuna
@@ -825,7 +825,7 @@
 }
 12180560={
 	name=character_name_12180560 # Hirotsune
-	dynasty=10000111 # Sano
+	dynasty_house=10000111 # Sano
 	father=12180550 # Sano Moritsuna
 	religion="shinto"
 	culture="yamato"
@@ -839,7 +839,7 @@
 }
 12180570={
 	name=character_name_12180570 # Sadatsuna
-	dynasty=10000111 # Sano
+	dynasty_house=10000111 # Sano
 	father=12180560 # Sano Moritsuna
 	religion="shinto"
 	culture="yamato"
@@ -853,7 +853,7 @@
 }
 12180580={
 	name=character_name_12180580 # Suketsuna
-	dynasty=10000111 # Sano
+	dynasty_house=10000111 # Sano
 	father=12180570 # Sano Sadatsuna
 	religion="shinto"
 	culture="yamato"
@@ -867,7 +867,7 @@
 }
 12180590={
 	name=character_name_12180590 # Morotsuna
-	dynasty=10000111 # Sano
+	dynasty_house=10000111 # Sano
 	father=12180580 # Sano Suketsuna
 	religion="shinto"
 	culture="yamato"
@@ -881,7 +881,7 @@
 }
 12180600 = {
 	name=character_name_12180600 # Shigetsuna
-	dynasty=10000111 # Sano
+	dynasty_house=10000111 # Sano
 	father=12180590 # Sano Morotsuna
 	religion="shinto"
 	culture="yamato"
@@ -895,7 +895,7 @@
 }
 12180605={
 	name=character_name_12180605 # Suetsuna
-	dynasty=10000111 # Sano
+	dynasty_house=10000111 # Sano
 	father=12180600 # Sano Shigetsuna
 	religion="shinto"
 	culture="yamato"
@@ -909,7 +909,7 @@
 }
 12180606 = {
 	name=character_name_12180606 # Shigenaga
-	dynasty=10000111 # Sano
+	dynasty_house=10000111 # Sano
 	father=12180600
 	religion="shinto"
 	culture="yamato"
@@ -923,7 +923,7 @@
 }
 12180610 = {
 	name=character_name_12180610 # Moritsuna
-	dynasty=10000111 # Sano
+	dynasty_house=10000111 # Sano
 	father=12180606
 	religion="shinto"
 	culture="yamato"
@@ -937,7 +937,7 @@
 }
 12180615 = {
 	name=character_name_12180615 # Hidetsuna
-	dynasty=10000111 # Sano
+	dynasty_house=10000111 # Sano
 	father=12180610
 	religion="shinto"
 	culture="yamato"
@@ -951,7 +951,7 @@
 }
 12180620 = {
 	name=character_name_12180620 # Yasutsuna
-	dynasty=10000111 # Sano
+	dynasty_house=10000111 # Sano
 	father=12180615
 	religion="shinto"
 	culture="yamato"
@@ -965,7 +965,7 @@
 }
 12180700 = {
 	name = character_name_12180700 # Tomotsuna
-	dynasty = 10000041	#Asonuma
+	dynasty_house = 10000041	#Asonuma
 	religion = "shinto"
 	culture="yamato"
 	father = 12180151	#Asonuma Hirotsuna
@@ -985,7 +985,7 @@
 }
 12180701 = {
 	name = character_name_12180701 # Chikatsuna
-	dynasty = 10000041	#Asonuma
+	dynasty_house = 10000041	#Asonuma
 	religion = "shinto"
 	culture="yamato"
 	father = 12180151	#Asonuma Hirotsuna
@@ -999,7 +999,7 @@
 }
 12180710 = {
 	name = character_name_12180710 # Mitsutsuna
-	dynasty = 10000041	#Asonuma
+	dynasty_house = 10000041	#Asonuma
 	religion = "shinto"
 	culture="yamato"
 	father = 12180700	#Asonuma Tomotsuna
@@ -1019,7 +1019,7 @@
 }
 12180720 = {
 	name = character_name_12180720 # Kimitsuna
-	dynasty = 10000041	#Asonuma
+	dynasty_house = 10000041	#Asonuma
 	religion = "shinto"
 	culture="yamato"
 	father = 12180701	#Asonuma Chikatsuna
@@ -1033,7 +1033,7 @@
 }
 12180730 = {
 	name = character_name_12180730 # Kimisato
-	dynasty = 10000041	#Asonuma
+	dynasty_house = 10000041	#Asonuma
 	religion = "shinto"
 	culture="yamato"
 	father = 12180720	#Asonuma Kimitsuna
@@ -1047,7 +1047,7 @@
 }
 12180740 = {
 	name = character_name_12180740 # Ujitsuna
-	dynasty = 10000041	#Asonuma
+	dynasty_house = 10000041	#Asonuma
 	religion = "shinto"
 	culture="yamato"
 	father = 12180730	#Asonuma Kimisato
@@ -1061,7 +1061,7 @@
 }
 12180750 = {
 	name=character_name_12180750 # Tomotsuna
-	dynasty=10000041 # Asonuma
+	dynasty_house=10000041 # Asonuma
 	religion="shinto"
 	culture="oshu"
 	father=12180740 # Asonuma Ujitsuna
@@ -1075,7 +1075,7 @@
 }
 12180800 = {
 	name = character_name_12180800 # Masatsuna
-#	dynasty = 10006040	#Kimura
+	dynasty_house = 10006040	#Kimura
 	#dynasty_house = "house_shgnt_kimura"
 	religion = "shinto"
 	culture="yamato"
@@ -1090,7 +1090,7 @@
 }
 12180810 = {
 	name = character_name_12180810 # Yoshitsuna
-#	dynasty = 10006040	#Kimura
+	dynasty_house = 10006040	#Kimura
 	#dynasty_house = "house_shgnt_kimura"
 	religion = "shinto"
 	culture="yamato"
@@ -1105,7 +1105,7 @@
 }
 12180820 = {
 	name = character_name_12180820 # Chikatsuna
-#	dynasty = 10006040	#Kimura
+	dynasty_house = 10006040	#Kimura
 	#dynasty_house = "house_shgnt_kimura"
 	religion = "shinto"
 	culture="yamato"
@@ -1120,7 +1120,7 @@
 }
 12180830 = {
 	name = character_name_12180830 # Nagatsuna
-#	dynasty = 10006040	#Kimura
+	dynasty_house = 10006040	#Kimura
 	#dynasty_house = "house_shgnt_kimura"
 	religion = "shinto"
 	culture="yamato"
@@ -5043,7 +5043,7 @@
 }
 12190000={
 	name=character_name_12190000 # Sukefusa
-	dynasty=10007029 # Agatsuma
+	dynasty_house=10007029 # Agatsuma
 	father=12190006 # Agatsuma Kanehiro
 	religion="shinto"
 	culture="yamato"
@@ -5057,7 +5057,7 @@
 }
 12190010={
 	name=character_name_12190010 # Sukemitsu
-	dynasty=10007029 # Agatsuma
+	dynasty_house=10007029 # Agatsuma
 	father=12190000 # Agatsuma Sukefusa
 	religion="shinto"
 	culture="yamato"
@@ -5071,7 +5071,7 @@
 }
 12190001={
 	name=character_name_12190001 # Kanetsune
-	dynasty=10007029 # Agatsuma
+	dynasty_house=10007029 # Agatsuma
 	father=11004695 # Agatsuma Kanenari
 	religion="shinto"
 	culture="yamato"
@@ -5085,7 +5085,7 @@
 }
 12190002={
 	name=character_name_12190002 # Kaneyoshi
-	dynasty=10007029 # Agatsuma
+	dynasty_house=10007029 # Agatsuma
 	father=11004695 # Agatsuma Kanenari
 	religion="shinto"
 	culture="yamato"
@@ -5099,7 +5099,7 @@
 }
 12190003={
 	name=character_name_12190003 # Kanesada
-	dynasty=10007029 # Agatsuma
+	dynasty_house=10007029 # Agatsuma
 	father=11004695 # Agatsuma Kanenari
 	religion="shinto"
 	culture="yamato"
@@ -5113,7 +5113,7 @@
 }
 12190004={
 	name=character_name_12190004 # Kanezane
-	dynasty=10007029 # Agatsuma
+	dynasty_house=10007029 # Agatsuma
 	father=12190001 # Agatsuma Kanetsune
 	religion="shinto"
 	culture="yamato"
@@ -5127,7 +5127,7 @@
 }
 12190005={
 	name=character_name_12190005 # Kanemitsu
-	dynasty=10007029 # Agatsuma
+	dynasty_house=10007029 # Agatsuma
 	father=12190004 # Agatsuma Kanezane
 	religion="shinto"
 	culture="yamato"
@@ -5141,7 +5141,7 @@
 }
 12190006={
 	name=character_name_12190006 # Kanehiro
-	dynasty=10007029 # Agatsuma
+	dynasty_house=10007029 # Agatsuma
 	father=12190004 # Agatsuma Kanezane
 	religion="shinto"
 	culture="yamato"
@@ -5155,7 +5155,7 @@
 }
 12190007={
 	name=character_name_12190007 # Sukehiro
-	dynasty=10007029 # Agatsuma
+	dynasty_house=10007029 # Agatsuma
 	father=12190006 # Agatsuma Kanehiro
 	religion="shinto"
 	culture="yamato"
@@ -5224,7 +5224,7 @@
 }
 12190020={
 	name=character_name_12190020 # Kaneyasu
-	dynasty=10007030 # Shibukawa
+	dynasty_house=10007030 # Shibukawa
 	father=12190021 # Shibukawa Goro
 	religion="shinto"
 	culture="yamato"
@@ -5244,7 +5244,7 @@
 }
 12190021={
 	name=character_name_12190021 # Goro
-	dynasty=10007030 # Shibukawa
+	dynasty_house=10007030 # Shibukawa
 	father=12190002 # Agatsuma Kaneyoshi
 	religion="shinto"
 	culture="yamato"
@@ -5258,7 +5258,7 @@
 }
 12190030={
 	name=character_name_12190030 # Kanetada
-	dynasty=10007030 # Shibukawa
+	dynasty_house=10007030 # Shibukawa
 	father=12190020 # Shibukawa Kaneyasu
 	religion="shinto"
 	culture="yamato"
@@ -5282,7 +5282,7 @@
 12190040={
 	female=yes
 	name=character_name_12190040 # Tadako
-	dynasty=10007030 # Shibukawa
+	dynasty_house=10007030 # Shibukawa
 	father=12190030 # Shibukawa Kanetada
 	religion="shinto"
 	culture="yamato"
@@ -5296,7 +5296,7 @@
 }
 12190041={
 	name=character_name_12190041 # Kanemori
-	dynasty=10007030 # Shibukawa
+	dynasty_house=10007030 # Shibukawa
 	father=12190030 # Shibukawa Kanetada
 	religion="shinto"
 	culture="yamato"
@@ -5442,7 +5442,7 @@
 }
 12190100={
 	name=character_name_12190100 # Michihiro
-	dynasty=10007282 # Mogi
+	dynasty_house=10007282 # Mogi
 	father=12190220
 	religion="shinto"
 	culture="yamato"
@@ -5456,7 +5456,7 @@
 }
 12190105={
 	name=character_name_12190105 # Mochihiro
-	dynasty=10007282 # Mogi
+	dynasty_house=10007282 # Mogi
 	father=12190100 # Mogi Michihiro
 	religion="shinto"
 	culture="yamato"
@@ -5472,7 +5472,7 @@
 }
 12190200={
 	name=character_name_12190200 # Hironobu
-	dynasty=10006041 # Sanuki
+	dynasty_house=10006041 # Sanuki
 	#dynasty_house = "house_shgnt_sanuki"
 	father=10130454 # Sanuki Hidetsuna
 	religion="shinto"
@@ -5487,7 +5487,7 @@
 }
 12190205={
 	name=character_name_12190205 # Hirotane
-	dynasty=10006041 # Sanuki
+	dynasty_house=10006041 # Sanuki
 	#dynasty_house = "house_shgnt_sanuki"
 	father=12190200 # Sanuki Hironobu
 	religion="shinto"
@@ -5502,7 +5502,7 @@
 }
 12190210={
 	name=character_name_12190210 # Tadahiro
-	dynasty=10006041 # Sanuki
+	dynasty_house=10006041 # Sanuki
 	#dynasty_house = "house_shgnt_sanuki"
 	father=12190205 # Sanuki Hirotane
 	religion="shinto"
@@ -5517,7 +5517,7 @@
 }
 12190215={
 	name=character_name_12190215 # Munetsuna
-	dynasty=10006041 # Sanuki
+	dynasty_house=10006041 # Sanuki
 	#dynasty_house = "house_shgnt_sanuki"
 	father=12190210 # Sanuki Tadahiro
 	religion="shinto"
@@ -5532,7 +5532,7 @@
 }
 12190220={
 	name=character_name_12190220 # Morotsuna
-	dynasty=10006041 # Sanuki
+	dynasty_house=10006041 # Sanuki
 	#dynasty_house = "house_shgnt_sanuki"
 	father=12190215 # Sanuki Munetsuna
 	religion="shinto"
@@ -8146,7 +8146,7 @@
 }
 12202000={
 	name=character_name_12202000 # Kanehiro
-	dynasty=10007040 # Adachi
+	dynasty_house=10007040 # Adachi
 	father=11006428 # Fujiwara Kunishige
 	religion="shinto"
 	culture="yamato"
@@ -8160,7 +8160,7 @@
 }
 12202005={
 	name=character_name_12202005 # Tokane
-	dynasty=10007040 # Adachi
+	dynasty_house=10007040 # Adachi
 	father=12202000 # Adachi Kanehiro
 	religion="shinto"
 	culture="yamato"
@@ -8177,7 +8177,7 @@
 }
 12202006={
 	name=character_name_12202006 # Morinaga
-	dynasty=10007041 # Adachi
+	dynasty_house=10007041 # Adachi
 	father=12202000 # Adachi Kanehiro
 	religion="shinto"
 	culture="yamato"
@@ -8216,7 +8216,7 @@
 }
 12202010={
 	name=character_name_12202010 # Tomoto
-	dynasty=10007040 # Adachi
+	dynasty_house=10007040 # Adachi
 	father=12202005 # Adachi Tokane
 	mother=12201016 # Toshima Yasuko 
 	religion="shinto"
@@ -8232,7 +8232,7 @@
 }
 12202020={
 	name=character_name_12202020 # Motoharu
-	dynasty=10007040 # Adachi
+	dynasty_house=10007040 # Adachi
 	father=12202010 # Adachi Tomoto
 	religion="shinto"
 	culture="yamato"
@@ -8246,7 +8246,7 @@
 }
 12202021={
 	name=character_name_12202021 # Tomitsu
-	dynasty=10007040 # Adachi
+	dynasty_house=10007040 # Adachi
 	father=12202010 # Adachi Tomoto
 	religion="shinto"
 	culture="yamato"
@@ -8261,7 +8261,7 @@
 12202022={
 	female=yes
 	name=character_name_12202022 # Motoko
-	dynasty=10007040 # Adachi
+	dynasty_house=10007040 # Adachi
 	father=12202010 # Adachi Tomoto
 	religion="shinto"
 	culture="yamato"
@@ -8276,7 +8276,7 @@
 12202023={
 	female=yes
 	name=character_name_12202023 # Toko
-	dynasty=10007040 # Adachi
+	dynasty_house=10007040 # Adachi
 	father=12202010 # Adachi Tomoto
 	religion="shinto"
 	culture="yamato"
@@ -8291,7 +8291,7 @@
 12202024={
 	female=yes
 	name=character_name_12202024 # Emon
-	dynasty=10007040 # Adachi
+	dynasty_house=10007040 # Adachi
 	father=12202010 # Adachi Tomoto
 	religion="shinto"
 	culture="yamato"

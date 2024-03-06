@@ -19,19 +19,11 @@
 	culture = yamato
 	#culture = dewa
 }
-10000006 = {
-	name=dynasty_name_10000006
-	culture = yamato
-	#culture = dewa
-}
 
 
 
-10000010 = {
-	name=dynasty_name_10000010
-	culture = yamato
-	#culture = dewa
-}
+
+
 10000011 = {
 	name=dynasty_name_10000011
 	culture = yamato
