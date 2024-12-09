@@ -1,5 +1,0 @@
-﻿l_simp_chinese:
-
-  trait_sheauhaw_tenno_down_trait:0 "臣籍降下"
-  trait_sheauhaw_tenno_down_trait_desc:0 "这位曾经的天皇家皇族，现已经被赐予姓氏，失去皇族身份成为臣民。"
-  trait_sheauhaw_tenno_down_trait_character_desc:0 "[ROOT.GetCharacter.Custom('OE_GetNameNoTooltip')]曾经是天皇家皇族，现已经被赐予[ROOT.GetCharacter.GetDynasty.GetBaseNameNoTooltip]姓，失去皇族身份成为臣子。"

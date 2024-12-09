@@ -1,9 +1,0 @@
-﻿l_simp_chinese:
-  d_tianshi_real_religious_head_title:0 "你的[head_of_faith|E]应该是[GetTitleByKey('d_tianshi').GetName]。"
-  d_gosho_real_religious_head_title:0 "你的[head_of_faith|E]应该是[GetTitleByKey('d_gosho').GetName]。"
-  d_confucius_real_religious_head_title:0 "你的[head_of_faith|E]应该是[GetTitleByKey('d_confucius').GetName]。"
-
-  RELIGIOUS_HEAD_WITH_NAME_TIANSHI:0 "[GetTitleByKey('d_tianshi').GetHolder.Custom('OE_GetUINameNoTooltip')|U]\n暂时无法履行信仰领袖职责"
-  RELIGIOUS_HEAD_WITH_NAME_GOSHO:0 "[GetTitleByKey('d_gosho').GetHolder.Custom('OE_GetUINameNoTooltip')|U]\n暂时无法履行信仰领袖职责"
-  RELIGIOUS_HEAD_WITH_NAME_CONFUCIUS:0 "[GetTitleByKey('d_confucius').GetHolder.Custom('OE_GetUINameNoTooltip')|U]\n暂时无法履行信仰领袖职责"
-  

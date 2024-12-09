@@ -1,3 +1,0 @@
-﻿bm_group_ck2 = {
-	default_start_date = 1066.12.26
-}
