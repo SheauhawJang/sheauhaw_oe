@@ -1,0 +1,77 @@
+bm_769_ck2 = {
+	start_date = 769.1.1
+	is_playable = yes
+	group = bm_group_ck2
+}
+
+bm_867_ck2 = {
+	start_date = 867.1.1
+	is_playable = yes
+	group = bm_group_ck2
+}
+
+bm_936_ck2 = {
+	start_date = 936.8.7
+	is_playable = yes
+	group = bm_group_ck2
+}
+
+bm_1066_0_ck2 = {
+	start_date = 1066.9.15
+	is_playable = yes
+	group = bm_group_ck2
+}
+
+bm_1066_1_ck2 = {
+	start_date = 1066.12.26
+	is_playable = yes
+	group = bm_group_ck2
+}
+
+bm_1081_ck2 = {
+	start_date = 1081.4.1
+	is_playable = yes
+	group = bm_group_ck2
+}
+
+bm_1187_ck2 = {
+	start_date = 1187.1.1
+	is_playable = yes
+	group = bm_group_ck2
+}
+
+bm_1204_ck2 = {
+	start_date = 1204.5.16
+	is_playable = yes
+	group = bm_group_ck2
+}
+
+bm_1220_ck2 = {
+	start_date = 1220.2.1
+	is_playable = yes
+	group = bm_group_ck2
+}
+
+bm_1241_ck2 = {
+	start_date = 1241.5.1
+	is_playable = yes
+	group = bm_group_ck2
+}
+
+bm_1337_ck2 = {
+	start_date = 1337.1.1
+	is_playable = yes
+	group = bm_group_ck2
+}
+
+bm_1453_ck2 = {
+	start_date = 1453.5.29
+	is_playable = yes
+	group = bm_group_ck2
+}
+
+bm_2020_ck2 = {
+	start_date = 2020.1.1
+	is_playable = yes
+	group = bm_group_ck2
+}
