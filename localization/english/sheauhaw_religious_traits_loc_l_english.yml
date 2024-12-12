@@ -1,0 +1,7 @@
+﻿l_english:
+  trait_sheauhaw_tenno_name_trait:0 "Tenno"
+  trait_sheauhaw_tenno_name_trait_desc:0 "Tenno is called by using posthumous name."
+  trait_sheauhaw_tenno_name_trait_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] Tenno is the posthumous name of [ROOT.GetCharacter.GetOriginalFirstName]. [ROOT.GetCharacter.GetSheHe|U] is called by using posthumous."
+  trait_sheauhaw_dead_religious_head_trait:0 "Religious Head"
+  trait_sheauhaw_dead_religious_head_desc:0 "Religious head is called by using religious head title."
+  trait_sheauhaw_dead_religious_head_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is [ROOT.GetCharacter.GetFaith.GetAdjective] [ROOT.GetCharacter.GetFaith.ReligiousHeadName]. [ROOT.GetCharacter.GetSheHe|U] is called by using religious head title."

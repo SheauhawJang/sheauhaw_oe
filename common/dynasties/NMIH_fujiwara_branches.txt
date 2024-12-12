@@ -1,0 +1,69 @@
+﻿10001000 = {
+	name=dynasty_name_10001000
+	culture = yamato #aristocrats
+}
+10001001 = {
+	name=dynasty_name_10001001
+	culture = yamato #aristocrats
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10001096 = {
+	name=dynasty_name_10001096 # Hida=Anekoji
+	culture = yamato #aristocrats
+}
+
+
+

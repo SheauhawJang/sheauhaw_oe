@@ -1,0 +1,39 @@
+on_game_start = {
+	on_actions = {
+		sheauhaw_tenno_succession_action
+	}
+}
+
+on_title_gain = {
+	on_actions = {
+		sheauhaw_tenno_succession_action
+		sheauhaw_incho_destroy_action
+	}
+}
+
+sheauhaw_tenno_succession_action = {
+	effect = {
+		title:d_incho = {
+			holder = {
+				limit = {
+					NOT = { has_title = title:d_gosho }
+				}
+				set_designated_heir_unsafe = title:d_gosho.holder
+			}
+		}
+	}
+}
+
+sheauhaw_incho_destroy_action = {
+	effect = {
+		if = {
+			limit = {
+				scope:title = title:d_incho
+				title:d_gosho.holder = title:d_incho.holder
+			}
+			title:d_incho.holder = {
+				destroy_title = title:d_incho
+			}
+		}
+	}
+}
