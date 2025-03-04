@@ -1,25 +1,31 @@
 on_game_start = {
 	on_actions = {
+		sheauhaw_start_action
 		sheauhaw_tenno_succession_action
 	}
 }
 
 on_title_gain = {
 	on_actions = {
-		sheauhaw_tenno_succession_action
+		#sheauhaw_tenno_succession_action
 		sheauhaw_incho_destroy_action
 	}
 }
 
 sheauhaw_tenno_succession_action = {
 	effect = {
-		title:d_incho = {
-			holder = {
-				limit = {
-					NOT = { has_title = title:d_gosho }
+		if = {
+			limit = {
+				OR = {
+					NOT = { exists = scope:title }
+					scope:title = title:d_gosho
+					scope:title = title:d_incho
 				}
-				set_designated_heir_unsafe = title:d_gosho.holder
+				exists = title:d_incho.holder
+				exists = title:d_gosho.holder
+				NOT = { title:d_incho.holder = title:d_gosho.holder }
 			}
+			title:d_incho.holder = { set_designated_heir_unsafe = title:d_gosho.holder }
 		}
 	}
 }
@@ -29,11 +35,102 @@ sheauhaw_incho_destroy_action = {
 		if = {
 			limit = {
 				scope:title = title:d_incho
-				title:d_gosho.holder = title:d_incho.holder
+				NOT = {
+					title:d_gosho = {
+						any_past_holder = {
+							this = title:d_incho.holder
+						}
+					}
+				}
 			}
 			title:d_incho.holder = {
 				destroy_title = title:d_incho
 			}
+		}
+	}
+}
+
+sheauhaw_start_action = {
+	effect = {
+		faith:shinto = {
+			remove_doctrine = doctrine_spiritual_head
+			add_doctrine = doctrine_temporal_head
+		}
+		if = {
+			limit = {
+				current_date >= 866.9.22
+				character:11000039 = {
+					is_alive = yes
+				}
+			}
+			character:11000052 = {
+				add_trait = adopted
+				set_father = character:11000039
+			}
+		}
+		character:10041034 = {
+			set_mother = character:11000044_1
+		}
+		every_living_character = {
+			limit = {
+				has_trait = bastard
+				OR = {
+					house.house_founder = this
+					any_child = {
+						even_if_dead = yes
+						house = prev.house
+					}
+				}
+			}
+			remove_trait = bastard
+			add_trait = bastard_founder
+		}
+		random_living_character = {
+			save_scope_as = random_template
+		}
+		create_character = {
+			age = 100
+			gender = male
+			save_scope_as = dummy_father
+		}
+		create_character = {
+			age = 100
+			gender = female
+			save_scope_as = dummy_mother
+		}
+		while = {
+			limit = {
+				NAND = {
+					scope:dummy_father = { 
+						can_be_parent_of = character:10126000 
+						can_be_parent_of = character:10126001
+					}
+					scope:dummy_mother = { 
+						can_be_parent_of = character:10126000 
+						can_be_parent_of = character:10126001
+					}
+				}
+			}
+			scope:dummy_father = { change_age = 100 }
+			scope:dummy_mother = { change_age = 100 }
+		}
+		character:10126000 = {
+			death = yes
+			set_to_lowborn = yes
+			set_father = scope:dummy_father
+			set_mother = scope:dummy_mother
+		}
+		character:10126001 = {
+			death = yes
+			set_to_lowborn = yes
+			set_father = scope:dummy_father
+			set_mother = scope:dummy_mother
+		}
+		scope:dummy_father = {
+			death = yes
+		}
+		scope:dummy_mother = {
+			death = yes
 		}
 	}
 }

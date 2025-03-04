@@ -24,16 +24,56 @@ sheauhaw_claim_succession_action = {
 					limit = {
 						NOT = { this = root }
 						NOR = {
-							has_trait = eunuch
+							has_trait = eunuch_1
+							has_trait = beardless_eunuch
 							has_trait = bastard
 							has_trait = bastard_founder
-							AND = {
-								has_trait = disinherited
-								dynasty = prev.dynasty
-							}
 						}
+						is_female = yes
 					}
 					add_pressed_claim = scope:title
+				}
+			}
+		}
+	}
+}
+
+on_death = {
+	on_actions = {
+		sheauhaw_claim_claim_succession_action
+	}
+}
+
+sheauhaw_claim_claim_succession_action = {
+	effect = {
+		if = {
+			limit = {
+				NOT = {
+					faith = {
+						has_doctrine = doctrine_gender_male_dominated
+						religion_tag = islam_religion
+					}
+				}
+			}
+			every_claim = {
+				pressed = yes
+				add_to_list = pressed_clains
+			}
+			every_child = {
+				limit = {
+					NOR = {
+						has_trait = eunuch_1
+						has_trait = beardless_eunuch
+						has_trait = bastard
+						has_trait = bastard_founder
+					}
+					is_female = yes
+				}
+				every_in_list = {
+					list = pressed_clains
+					prev = {
+						add_unpressed_claim = prev
+					}
 				}
 			}
 		}
