@@ -1018,12 +1018,6 @@
 	name=dynasty_name_10000585
 	culture = kyushu #shikoku
 }
-10000602 = {
-	dynasty = 10001000
-	name=dynasty_name_10000602
-	culture = kyushu
-	#culture = southern_kyushu
-}
 10000605 = {
 	dynasty = 10001000
 	name=dynasty_name_10000605
