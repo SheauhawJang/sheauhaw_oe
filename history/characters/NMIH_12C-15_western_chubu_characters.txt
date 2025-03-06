@@ -2750,7 +2750,7 @@
 }
 12432000={
 	name=character_name_12432000 # Munetsune
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110206 # Taira Muneyori
 	religion="shinto"
 	culture=yamato #"western_chubu"
@@ -2765,7 +2765,7 @@
 }
 12432001={
 	name=character_name_12432001 # Kimichika
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110206 # Taira Muneyori
 	religion="shinto"
 	culture=yamato #"western_chubu"
@@ -2971,7 +2971,7 @@
 }
 12432100={
 	name=character_name_12432100 # Tsuneie
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=12432000 # Taira Munetsune
 	religion="shinto"
 	culture=yamato #"western_chubu"

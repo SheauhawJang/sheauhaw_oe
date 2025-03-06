@@ -1063,7 +1063,7 @@
 }
 12061500={
 	name=character_name_12061500 # Yasuada
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110010 # Taira Shigemori
 	religion="shinto"
 	culture=oshu #"southern_oshu"
@@ -1077,7 +1077,7 @@
 }
 12061510={
 	name=character_name_12061510 # Tadahira
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=12061500 # Taira Yasuada
 	religion="shinto"
 	culture=oshu #"southern_oshu"

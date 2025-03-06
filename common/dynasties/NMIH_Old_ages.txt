@@ -129,10 +129,7 @@
 	name=dynasty_name_10005120
 	culture=yamato #aristocrats
 }
-10005121={
-	name=dynasty_name_10005121
-	culture=yamato #aristocrats
-}
+
 10005130={
 	name=dynasty_name_10005130
 	culture=yamato #aristocrats

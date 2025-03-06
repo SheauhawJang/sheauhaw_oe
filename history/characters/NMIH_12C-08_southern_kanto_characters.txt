@@ -5737,7 +5737,7 @@
 }
 12215000={
 	name=character_name_12215000 # Akina
-	dynasty=10001100 # Taira -> Kamakura
+	dynasty_house=10001100 # Taira -> Kamakura
 	father=10110585 # Taira Tadamichi
 	religion="shinto"
 	culture=oshu #"southern_kanto"

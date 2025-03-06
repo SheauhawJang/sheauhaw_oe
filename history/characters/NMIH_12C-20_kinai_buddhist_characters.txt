@@ -1,6 +1,6 @@
 ﻿12570100={
 	name=character_name_12570100 # Myoun
-	dynasty=10001250 # Minamoto
+	dynasty_house=10001250 # Minamoto
 	father=10125040
 	religion=tiantai #jingtu
 	culture=yamato #"kinai_buddhist"
@@ -73,7 +73,7 @@
 }
 12570102={
 	name=character_name_12570102 # Shungyo
-	dynasty=10001250 # Minamoto
+	dynasty_house=10001250 # Minamoto
 	father=10125021 # 
 	religion=tiantai #jingtu
 	culture=yamato #"kinai_buddhist"

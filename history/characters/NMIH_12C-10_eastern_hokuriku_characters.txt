@@ -1,6 +1,6 @@
 ﻿12270000={
 	name=character_name_12270000 # Koremochi
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110010 # Taira Shigemori
 	religion="shinto"
 	culture=oshu #"eastern_hokuriku"
@@ -14,7 +14,7 @@
 }
 12270010={
 	name=character_name_12270010 # Shigesada
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=12270000 # Taira Koremochi
 	religion="shinto"
 	culture=oshu #"eastern_hokuriku"
@@ -28,7 +28,7 @@
 }
 12270011={
 	name=character_name_12270011 # Shigekane
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=12270000 # Taira Koremochi
 	religion="shinto"
 	culture=oshu #"eastern_hokuriku"
@@ -42,7 +42,7 @@
 }
 12270012={
 	name=character_name_12270012 # Shigemochi
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=12270000 # Taira Koremochi
 	religion="shinto"
 	culture=oshu #"eastern_hokuriku"
@@ -56,7 +56,7 @@
 }
 12270013={
 	name=character_name_12270013 # Shigemoto
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=12270000 # Taira Koremochi
 	religion="shinto"
 	culture=oshu #"eastern_hokuriku"

@@ -17,15 +17,21 @@ sheauhaw_tenno_succession_action = {
 		if = {
 			limit = {
 				OR = {
-					NOT = { exists = scope:title }
+					NOT = {
+						exists = scope:title
+					}
 					scope:title = title:d_gosho
 					scope:title = title:d_incho
 				}
 				exists = title:d_incho.holder
 				exists = title:d_gosho.holder
-				NOT = { title:d_incho.holder = title:d_gosho.holder }
+				NOT = {
+					title:d_incho.holder = title:d_gosho.holder
+				}
 			}
-			title:d_incho.holder = { set_designated_heir_unsafe = title:d_gosho.holder }
+			title:d_incho.holder = {
+				set_designated_heir_unsafe = title:d_gosho.holder
+			}
 		}
 	}
 }
@@ -35,16 +41,40 @@ sheauhaw_incho_destroy_action = {
 		if = {
 			limit = {
 				scope:title = title:d_incho
-				NOT = {
-					title:d_gosho = {
-						any_past_holder = {
-							this = title:d_incho.holder
+			}
+			if = {
+				limit = {
+					title:d_incho.holder = title:d_gosho.holder
+				}
+				if = {
+					limit = {
+						exists = title:d_gosho.current_heir
+					}
+					add_pressed_claim = title:k_yamato
+					title:d_gosho.current_heir = {
+						get_title = title:d_gosho
+					}
+					add_trait = joko
+				}
+				else = {
+					destroy_title = title:d_gosho
+				}
+			}
+			else_if = {
+				limit = {
+					scope:title = title:d_incho
+					NOT = {
+						title:d_gosho = {
+							any_past_holder = {
+								this = title:d_incho.holder
+							}
 						}
 					}
 				}
-			}
-			title:d_incho.holder = {
 				destroy_title = title:d_incho
+			}
+			else = {
+				add_trait = joko
 			}
 		}
 	}
@@ -101,18 +131,22 @@ sheauhaw_start_action = {
 		while = {
 			limit = {
 				NAND = {
-					scope:dummy_father = { 
-						can_be_parent_of = character:10126000 
+					scope:dummy_father = {
+						can_be_parent_of = character:10126000
 						can_be_parent_of = character:10126001
 					}
-					scope:dummy_mother = { 
-						can_be_parent_of = character:10126000 
+					scope:dummy_mother = {
+						can_be_parent_of = character:10126000
 						can_be_parent_of = character:10126001
 					}
 				}
 			}
-			scope:dummy_father = { change_age = 100 }
-			scope:dummy_mother = { change_age = 100 }
+			scope:dummy_father = {
+				change_age = 100
+			}
+			scope:dummy_mother = {
+				change_age = 100
+			}
 		}
 		character:10126000 = {
 			death = yes

@@ -1,0 +1,24 @@
+﻿saikai_001_dyn = {
+	name = "dynn_saikai_001"
+	culture = "yamato"
+}
+saikai_002_dyn = {
+	name = "dynn_saikai_002"
+	culture = "yamato"
+}
+saikai_003_dyn = {
+	name = "dynn_saikai_003"
+	culture = "yamato"
+}
+
+chinjufu_001_dyn = {
+	name = "dynn_chinjufu_001"
+	culture = "yamato"
+}
+
+
+
+
+
+
+

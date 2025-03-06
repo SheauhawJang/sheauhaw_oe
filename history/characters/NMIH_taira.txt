@@ -14,7 +14,7 @@
 }
 10110001 = {
 	name=character_name_10110001 # Takamochi
-	dynasty=10001100 # Taira (Kanmu Heishi)
+	dynasty_house=10001100 # Taira (Kanmu Heishi)
 	religion="shinto"
 	culture=yamato
 	trait = taira_clan
@@ -29,7 +29,7 @@
 }
 10110002 = {
 	name=character_name_10110002 # Kunika
-	dynasty=10001100 # Taira (Kanmu Heishi)
+	dynasty_house=10001100 # Taira (Kanmu Heishi)
 	religion="shinto"
 	culture=yamato
 	trait = taira_clan
@@ -58,7 +58,7 @@
 }
 10110003 = {
 	name=character_name_10110003 # Yoshikane
-	dynasty=10001100 # Taira (Kanmu Heishi)
+	dynasty_house=10001100 # Taira (Kanmu Heishi)
 	religion="shinto"
 	culture=yamato
 	trait = taira_clan
@@ -81,7 +81,7 @@
 }
 10110004 = {
 	name=character_name_10110004 # Yoshimochi
-	dynasty=10001100 # Taira (Kanmu Heishi)
+	dynasty_house=10001100 # Taira (Kanmu Heishi)
 	religion="shinto"
 	culture=yamato
 	trait = taira_clan
@@ -99,7 +99,7 @@
 }
 10110005 = {
 	name=character_name_10110005 # Yoshiyori
-	dynasty=10001100 # Taira (Kanmu Heishi)
+	dynasty_house=10001100 # Taira (Kanmu Heishi)
 	religion="shinto"
 	culture=yamato
 	trait = taira_clan
@@ -113,7 +113,7 @@
 }
 10110006 = {
 	name=character_name_10110006 # Yoshihiro
-	dynasty=10001100 # Taira (Kanmu Heishi)
+	dynasty_house=10001100 # Taira (Kanmu Heishi)
 	religion="shinto"
 	culture=yamato
 	trait = taira_clan
@@ -127,7 +127,7 @@
 }
 10110007 = {
 	name=character_name_10110007 # Yoshimasa
-	dynasty=10001100 # Taira (Kanmu Heishi)
+	dynasty_house=10001100 # Taira (Kanmu Heishi)
 	religion="shinto"
 	culture=yamato
 	trait = taira_clan
@@ -145,7 +145,7 @@
 }
 10110008 = {
 	name=character_name_10110008 # Yoshishige
-	dynasty=10001100 # Taira (Kanmu Heishi)
+	dynasty_house=10001100 # Taira (Kanmu Heishi)
 	religion="shinto"
 	culture=yamato
 	trait = taira_clan
@@ -159,7 +159,7 @@
 }
 10110009 = {
 	name=character_name_10110009 # Sadamori
-	dynasty=10001100 # Taira (Kanmu Heishi)
+	dynasty_house=10001100 # Taira (Kanmu Heishi)
 	religion="shinto"
 	culture=yamato
 	trait = taira_clan
@@ -183,7 +183,7 @@
 }
 10110010 = {
 	name=character_name_10110010 # Shigemori
-	dynasty=10001100 # Taira (Kanmu Heishi)
+	dynasty_house=10001100 # Taira (Kanmu Heishi)
 	religion="shinto"
 	culture=yamato
 	trait = taira_clan
@@ -198,7 +198,7 @@
 }
 10110011 = {
 	name=character_name_10110011 # Kaneto
-	dynasty=10001100 # Taira (Kanmu Heishi)
+	dynasty_house=10001100 # Taira (Kanmu Heishi)
 	religion="shinto"
 	culture=yamato
 	trait = taira_clan
@@ -212,7 +212,7 @@
 }
 10110012 = {
 	name=character_name_10110012 # Korenobu
-	dynasty=10001100 # Taira (Kanmu Heishi)
+	dynasty_house=10001100 # Taira (Kanmu Heishi)
 	religion="shinto"
 	culture=yamato
 	trait = taira_clan
@@ -226,7 +226,7 @@
 }
 10110013 = {
 	name=character_name_10110013 # Koremasa
-	dynasty=10001100 # Taira (Kanmu Heishi)
+	dynasty_house=10001100 # Taira (Kanmu Heishi)
 	religion="shinto"
 	culture=yamato
 	trait = taira_clan
@@ -240,7 +240,7 @@
 }
 10110014 = {
 	name=character_name_10110014 # Koretoshi
-	dynasty=10001100 # Taira (Kanmu Heishi)
+	dynasty_house=10001100 # Taira (Kanmu Heishi)
 	religion="shinto"
 	culture=yamato
 	trait = taira_clan
@@ -254,7 +254,7 @@
 }
 10110015 = {
 	name=character_name_10110015 # Korehira
-	dynasty=10001100 # Taira (Kanmu Heishi)
+	dynasty_house=10001100 # Taira (Kanmu Heishi)
 	religion="shinto"
 	culture=yamato
 	trait = taira_clan
@@ -268,7 +268,7 @@
 }
 10110016 = {
 	name=character_name_10110016 # Masanori
-	dynasty=10001100 # Taira (Kanmu Heishi)
+	dynasty_house=10001100 # Taira (Kanmu Heishi)
 	religion="shinto"
 	culture=yamato
 	trait = taira_clan
@@ -282,7 +282,7 @@
 }
 10110017 = {
 	name=character_name_10110017 # Masazumi
-	dynasty=10001100 # Taira (Kanmu Heishi)
+	dynasty_house=10001100 # Taira (Kanmu Heishi)
 	religion="shinto"
 	culture=yamato
 	trait = taira_clan
@@ -296,7 +296,7 @@
 }
 10110018 = {
 	name=character_name_10110018 # Koremori
-	dynasty=10001100 # Taira (Kanmu Heishi)
+	dynasty_house=10001100 # Taira (Kanmu Heishi)
 	religion="shinto"
 	culture=yamato
 	trait = taira_clan
@@ -310,7 +310,7 @@
 }
 10110019 = {
 	name=character_name_10110019 # Sadasue
-	dynasty=10001100 # Taira (Kanmu Heishi)
+	dynasty_house=10001100 # Taira (Kanmu Heishi)
 	religion="shinto"
 	culture=yamato
 	trait = taira_clan
@@ -324,7 +324,7 @@
 }
 10110020 = {
 	name=character_name_10110020 # Suehira
-	dynasty=10001100 # Taira (Kanmu Heishi)
+	dynasty_house=10001100 # Taira (Kanmu Heishi)
 	religion="shinto"
 	culture=yamato
 	trait = taira_clan
@@ -338,7 +338,7 @@
 }
 10110021 = {
 	name=character_name_10110021 # Sadahira
-	dynasty=10001100 # Taira (Kanmu Heishi)
+	dynasty_house=10001100 # Taira (Kanmu Heishi)
 	religion="shinto"
 	culture=yamato
 	trait = taira_clan
@@ -352,7 +352,7 @@
 }
 10110022 = {
 	name=character_name_10110022 # Masahira
-	dynasty=10001100 # Taira (Kanmu Heishi)
+	dynasty_house=10001100 # Taira (Kanmu Heishi)
 	religion="shinto"
 	culture=yamato
 	trait = taira_clan
@@ -366,7 +366,7 @@
 }
 10110023 = {
 	name=character_name_10110023 # Masamori
-	dynasty=10001100 # Taira (Kanmu Heishi)
+	dynasty_house=10001100 # Taira (Kanmu Heishi)
 	religion="shinto"
 	culture=yamato
 	trait = taira_clan
@@ -380,7 +380,7 @@
 }
 10110024 = {
 	name=character_name_10110024 # Tadamasa
-	dynasty=10001100 # Taira (Kanmu Heishi)
+	dynasty_house=10001100 # Taira (Kanmu Heishi)
 	religion="shinto"
 	culture=yamato
 	trait = taira_clan
@@ -394,7 +394,7 @@
 }
 10110027={
 	name=character_name_10110027 # Sadamasa
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110023 # 
 	religion="shinto"
 	culture=yamato
@@ -408,7 +408,7 @@
 }
 10110026 = {
 	name=character_name_10110026 # Tadamori
-	dynasty=10001100 # Taira (Kanmu Heishi)
+	dynasty_house=10001100 # Taira (Kanmu Heishi)
 	father=10110023 # Taira Masamori
 	religion="shinto"
 	culture=yamato
@@ -430,7 +430,7 @@
 }
 10110025 = {
 	name=character_name_10110025 # Kiyomori
-	dynasty=10001100 # Taira (Kanmu Heishi)
+	dynasty_house=10001100 # Taira (Kanmu Heishi)
 	father=10110026 # Taira Tadamori
 	religion="shinto"
 	culture=yamato
@@ -475,7 +475,7 @@
 }
 10110030={
 	name=character_name_10110030 # Iemori
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110026 # Taira Tadamori
 	mother=11006617 # Fujiwara Muneko [Ike no Zenni]
 	religion="shinto"
@@ -490,7 +490,7 @@
 }
 10110031={
 	name=character_name_10110031 # Tsunemori
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110026 # Taira Tadamori
 	religion="shinto"
 	culture=yamato
@@ -524,7 +524,7 @@
 }
 10110032={
 	name=character_name_10110032 # Norimori
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110026 # Taira Tadamori
 	religion="shinto"
 	culture=yamato
@@ -565,7 +565,7 @@
 }
 10110033={
 	name=character_name_10110033 # Yorimori
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110026 # Taira Tadamori
 	mother=11006617 # Fujiwara Muneko [Ike no Zenni]
 	religion="shinto"
@@ -610,7 +610,7 @@
 }
 10110034={
 	name=character_name_10110034 # Tadanori
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110026 # Taira Tadamori
 	religion="shinto"
 	culture=yamato
@@ -643,7 +643,7 @@
 10110035={
 	name=character_name_10110035 # Tadako
 	female=yes
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110026 # Taira Tadamori
 	religion="shinto"
 	culture=yamato
@@ -728,7 +728,7 @@
 }
 10110042={
 	name=character_name_10110042 # Munemori
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110025 # Taira Kiyomori
 	mother=10110650 # Taira Tokiko
 	religion="shinto"
@@ -774,7 +774,7 @@
 }
 10110043={
 	name=character_name_10110043 # Tomomori
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110025 # Taira Kiyomori
 	mother=10110650 # Taira Tokiko
 	religion="shinto"
@@ -818,7 +818,7 @@
 10110044={
 	name=character_name_10110044 # Tokuko
 	female=yes
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110025 # Taira Kiyomori
 	mother=10110650 # Taira Tokiko
 	religion="shinto"
@@ -834,7 +834,7 @@
 10110045={
 	name=character_name_10110045 # Moriko
 	female=yes
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110025 # Taira Kiyomori
 	religion="shinto"
 	culture=yamato
@@ -848,7 +848,7 @@
 }
 10110046={
 	name=character_name_10110046 # Shigehira
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110025 # Taira Kiyomori
 	mother=10110650 # Taira Tokiko
 	religion="shinto"
@@ -892,7 +892,7 @@
 10110047={
 	name=character_name_10110047 # Seiko
 	female=yes
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110025 # Taira Kiyomori
 	religion="shinto"
 	culture=yamato
@@ -907,7 +907,7 @@
 10110048={
 	name=character_name_10110048 # Sadako
 	female=yes
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110025 # Taira Kiyomori
 	religion="shinto"
 	culture=yamato
@@ -921,7 +921,7 @@
 }
 10110049={
 	name=character_name_10110049 # Tomonori
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110025 # Taira Kiyomori
 	religion="shinto"
 	culture=yamato
@@ -943,7 +943,7 @@
 }
 10110050={
 	name=character_name_10110050 # Kiyofusa
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110025 # Taira Kiyomori
 	religion="shinto"
 	culture=yamato
@@ -958,7 +958,7 @@
 10110051={
 	name=character_name_10110051 # Miko
 	female=yes
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110025 # Taira Kiyomori
 	mother=10110036 # Itsukushima
 	religion="shinto"
@@ -1255,7 +1255,7 @@
 }
 10110075={
 	name=character_name_10110075 # Kiyomune
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110042 # Taira Munemori
 	mother=10110654 # Taira Kiyoko
 	religion="shinto"
@@ -1295,7 +1295,7 @@
 }
 10110076={
 	name=character_name_10110076 # Yoshimune
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110042 # Taira Munemori
 	religion="shinto"
 	culture=yamato
@@ -1316,7 +1316,7 @@
 }
 10110080={
 	name=character_name_10110080 # Tomoakira
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110043 # Taira Tomomori
 	mother=10110052 # Jibu
 	religion="shinto"
@@ -1341,7 +1341,7 @@
 }
 10110081={
 	name=character_name_10110081 # Zosei
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110043 # Taira Tomomori
 	religion="shinto"
 	culture=yamato
@@ -1355,7 +1355,7 @@
 }
 10110082={
 	name=character_name_10110082 # Tomotada
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110043 # Taira Tomomori
 	mother=10110052 # Jibu
 	religion="shinto"
@@ -1371,7 +1371,7 @@
 10110083={
 	name=character_name_10110083 # Tomoko
 	female=yes
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110043 # Taira Tomomori
 	mother=10110052 # Jibu
 	religion="shinto"
@@ -1386,7 +1386,7 @@
 }
 10110084={
 	name=character_name_10110084 # Tomomune
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110043 # Taira Tomomori
 	religion="shinto"
 	culture=yamato
@@ -1401,7 +1401,7 @@
 10110090={
 	name=character_name_10110090 # Ieko
 	female=yes
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110030 # Taira Iemori
 	religion="shinto"
 	culture=yamato
@@ -1415,7 +1415,7 @@
 }
 10110100={
 	name=character_name_10110100 # Tsunemasa
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110031 # Taira Tsunemori
 	religion="shinto"
 	culture=yamato
@@ -1435,7 +1435,7 @@
 }
 10110101={
 	name=character_name_10110101 # Tsunetoshi
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110031 # Taira Tsunemori
 	religion="shinto"
 	culture=yamato
@@ -1455,7 +1455,7 @@
 }
 10110102={
 	name=character_name_10110102 # Atsumori
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110031 # Taira Tsunemori
 	mother=10110037 # Fuji
 	religion="shinto"
@@ -1483,7 +1483,7 @@
 }
 10110110={
 	name=character_name_10110110 # Michimori
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110032 # Taira Norimori
 	mother=11004038 # Hino Noriko
 	religion="shinto"
@@ -1514,7 +1514,7 @@
 }
 10110111={
 	name=character_name_10110111 # Noritsune
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110032 # Taira Norimori
 	mother=11004038 # Hino Noriko
 	religion="shinto"
@@ -1551,7 +1551,7 @@
 10110112={
 	name=character_name_10110112 # Noriko
 	female=yes
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110032 # Taira Norimori
 	mother=11004038 # Hino Noriko
 	religion="shinto"
@@ -1566,7 +1566,7 @@
 }
 10110113={
 	name=character_name_10110113 # Chukai
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110032 # Taira Norimori
 	religion="shinto"
 	culture=yamato
@@ -1580,7 +1580,7 @@
 }
 10110114={
 	name=character_name_10110114 # Narimori
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110032 # Taira Norimori
 	mother=11004038 # Hino Noriko
 	religion="shinto"
@@ -1615,7 +1615,7 @@
 10110120={
 	name=character_name_10110120 # Yoriko
 	female=yes
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110033 # Taira Yorimori
 	religion="shinto"
 	culture=yamato
@@ -1629,7 +1629,7 @@
 }
 10110121={
 	name=character_name_10110121 # Yasumori
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110033 # Taira Yorimori
 	religion="shinto"
 	culture=yamato
@@ -1669,7 +1669,7 @@
 }
 10110122={
 	name=character_name_10110122 # Tamemori
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110033 # Taira Yorimori
 	religion="shinto"
 	culture=yamato
@@ -1698,7 +1698,7 @@
 }
 10110123={
 	name=character_name_10110123 # Yasunari
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110033 # Taira Yorimori
 	religion="shinto"
 	culture=yamato
@@ -1712,7 +1712,7 @@
 }
 10110124={
 	name=character_name_10110124 # Nakamori
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110033 # Taira Yorimori
 	religion="shinto"
 	culture=yamato
@@ -1726,7 +1726,7 @@
 }
 10110125={
 	name=character_name_10110125 # Mitsumori
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110033 # Taira Yorimori
 	religion="shinto"
 	culture=yamato
@@ -1790,7 +1790,7 @@
 }
 10110130={
 	name=character_name_10110130 # Tadayuki
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110034 # Taira Tadanori
 	mother=12550031 # Kumano Yasuko
 	religion="shinto"
@@ -1805,7 +1805,7 @@
 }
 10110140={
 	name=character_name_10110140 # Kiyosada
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110025 # Taira Kiyomori
 	religion="shinto"
 	culture=yamato
@@ -1828,7 +1828,7 @@
 }
 10110141={
 	name=character_name_10110141 # Kiyokuni
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110025 # Taira Kiyomori
 	religion="shinto"
 	culture=yamato
@@ -1889,7 +1889,7 @@
 }
 10110200={
 	name=character_name_10110200 # Kimimasa
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110003 # Taira no Yoshikane
 	religion="shinto"
 	culture=yamato
@@ -1904,7 +1904,7 @@
 }
 10110201={
 	name=character_name_10110201 # Kimitsura
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110003 # Taira no Yoshikane
 	religion="shinto"
 	culture=yamato
@@ -1919,7 +1919,7 @@
 }
 10110202={
 	name=character_name_10110202 # Kimimoto
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110003 # Taira no Yoshikane
 	religion="shinto"
 	culture=yamato
@@ -1935,7 +1935,7 @@
 10110203={
 	female=yes
 	name=character_name_10110203 # Yoshiko
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110003 # Taira no Yoshikane
 	religion="shinto"
 	culture=yamato
@@ -1950,7 +1950,7 @@
 }
 10110204={
 	name=character_name_10110204 # Muneaki
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110200 # Taira Kimimasa
 	religion="shinto"
 	culture=yamato
@@ -1965,7 +1965,7 @@
 }
 10110205={
 	name=character_name_10110205 # Munenari
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110200 # Taira Kimimasa
 	religion="shinto"
 	culture=yamato
@@ -1980,7 +1980,7 @@
 }
 10110206={
 	name=character_name_10110206 # Muneyori
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110200 # Taira Kimimasa
 	religion="shinto"
 	culture=yamato
@@ -1995,7 +1995,7 @@
 }
 10110207={
 	name=character_name_10110207 # Munemitsu
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110200 # Taira Kimimasa
 	religion="shinto"
 	culture=yamato
@@ -2011,7 +2011,7 @@
 10110208={
 	female=yes
 	name=character_name_10110208 # Kimiko
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110200 # Taira Kimimasa
 	religion="shinto"
 	culture=yamato
@@ -2027,7 +2027,7 @@
 10110209={
 	female=yes
 	name=character_name_10110209 # Masako
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110200 # Taira Kimimasa
 	religion="shinto"
 	culture=yamato
@@ -2042,7 +2042,7 @@
 }
 10110210={
 	name=character_name_10110210 # Norisue
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110019 # Taira Sadasue
 	religion="shinto"
 	culture=yamato
@@ -2057,7 +2057,7 @@
 }
 10110211={
 	name=character_name_10110211 # Kanesue
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110019 # Taira Sadasue
 	religion="shinto"
 	culture=yamato
@@ -2072,7 +2072,7 @@
 }
 10110215={
 	name=character_name_10110215 # Iesada
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110210 # Taira Norisue
 	religion="shinto"
 	culture=yamato
@@ -2088,7 +2088,7 @@
 }
 10110216={
 	name=character_name_10110216 # Suemune
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110210 # 
 	religion="shinto"
 	culture=yamato
@@ -2102,7 +2102,7 @@
 }
 10110220={
 	name=character_name_10110220 # Ietsugu
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110215 # Taira Iesada
 	religion="shinto"
 	culture=yamato
@@ -2118,7 +2118,7 @@
 }
 10110221={
 	name=character_name_10110221 # Sadayoshi
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110215 # Taira Iesada
 	religion="shinto"
 	culture=yamato
@@ -2145,7 +2145,7 @@
 }
 10110222={
 	name=character_name_10110222 # Iezane
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110215 # Taira Iesada
 	religion="shinto"
 	culture=yamato
@@ -2160,7 +2160,7 @@
 }
 10110223={
 	name=character_name_10110223 # Ienaga
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110215 # 
 	religion="shinto"
 	culture=yamato
@@ -2179,7 +2179,7 @@
 }
 10110224={
 	name=character_name_10110224 # Nagatsuna
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110215 # 
 	religion="shinto"
 	culture=yamato
@@ -2197,7 +2197,7 @@
 }
 10110225={
 	name=character_name_10110225 # Iekane
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110220 # Taira Ietsugu
 	religion="shinto"
 	culture=yamato
@@ -2212,7 +2212,7 @@
 }
 10110230={
 	name=character_name_10110230 # Morikane
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110211 # Taira Kanesue
 	religion="shinto"
 	culture=yamato
@@ -2227,7 +2227,7 @@
 }
 10110234={
 	name=character_name_10110234 # Nobutada
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110230 # 
 	religion="shinto"
 	culture=yamato
@@ -2244,7 +2244,7 @@
 }
 10110235={
 	name=character_name_10110235 # Nobukane
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110230 # Taira Morikane
 	religion="shinto"
 	culture=yamato
@@ -2268,7 +2268,7 @@
 }
 10110236={
 	name=character_name_10110236 # Kanetaka
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110235 # Taira Nobukane
 	religion="shinto"
 	culture=yamato
@@ -2284,7 +2284,7 @@
 }
 10110237={
 	name=character_name_10110237 # Kanehira
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110235 # Taira Nobukane
 	religion="shinto"
 	culture=yamato
@@ -2299,7 +2299,7 @@
 }
 10110238={
 	name=character_name_10110238 # Nobuhira
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110235 # Taira Nobukane
 	religion="shinto"
 	culture=yamato
@@ -2314,7 +2314,7 @@
 }
 10110239={
 	name=character_name_10110239 # Kanetoki
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110235 # Taira Nobukane
 	religion="shinto"
 	culture=yamato
@@ -2329,7 +2329,7 @@
 }
 10110240={
 	name=character_name_10110240 # Moriyasu
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110020 # Taira Suehira
 	religion="shinto"
 	culture=yamato
@@ -2344,7 +2344,7 @@
 }
 10110241={
 	name=character_name_10110241 # Morimitsu
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110020 # 
 	religion="shinto"
 	culture=yamato
@@ -2358,7 +2358,7 @@
 }
 10110245={
 	name=character_name_10110245 # Morikuni
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110240 # Taira Moriyasu
 	religion="shinto"
 	culture=yamato
@@ -2379,7 +2379,7 @@
 }
 10110250={
 	name=character_name_10110250 # Moritoshi
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110245 # Taira Morikuni
 	religion="shinto"
 	culture=yamato
@@ -2407,7 +2407,7 @@
 }
 10110251={
 	name=character_name_10110251 # Morihisa
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110245 # Taira Morikuni
 	religion="shinto"
 	culture=yamato
@@ -2422,7 +2422,7 @@
 }
 10110255={
 	name=character_name_10110255 # Moritsuna
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110250 # Taira Moritoshi
 	religion="shinto"
 	culture=yamato
@@ -2446,7 +2446,7 @@
 }
 10110256={
 	name=character_name_10110256 # Moritsugu
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110250 # Taira Moritoshi
 	religion="shinto"
 	culture=yamato
@@ -2470,7 +2470,7 @@
 }
 10110260={
 	name=character_name_10110260 # Morimoto
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110018 # 
 	religion="shinto"
 	culture=yamato
@@ -2484,7 +2484,7 @@
 }
 10110261={
 	name=character_name_10110261 # Morikuni
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110260 # 
 	religion="shinto"
 	culture=yamato
@@ -2498,7 +2498,7 @@
 }
 10110262={
 	name=character_name_10110262 # Kunifusa
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110261 # 
 	religion="shinto"
 	culture=yamato
@@ -2512,7 +2512,7 @@
 }
 10110263={
 	name=character_name_10110263 # Moritoki
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110262 # 
 	religion="shinto"
 	culture=yamato
@@ -2526,7 +2526,7 @@
 }
 10110264={
 	name=character_name_10110264 # Moritsuna
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110263 # 
 	religion="shinto"
 	culture=yamato
@@ -2541,7 +2541,7 @@
 }
 10110265={
 	name=character_name_10110265 # Moritoki
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110264 # 
 	religion="shinto"
 	culture=yamato
@@ -2555,7 +2555,7 @@
 }
 10110266={
 	name=character_name_10110266 # Yoritsuna
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110264 # 
 	religion="shinto"
 	culture=yamato
@@ -2583,7 +2583,7 @@
 }
 10110268={
 	name=character_name_10110268 # Munetsuna
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110266 # 
 	religion="shinto"
 	culture=yamato
@@ -2597,7 +2597,7 @@
 }
 10110269={
 	name=character_name_10110269 # Sukemune
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110266 # 
 	religion="shinto"
 	culture=yamato
@@ -2611,7 +2611,7 @@
 }
 10110270={
 	name=character_name_10110270 # Yorimoto
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110266 # 
 	religion="shinto"
 	culture=yamato
@@ -2709,7 +2709,7 @@
 }
 10110280={
 	name=character_name_10110280 # Munekiyo
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110216 # 
 	religion="shinto"
 	culture=yamato
@@ -2726,7 +2726,7 @@
 }
 10110285={
 	name=character_name_10110285 # Iekiyo
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110280 # 
 	religion="shinto"
 	culture=yamato
@@ -2743,7 +2743,7 @@
 }
 10110290={
 	name=character_name_10110290 # Moriyuki
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110241 # 
 	religion="shinto"
 	culture=yamato
@@ -2757,7 +2757,7 @@
 }
 10110291={
 	name=character_name_10110291 # Yorimune
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110290 # 
 	religion="shinto"
 	culture=yamato
@@ -2774,7 +2774,7 @@
 }
 10110292={
 	name=character_name_10110292 # Yoritoshi
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110291 # 
 	religion="shinto"
 	culture=yamato
@@ -2788,7 +2788,7 @@
 }
 10110293={
 	name=character_name_10110293 # Toshitune
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110292 # 
 	religion="shinto"
 	culture=yamato
@@ -2802,7 +2802,7 @@
 }
 10110300={
 	name=character_name_10110300 # Masaie
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110017 # 
 	religion="shinto"
 	culture=yamato
@@ -2816,7 +2816,7 @@
 }
 10110301={
 	name=character_name_10110301 # Sadahiro
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110017 # 
 	religion="shinto"
 	culture=yamato
@@ -2830,7 +2830,7 @@
 }
 10110302={
 	name=character_name_10110302 # Sukemori
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110300 # 
 	religion="shinto"
 	culture=yamato
@@ -2844,7 +2844,7 @@
 }
 10110303={
 	name=character_name_10110303 # Atsumori
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110302 # 
 	religion="shinto"
 	culture=yamato
@@ -2858,7 +2858,7 @@
 }
 10110304={
 	name=character_name_10110304 # Arimori
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110303 # 
 	religion="shinto"
 	culture=yamato
@@ -2890,7 +2890,7 @@
 }
 10110306={
 	name=character_name_10110306 # Masahiro
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110301 # 
 	religion="shinto"
 	culture=yamato
@@ -2904,7 +2904,7 @@
 }
 10110307={
 	name=character_name_10110307 # Iehiro
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110306 # 
 	religion="shinto"
 	culture=yamato
@@ -2918,7 +2918,7 @@
 }
 10110308={
 	name=character_name_10110308 # Yorihiro
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110307 # 
 	religion="shinto"
 	culture=yamato
@@ -2950,7 +2950,7 @@
 }
 10110400={
 	name=character_name_10110400 # Masamochi
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110004 # Yoshimasa
 	religion="shinto"
 	culture=yamato
@@ -2964,7 +2964,7 @@
 }
 10110401={
 	name=character_name_10110401 # Masahiro
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110004 # Yoshimasa
 	religion="shinto"
 	culture=yamato
@@ -2978,7 +2978,7 @@
 }
 10110402={
 	name=character_name_10110402 # Masakado
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110004 # Yoshimasa
 	religion="shinto"
 	culture=yamato
@@ -2995,7 +2995,7 @@
 }
 10110403={
 	name=character_name_10110403 # Masayori
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110004 # Yoshimasa
 	religion="shinto"
 	culture=yamato
@@ -3012,7 +3012,7 @@
 }
 10110404={
 	name=character_name_10110404 # Masahira
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110004 # Yoshimasa
 	religion="shinto"
 	culture=yamato
@@ -3029,7 +3029,7 @@
 }
 10110405={
 	name=character_name_10110405 # Masafumi
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110004 # Yoshimasa
 	religion="shinto"
 	culture=yamato
@@ -3043,7 +3043,7 @@
 }
 10110406={
 	name=character_name_10110406 # Masatame
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110004 # Yoshimasa
 	religion="shinto"
 	culture=yamato
@@ -3060,7 +3060,7 @@
 }
 10110407={
 	name=character_name_10110407 # Masatake
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110004 # Yoshimasa
 	religion="shinto"
 	culture=yamato
@@ -3077,7 +3077,7 @@
 }
 10110408={
 	name=character_name_10110408 # Munetoki
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110004 # Yoshimasa
 	religion="shinto"
 	culture=yamato
@@ -3091,7 +3091,7 @@
 }
 10110409={
 	name=character_name_10110409 # Sadatoki
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110004 # Yoshimasa
 	religion="shinto"
 	culture=yamato
@@ -3105,7 +3105,7 @@
 }
 10110410={
 	name=character_name_10110410 # Yoshikado
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110402 # Taira Masakado
 	mother=10110203
 	religion="shinto"
@@ -3121,7 +3121,7 @@
 10110411={
 	name=character_name_10110411 # Satsuki
 	female=yes
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110402 # Taira Masakado
 	mother=10110203
 	religion="shinto"
@@ -3136,7 +3136,7 @@
 }
 10110412={
 	name=character_name_10110412 # Masakuni
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110402 # Taira Masakado
 	mother=10110203
 	religion="shinto"
@@ -3152,7 +3152,7 @@
 10110413={
 	name=character_name_10110413 # Haru
 	female=yes
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110402 # Taira Masakado
 	mother=10110203
 	religion="shinto"
@@ -3167,7 +3167,7 @@
 }
 10110420={
 	name=character_name_10110420 # Sadamoto
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110409 # Taira Sadatoki
 	religion="shinto"
 	culture=yamato
@@ -3181,7 +3181,7 @@
 }
 10110421={
 	name=character_name_10110421 # Suemoto
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110420 # Taira Sadamoto
 	religion="shinto"
 	culture=yamato
@@ -3195,7 +3195,7 @@
 }
 10110422={
 	name=character_name_10110422 # Kanesuke
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110421 # Taira Suemoto
 	religion="shinto"
 	culture=yamato
@@ -3209,7 +3209,7 @@
 }
 10110423={
 	name=character_name_10110423 # Kaneshige
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110422 # Taira Kanesuke
 	religion="shinto"
 	culture=yamato
@@ -3223,7 +3223,7 @@
 }
 10110424={
 	name=character_name_10110424 # Yoshitada
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110422 # Taira Kanesuke
 	religion="shinto"
 	culture=yamato
@@ -3238,7 +3238,7 @@
 10110499={
 	name=character_name_10110499 # Mochiko
 	female=yes
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110001 # Taira Takamochi
 	religion="shinto"
 	culture=yamato
@@ -3252,7 +3252,7 @@
 }
 10110500={
 	name=character_name_10110500 # Yoshifumi
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110001 # Taira Takamochi
 	religion="shinto"
 	culture=yamato
@@ -3270,7 +3270,7 @@
 }
 10110501={
 	name=character_name_10110501 # Tadasuke
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110500 # Taira Yoshifumi
 	religion="shinto"
 	culture=yamato
@@ -3284,7 +3284,7 @@
 }
 10110502={
 	name=character_name_10110502 # Tadayori
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110500 # Taira Yoshifumi
 	religion="shinto"
 	culture=yamato
@@ -3307,7 +3307,7 @@
 }
 10110503={
 	name=character_name_10110503 # Tadamitsu
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110500 # Taira Yoshifumi
 	religion="shinto"
 	culture=yamato
@@ -3321,7 +3321,7 @@
 }
 10110510={
 	name=character_name_10110510 # Tadatsune
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110502 # Taira Tadayori
 	mother=10110413 # Taira Haru
 	religion="shinto"
@@ -3336,7 +3336,7 @@
 }
 10110511={
 	name=character_name_10110511 # Masatsune
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110502 # Taira Tadayori
 	mother=10110413
 	religion="shinto"
@@ -3358,7 +3358,7 @@
 }
 10110512={
 	name=character_name_10110512 # Yoritaka
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110502 # Taira Tadayori
 	religion="shinto"
 	culture=yamato
@@ -3372,7 +3372,7 @@
 }
 10110520={
 	name=character_name_10110520 # Tsunemasa
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110510 # Taira Tadatsune
 	religion="shinto"
 	culture=yamato
@@ -3387,7 +3387,7 @@
 }
 10110521={
 	name=character_name_10110521 # Tsunechika
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110510 # Taira Tadatsune
 	religion="shinto"
 	culture=yamato
@@ -3401,7 +3401,7 @@
 }
 10110522={
 	name=character_name_10110522 # Tanemune
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110510 # Taira Tadatsune
 	religion="shinto"
 	culture=yamato
@@ -3415,7 +3415,7 @@
 }
 10110530={
 	name=character_name_10110530 # Tsunenaga
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110520 # Taira Tsunemasa
 	religion="shinto"
 	culture=yamato
@@ -3430,7 +3430,7 @@
 }
 10110531={
 	name=character_name_10110531 # Tsunenao
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110520 # Taira Tsunemasa
 	religion="shinto"
 	culture=yamato
@@ -3444,7 +3444,7 @@
 }
 10110535={
 	name=character_name_10110535 # Tsuneie
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110530 # Taira Tsunenaga
 	religion="shinto"
 	culture=yamato
@@ -3458,7 +3458,7 @@
 }
 10110540={
 	name=character_name_10110540 # Motomune
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110522 # Taira Tanemune
 	religion="shinto"
 	culture=yamato
@@ -3472,7 +3472,7 @@
 }
 10110545={
 	name=character_name_10110545 # Motonoga
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110522 # Taira Motomune
 	religion="shinto"
 	culture=yamato
@@ -3486,7 +3486,7 @@
 }
 10110546={
 	name=character_name_10110546 # Yorito
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110540 # Taira Motomune
 	religion="shinto"
 	culture=yamato
@@ -3500,7 +3500,7 @@
 }
 10110550={
 	name=character_name_10110550 # Yoriie
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110546 # Taira Yorito
 	religion="shinto"
 	culture=yamato
@@ -3514,7 +3514,7 @@
 }
 10110560={
 	name=character_name_10110560 # Tsuneto
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110511 # Taira Masatsune
 	mother=10110586
 	religion="shinto"
@@ -3529,7 +3529,7 @@
 }
 10110570={
 	name=character_name_10110570 # Tsuneto
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110512 # Taira Yoritaka
 	religion="shinto"
 	culture=yamato
@@ -3543,7 +3543,7 @@
 }
 10110575={
 	name=character_name_10110575 # Tsunemune
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110570 # Taira Tsuneto
 	religion="shinto"
 	culture=yamato
@@ -3557,7 +3557,7 @@
 }
 10110580={
 	name=character_name_10110580 # Sadamitsu
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110503 # Taira Tadamitsu
 	religion="shinto"
 	culture=yamato
@@ -3571,7 +3571,7 @@
 }
 10110585={
 	name=character_name_10110585 # Tadamichi
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110580 # Taira Sadamitsu
 	religion="shinto"
 	culture=yamato
@@ -3586,7 +3586,7 @@
 10110586={
 	name=character_name_10110586 # Michiko
 	female=yes
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110585 # Taira Tadamichi
 	religion="shinto"
 	culture=yamato

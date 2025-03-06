@@ -6226,7 +6226,7 @@
 }
 12200000={
 	name=character_name_12200000 # Takemoto
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110511 # Taira Masatsune
 	mother=10260603
 	religion="shinto"
@@ -7927,7 +7927,7 @@
 }
 12201000={
 	name=character_name_12201000 # Taketsune
-	dynasty=10001100 # Taira
+	dynasty_house=10001100 # Taira
 	father=10110511 # Taira Masatsune
 	mother=10110586
 	religion="shinto"

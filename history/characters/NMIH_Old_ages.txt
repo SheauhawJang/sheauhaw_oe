@@ -19262,7 +19262,7 @@
 }
 11042010={
 	name=character_name_11042010 # Narihira
-	dynasty=10005121 # Ariwara
+	dynasty_house=10005121 # Ariwara
 	father=11042000 # Yamato Abo
 	religion="shinto"
 	culture=yamato #"aristocrats"
@@ -19275,7 +19275,7 @@
 }
 11042011={
 	name=character_name_11042011 # Munehari
-	dynasty=10005121 # Ariwara
+	dynasty_house=10005121 # Ariwara
 	father=11042010 # Ariwara Narihira
 	religion="shinto"
 	culture=yamato #"aristocrats"
@@ -19288,7 +19288,7 @@
 }
 11042012={
 	name=character_name_11042012 # Shigeharu
-	dynasty=10005121 # Ariwara
+	dynasty_house=10005121 # Ariwara
 	father=11042010 # Ariwara Narihira
 	religion="shinto"
 	culture=yamato #"aristocrats"
@@ -19301,7 +19301,7 @@
 }
 11042015={
 	name=character_name_11042015 # Motokata
-	dynasty=10005121 # Ariwara
+	dynasty_house=10005121 # Ariwara
 	father=11042011 # Ariwara Munehari
 	religion="shinto"
 	culture=yamato #"aristocrats"
@@ -19315,7 +19315,7 @@
 11042016={
 	name=character_name_11042016 # Jiju
 	female=yes
-	dynasty=10005121 # Ariwara
+	dynasty_house=10005121 # Ariwara
 	father=11042011 # Ariwara Munehari
 	religion="shinto"
 	culture=yamato #"aristocrats"
